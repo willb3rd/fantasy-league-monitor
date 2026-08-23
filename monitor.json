@@ -1,0 +1,650 @@
+{
+  "ok": true,
+  "generated_at": "2026-08-23T21:11:22.305Z",
+  "league_id": "1374067474252701696",
+  "league_name": "Inglourious Basterds 2026",
+  "season": "2026",
+  "week": "1",
+  "week_source": "league_leg",
+  "transaction_count": 9,
+  "latest_transaction_id": "1396318182188273664",
+  "latest_transaction_created": 1787270706273,
+  "transactions": [
+    {
+      "transaction_id": "1396318182188273664",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787270706273,
+      "status_updated": 1787321091740,
+      "creator_id": "997594557602701312",
+      "creator_team": "dwilliamson4",
+      "roster_ids": [
+        11
+      ],
+      "adds": {
+        "9754": 11
+      },
+      "drops": {},
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1395852073739776000",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787159577358,
+      "status_updated": 1787159577358,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": {
+        "12474": 12
+      },
+      "drops": {},
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1395842571086888960",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787157311749,
+      "status_updated": 1787157311749,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": {},
+      "drops": {
+        "12484": 12
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1395819633310695424",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787151842957,
+      "status_updated": 1787151842957,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": {
+        "1479": 9
+      },
+      "drops": {
+        "9754": 9
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1395088540626350080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786977536879,
+      "status_updated": 1786977536879,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": {
+        "11576": 8
+      },
+      "drops": {
+        "8161": 8
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1394867455578341376",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786924826095,
+      "status_updated": 1786924826095,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": {
+        "6650": 5
+      },
+      "drops": {
+        "2020": 5
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1394831779172478976",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786916320177,
+      "status_updated": 1786916320177,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": {
+        "BAL": 9
+      },
+      "drops": {
+        "IND": 9
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1394827430669090816",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786915283413,
+      "status_updated": 1786915283413,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": {
+        "11581": 7
+      },
+      "drops": {
+        "11589": 7
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1394825181020553216",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786914747055,
+      "status_updated": 1786914747055,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": {
+        "4035": 12
+      },
+      "drops": {
+        "12545": 12
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
+  "rosters": [
+    {
+      "roster_id": 1,
+      "owner_id": "997587248801533952",
+      "team_name": "Hurts Donit?",
+      "display_name": "ApeArms",
+      "waiver_position": 9,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "10219",
+        "11563",
+        "11604",
+        "12533",
+        "3214",
+        "3451",
+        "5927",
+        "6904",
+        "7543",
+        "7569",
+        "8126",
+        "8228",
+        "9500",
+        "9509",
+        "PHI"
+      ],
+      "starters": [
+        "6904",
+        "9509",
+        "8228",
+        "7569",
+        "5927",
+        "11604",
+        "9500",
+        "3451",
+        "PHI"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 2,
+      "owner_id": "997580979944402944",
+      "team_name": "Dicker? I barely know her",
+      "display_name": "Hellsarmorer",
+      "waiver_position": 3,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11584",
+        "11632",
+        "12534",
+        "2216",
+        "421",
+        "5012",
+        "5844",
+        "5947",
+        "6804",
+        "8112",
+        "8138",
+        "8142",
+        "8154",
+        "8259",
+        "HOU"
+      ],
+      "starters": [
+        "421",
+        "8138",
+        "11584",
+        "8112",
+        "11632",
+        "5012",
+        "2216",
+        "8259",
+        "HOU"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 3,
+      "owner_id": "726913994950021120",
+      "team_name": "America’s Tight End",
+      "display_name": "ajpal1323",
+      "waiver_position": 7,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "10859",
+        "11539",
+        "11564",
+        "11586",
+        "11655",
+        "13286",
+        "13726",
+        "2133",
+        "3163",
+        "4037",
+        "6790",
+        "8110",
+        "8151",
+        "9488",
+        "NE"
+      ],
+      "starters": [
+        "11564",
+        "8151",
+        "6790",
+        "9488",
+        "2133",
+        "10859",
+        "13286",
+        "11539",
+        "NE"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 4,
+      "owner_id": "997584125194194944",
+      "team_name": "CommOnEverybody",
+      "display_name": "ScreamQuietly69",
+      "waiver_position": 10,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11786",
+        "12490",
+        "12493",
+        "12506",
+        "13293",
+        "1466",
+        "4983",
+        "4984",
+        "5892",
+        "7525",
+        "7567",
+        "8121",
+        "8676",
+        "9493",
+        "LAR"
+      ],
+      "starters": [
+        "4984",
+        "12490",
+        "5892",
+        "9493",
+        "7525",
+        "12506",
+        "4983",
+        "11786",
+        "LAR"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 5,
+      "owner_id": "464852020482797568",
+      "team_name": "GnomSayin",
+      "display_name": "jakeeallen",
+      "waiver_position": 8,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "12489",
+        "12517",
+        "13287",
+        "13417",
+        "2449",
+        "3198",
+        "6650",
+        "7523",
+        "7526",
+        "7564",
+        "7611",
+        "8134",
+        "8167",
+        "8183",
+        "DET"
+      ],
+      "starters": [
+        "7523",
+        "3198",
+        "13287",
+        "7564",
+        "8167",
+        "12517",
+        "7526",
+        "6650",
+        "DET"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 6,
+      "owner_id": "1032429157571096576",
+      "team_name": "Jonathan(Taylor’sVersion)",
+      "display_name": "Skylier",
+      "waiver_position": 6,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "10236",
+        "11624",
+        "11792",
+        "13288",
+        "13298",
+        "4866",
+        "4943",
+        "6797",
+        "6801",
+        "6813",
+        "6819",
+        "8148",
+        "8150",
+        "9756",
+        "MIN"
+      ],
+      "starters": [
+        "6797",
+        "6813",
+        "4866",
+        "6801",
+        "8148",
+        "10236",
+        "8150",
+        "11792",
+        "MIN"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 7,
+      "owner_id": "1256653358719053824",
+      "team_name": "Chuba Chuba Choo Choo",
+      "display_name": "03jclif",
+      "waiver_position": 5,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11581",
+        "11631",
+        "12507",
+        "12514",
+        "13345",
+        "4046",
+        "5849",
+        "7002",
+        "7547",
+        "7553",
+        "7594",
+        "7839",
+        "8144",
+        "9511",
+        "JAX"
+      ],
+      "starters": [
+        "4046",
+        "12507",
+        "7594",
+        "7547",
+        "8144",
+        "7553",
+        "12514",
+        "7839",
+        "JAX"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 8,
+      "owner_id": "859001230779871232",
+      "team_name": "Diamond Dawgz",
+      "display_name": "MarkRice92192",
+      "waiver_position": 4,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "10229",
+        "11560",
+        "11576",
+        "11628",
+        "12015",
+        "12519",
+        "4199",
+        "5022",
+        "5872",
+        "5967",
+        "6786",
+        "8131",
+        "8155",
+        "9226",
+        "PIT"
+      ],
+      "starters": [
+        "11560",
+        "9226",
+        "8155",
+        "6786",
+        "10229",
+        "8131",
+        "12519",
+        "12015",
+        "PIT"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 9,
+      "owner_id": "997588269191708672",
+      "team_name": "Jahmyr Force One",
+      "display_name": "ZynDaddyWebb",
+      "waiver_position": 11,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11620",
+        "12481",
+        "12508",
+        "12518",
+        "13279",
+        "13294",
+        "13330",
+        "1479",
+        "2747",
+        "4881",
+        "5045",
+        "8132",
+        "8137",
+        "9221",
+        "BAL"
+      ],
+      "starters": [
+        "4881",
+        "9221",
+        "12481",
+        "8137",
+        "13279",
+        "12518",
+        "11620",
+        "2747",
+        "BAL"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 10,
+      "owner_id": "997960054936584192",
+      "team_name": "McLovin’ It",
+      "display_name": "Cynniee",
+      "waiver_position": 2,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "10222",
+        "10232",
+        "11635",
+        "12512",
+        "12526",
+        "12527",
+        "13274",
+        "1945",
+        "3294",
+        "4892",
+        "5846",
+        "8130",
+        "8408",
+        "9480",
+        "SEA"
+      ],
+      "starters": [
+        "3294",
+        "12527",
+        "12512",
+        "12526",
+        "11635",
+        "8130",
+        "10222",
+        "1945",
+        "SEA"
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 11,
+      "owner_id": "997594557602701312",
+      "team_name": "dwilliamson4",
+      "display_name": "dwilliamson4",
+      "waiver_position": 12,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11533",
+        "12501",
+        "12529",
+        "13281",
+        "4033",
+        "4034",
+        "4217",
+        "5850",
+        "5859",
+        "6770",
+        "6806",
+        "8146",
+        "9502",
+        "9753",
+        "9754",
+        "GB"
+      ],
+      "starters": [
+        "6770",
+        "4034",
+        "5850",
+        "5859",
+        "8146",
+        "4217",
+        "12529",
+        "11533",
+        "GB"
+      ],
+      "reserve": [
+        "13281"
+      ]
+    },
+    {
+      "roster_id": 12,
+      "owner_id": "1328994047599071232",
+      "team_name": "JD Chase'n Flowers 4 Mama",
+      "display_name": "willb3rd",
+      "waiver_position": 1,
+      "waiver_budget_used": 0,
+      "total_moves": 0,
+      "players": [
+        "11566",
+        "11583",
+        "11646",
+        "12474",
+        "4035",
+        "5189",
+        "6794",
+        "7021",
+        "7588",
+        "8136",
+        "9224",
+        "9484",
+        "9487",
+        "9997",
+        "DEN"
+      ],
+      "starters": [
+        "11566",
+        "9224",
+        "7588",
+        "9487",
+        "9997",
+        "9484",
+        "6794",
+        "5189",
+        "DEN"
+      ],
+      "reserve": []
+    }
+  ],
+  "published_at": "2026-08-23T21:11:22.435Z"
+}
