@@ -1,15 +1,35 @@
 {
   "ok": true,
-  "generated_at": "2026-08-23T21:11:22.305Z",
+  "generated_at": "2026-08-23T22:00:44.279Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
   "week": "1",
   "week_source": "league_leg",
-  "transaction_count": 9,
-  "latest_transaction_id": "1396318182188273664",
-  "latest_transaction_created": 1787270706273,
+  "transaction_count": 10,
+  "latest_transaction_id": "1397369068238974976",
+  "latest_transaction_created": 1787521257031,
   "transactions": [
+    {
+      "transaction_id": "1397369068238974976",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787521257031,
+      "status_updated": 1787521257031,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": {
+        "13305": 8
+      },
+      "drops": {
+        "5872": 8
+      },
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1396318182188273664",
       "type": "waiver",
@@ -467,9 +487,9 @@
         "11628",
         "12015",
         "12519",
+        "13305",
         "4199",
         "5022",
-        "5872",
         "5967",
         "6786",
         "8131",
@@ -646,5 +666,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-23T21:11:22.435Z"
+  "published_at": "2026-08-23T22:00:44.504Z"
 }
