@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-24T21:00:44.265Z",
+  "generated_at": "2026-08-25T17:00:43.617Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -287,7 +287,7 @@
           "player_id": "11589",
           "name": "Trey Benson",
           "position": "RB",
-          "team": "ARI",
+          "team": null,
           "status": "Active",
           "roster_id": 7
         }
@@ -2531,5 +2531,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-24T21:00:44.684Z"
+  "published_at": "2026-08-25T17:00:44.025Z"
 }
