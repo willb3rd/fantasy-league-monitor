@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-25T19:00:43.883Z",
+  "generated_at": "2026-08-25T21:00:43.958Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12225
   },
-  "transaction_count": 11,
+  "transaction_count": 12,
   "latest_transaction_id": "1398049550249234432",
   "latest_transaction_created": 1787683496585,
   "transactions": [
@@ -45,6 +45,40 @@
           "team": "PHI",
           "status": "Active",
           "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1397405987740078080",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787530059327,
+      "status_updated": 1787690697983,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "roster_id": 9
         }
       ],
       "waiver_budget": [],
@@ -1826,7 +1860,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 11,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1908,10 +1942,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI",
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2190,7 +2224,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2565,5 +2599,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-25T19:00:44.168Z"
+  "published_at": "2026-08-25T21:00:44.352Z"
 }
