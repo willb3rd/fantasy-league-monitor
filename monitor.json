@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-27T11:00:46.733Z",
+  "generated_at": "2026-08-27T13:00:50.312Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2662,10 +2662,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7588",
-          "name": "Javonte Williams",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "DAL",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2690,10 +2690,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "7588",
+          "name": "Javonte Williams",
           "position": "RB",
-          "team": "LAR",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2714,5 +2714,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-27T11:00:46.984Z"
+  "published_at": "2026-08-27T13:00:50.312Z"
 }
