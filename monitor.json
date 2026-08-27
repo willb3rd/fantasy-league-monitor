@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-27T13:00:50.312Z",
+  "generated_at": "2026-08-27T15:00:49.800Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1569,11 +1569,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR",
+          "status": "Active"
         },
         {
           "player_id": "10236",
@@ -1583,11 +1583,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT",
+          "status": "Active"
         },
         {
           "player_id": "11792",
@@ -2714,5 +2714,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-27T13:00:50.312Z"
+  "published_at": "2026-08-27T15:00:49.800Z"
 }
