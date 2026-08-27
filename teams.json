@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-27T18:00:49.792Z",
+  "generated_at": "2026-08-27T20:00:49.659Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -959,13 +959,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
-          "status": "Active"
-        },
-        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -998,6 +991,13 @@
           "name": "Deebo Samuel",
           "position": "WR",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-08-27T18:00:49.792Z"
+  "published_at": "2026-08-27T20:00:49.659Z"
 }
