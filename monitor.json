@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-27T19:00:49.759Z",
+  "generated_at": "2026-08-27T20:00:49.659Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12225
   },
-  "transaction_count": 14,
-  "latest_transaction_id": "1398050632153190400",
-  "latest_transaction_created": 1787683754532,
+  "transaction_count": 15,
+  "latest_transaction_id": "1398114049895436288",
+  "latest_transaction_created": 1787698874500,
   "transactions": [
+    {
+      "transaction_id": "1398114049895436288",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787698874500,
+      "status_updated": 1787859910557,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1398050632153190400",
       "type": "waiver",
@@ -2056,13 +2090,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
-          "status": "Active"
-        },
-        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -2095,6 +2122,13 @@
           "name": "Deebo Samuel",
           "position": "WR",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -2748,5 +2782,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-27T19:00:49.759Z"
+  "published_at": "2026-08-27T20:00:49.659Z"
 }
