@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-27T10:00:46.999Z",
+  "generated_at": "2026-08-27T11:00:46.733Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1562,11 +1562,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active"
         },
         {
           "player_id": "0",
@@ -2714,5 +2714,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-27T10:00:47.360Z"
+  "published_at": "2026-08-27T11:00:46.984Z"
 }
