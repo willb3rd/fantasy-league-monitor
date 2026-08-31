@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-30T22:00:49.685Z",
+  "generated_at": "2026-08-31T00:00:49.662Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2437,7 +2437,7 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "4033",
@@ -2595,7 +2595,7 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Active"
+          "status": "Inactive"
         }
       ]
     },
@@ -2782,5 +2782,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-30T22:00:49.685Z"
+  "published_at": "2026-08-31T00:00:49.662Z"
 }
