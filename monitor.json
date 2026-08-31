@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-31T00:00:49.662Z",
+  "generated_at": "2026-08-31T03:27:07.047Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12225
   },
-  "transaction_count": 15,
-  "latest_transaction_id": "1398114049895436288",
-  "latest_transaction_created": 1787698874500,
+  "transaction_count": 16,
+  "latest_transaction_id": "1399990448742768640",
+  "latest_transaction_created": 1788146242846,
   "transactions": [
+    {
+      "transaction_id": "1399990448742768640",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788146242846,
+      "status_updated": 1788146242846,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "DET",
+          "name": "DET DST",
+          "position": "DEF",
+          "team": "DET",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1398114049895436288",
       "type": "waiver",
@@ -1418,19 +1452,19 @@
           "status": "Active"
         },
         {
-          "player_id": "DET",
-          "name": "DET DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "DET",
+          "team": "BAL",
           "status": "Active"
         }
       ],
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "SF",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -1483,10 +1517,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DET",
-          "name": "DET DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "DET",
+          "team": "BAL",
           "status": "Active"
         }
       ],
@@ -2782,5 +2816,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-31T00:00:49.662Z"
+  "published_at": "2026-08-31T03:27:07.047Z"
 }
