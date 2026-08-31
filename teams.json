@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-30T23:00:49.662Z",
+  "generated_at": "2026-08-31T03:25:44.402Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -563,10 +563,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DET",
-          "name": "DET DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "DET",
+          "team": "BAL",
           "status": "Active"
         }
       ]
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-08-30T23:00:49.662Z"
+  "published_at": "2026-08-31T03:25:44.402Z"
 }
