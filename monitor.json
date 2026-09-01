@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-31T03:27:07.047Z",
+  "generated_at": "2026-09-01T22:00:53.880Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
     "enabled": true,
     "source": "sleeper_players_nfl",
     "loaded": true,
-    "database_size": 12225
+    "database_size": 12226
   },
   "transaction_count": 16,
   "latest_transaction_id": "1399990448742768640",
@@ -2816,5 +2816,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-08-31T03:27:07.047Z"
+  "published_at": "2026-09-01T22:00:53.880Z"
 }
