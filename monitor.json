@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-01T22:00:53.880Z",
+  "generated_at": "2026-09-03T20:00:23.355Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12226
   },
-  "transaction_count": 16,
-  "latest_transaction_id": "1399990448742768640",
-  "latest_transaction_created": 1788146242846,
+  "transaction_count": 17,
+  "latest_transaction_id": "1401306551238594560",
+  "latest_transaction_created": 1788460026134,
   "transactions": [
+    {
+      "transaction_id": "1401306551238594560",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788460026134,
+      "status_updated": 1788460026134,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1399990448742768640",
       "type": "free_agent",
@@ -1746,10 +1780,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "13414",
+          "name": "Kaelon Black",
           "position": "RB",
-          "team": "DEN",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2816,5 +2850,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-01T22:00:53.880Z"
+  "published_at": "2026-09-03T20:00:23.355Z"
 }
