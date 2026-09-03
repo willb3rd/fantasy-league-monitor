@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-31T03:25:44.402Z",
+  "generated_at": "2026-09-03T19:00:13.765Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -719,10 +719,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "13414",
+          "name": "Kaelon Black",
           "position": "RB",
-          "team": "DEN",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-08-31T03:25:44.402Z"
+  "published_at": "2026-09-03T19:00:13.765Z"
 }
