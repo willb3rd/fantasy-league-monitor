@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-03T20:00:23.355Z",
+  "generated_at": "2026-09-05T22:00:14.586Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2608,10 +2608,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
           "position": "RB",
-          "team": "GB",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2850,5 +2850,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-03T20:00:23.355Z"
+  "published_at": "2026-09-05T22:00:14.586Z"
 }
