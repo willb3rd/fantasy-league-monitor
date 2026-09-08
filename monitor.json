@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-08T07:00:07.434Z",
+  "generated_at": "2026-09-08T15:00:12.513Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1172,10 +1172,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
+          "player_id": "13286",
+          "name": "Jadarian Price",
           "position": "RB",
-          "team": "KC",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -1207,10 +1207,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
+          "player_id": "8151",
+          "name": "Kenneth Walker",
           "position": "RB",
-          "team": "SEA",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -2884,5 +2884,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-08T07:00:07.434Z"
+  "published_at": "2026-09-08T15:00:12.513Z"
 }
