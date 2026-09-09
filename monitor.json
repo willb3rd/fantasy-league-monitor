@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-09T15:00:17.011Z",
+  "generated_at": "2026-09-09T18:00:11.228Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1907,10 +1907,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "CAR",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2884,5 +2884,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-09T15:00:17.011Z"
+  "published_at": "2026-09-09T18:00:11.228Z"
 }
