@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-10T00:00:16.102Z",
+  "generated_at": "2026-09-10T01:00:12.875Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2670,10 +2670,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE",
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2884,5 +2884,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-10T00:00:16.102Z"
+  "published_at": "2026-09-10T01:00:12.875Z"
 }
