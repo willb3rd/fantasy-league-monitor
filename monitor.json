@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-09T18:00:11.228Z",
+  "generated_at": "2026-09-10T00:00:16.102Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2299,10 +2299,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -2884,5 +2884,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-09T18:00:11.228Z"
+  "published_at": "2026-09-10T00:00:16.102Z"
 }
