@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-08T01:00:09.848Z",
+  "generated_at": "2026-09-11T19:00:34.617Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1203,7 +1203,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "6770",
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-08T01:00:09.848Z"
+  "published_at": "2026-09-11T19:00:34.617Z"
 }
