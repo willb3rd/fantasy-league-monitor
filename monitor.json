@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T15:43:54.812Z",
+  "generated_at": "2026-09-13T16:01:53.843Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12227
   },
-  "transaction_count": 19,
-  "latest_transaction_id": "1404668845431537664",
-  "latest_transaction_created": 1789261659537,
+  "transaction_count": 20,
+  "latest_transaction_id": "1404893768892624896",
+  "latest_transaction_created": 1789315285469,
   "transactions": [
+    {
+      "transaction_id": "1404893768892624896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789315285469,
+      "status_updated": 1789315285469,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1404668845431537664",
       "type": "free_agent",
@@ -1941,10 +1966,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "GB",
+          "team": "CAR",
           "status": "Active"
         },
         {
@@ -2836,6 +2861,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN",
+          "status": "Active"
+        },
+        {
           "player_id": "9997",
           "name": "Zay Flowers",
           "position": "WR",
@@ -2926,5 +2958,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-13T15:43:54.812Z"
+  "published_at": "2026-09-13T16:01:53.843Z"
 }
