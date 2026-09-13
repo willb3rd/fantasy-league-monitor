@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T01:14:07.610Z",
+  "generated_at": "2026-09-13T04:01:12.056Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1388,17 +1388,17 @@
           "status": "Active"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX",
-          "status": "Active"
-        },
-        {
           "player_id": "5892",
           "name": "David Montgomery",
           "position": "RB",
           "team": "HOU",
+          "status": "Active"
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -2918,5 +2918,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-13T01:14:07.610Z"
+  "published_at": "2026-09-13T04:01:12.056Z"
 }
