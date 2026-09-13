@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T01:14:11.554Z",
+  "generated_at": "2026-09-13T17:01:35.222Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1354,6 +1354,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN",
+          "status": "Active"
+        },
+        {
           "player_id": "9997",
           "name": "Zay Flowers",
           "position": "WR",
@@ -1370,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-13T01:14:11.554Z"
+  "published_at": "2026-09-13T17:01:35.222Z"
 }
