@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-11T18:00:28.055Z",
+  "generated_at": "2026-09-13T01:14:07.610Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12227
   },
-  "transaction_count": 18,
-  "latest_transaction_id": "1402830434903003136",
-  "latest_transaction_created": 1788823348312,
+  "transaction_count": 19,
+  "latest_transaction_id": "1404668845431537664",
+  "latest_transaction_created": 1789261659537,
   "transactions": [
+    {
+      "transaction_id": "1404668845431537664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789261659537,
+      "status_updated": 1789261659537,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1402830434903003136",
       "type": "free_agent",
@@ -2374,13 +2408,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Active"
-        },
-        {
           "player_id": "1945",
           "name": "Chris Boswell",
           "position": "K",
@@ -2427,6 +2454,13 @@
           "name": "Brenton Strange",
           "position": "TE",
           "team": "JAX",
+          "status": "Active"
+        },
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -2884,5 +2918,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-11T18:00:28.055Z"
+  "published_at": "2026-09-13T01:14:07.610Z"
 }
