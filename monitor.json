@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T15:01:16.430Z",
+  "generated_at": "2026-09-13T15:43:54.812Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2915,8 +2915,16 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active"
+        }
+      ]
     }
   ],
-  "published_at": "2026-09-13T15:01:16.430Z"
+  "published_at": "2026-09-13T15:43:54.812Z"
 }
