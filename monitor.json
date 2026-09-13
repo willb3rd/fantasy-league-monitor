@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T04:01:12.056Z",
+  "generated_at": "2026-09-13T15:01:16.430Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1773,10 +1773,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "CAR",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2918,5 +2918,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-09-13T04:01:12.056Z"
+  "published_at": "2026-09-13T15:01:16.430Z"
 }
