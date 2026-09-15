@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T06:01:22.484Z",
+  "generated_at": "2026-09-15T13:01:41.864Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1588,10 +1588,10 @@
       ],
       "starters": [
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "JAX",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -1630,10 +1630,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "DEN",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -2958,5 +2958,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-15T06:01:22.484Z"
+  "published_at": "2026-09-15T13:01:41.864Z"
 }
