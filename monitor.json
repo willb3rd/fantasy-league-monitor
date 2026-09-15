@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T15:01:33.188Z",
+  "generated_at": "2026-09-15T17:01:27.119Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1224,10 +1224,10 @@
       ],
       "starters": [
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
+          "player_id": "3163",
+          "name": "Jared Goff",
           "position": "QB",
-          "team": "NE",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -2966,5 +2966,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-15T15:01:33.188Z"
+  "published_at": "2026-09-15T17:01:27.119Z"
 }
