@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T17:01:27.119Z",
+  "generated_at": "2026-09-15T19:01:30.664Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2177,10 +2177,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
           "position": "TE",
-          "team": "PHI",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2966,5 +2966,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-15T17:01:27.119Z"
+  "published_at": "2026-09-15T19:01:30.664Z"
 }
