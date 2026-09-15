@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T13:01:41.864Z",
+  "generated_at": "2026-09-15T15:01:33.188Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1833,7 +1833,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 7,
@@ -2898,10 +2906,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "7588",
+          "name": "Javonte Williams",
           "position": "RB",
-          "team": "LAR",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2912,10 +2920,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9997",
-          "name": "Zay Flowers",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "BAL",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -2926,10 +2934,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7588",
-          "name": "Javonte Williams",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "DAL",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2949,14 +2957,14 @@
       ],
       "reserve": [
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO",
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
           "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-09-15T13:01:41.864Z"
+  "published_at": "2026-09-15T15:01:33.188Z"
 }
