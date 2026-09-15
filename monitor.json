@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T19:01:30.664Z",
+  "generated_at": "2026-09-15T22:01:03.815Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1630,10 +1630,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "WAS",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2966,5 +2966,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-15T19:01:30.664Z"
+  "published_at": "2026-09-15T22:01:03.815Z"
 }
