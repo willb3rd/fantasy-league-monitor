@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T13:01:15.199Z",
+  "generated_at": "2026-09-16T15:01:31.134Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -608,6 +608,13 @@
         {
           "player_id": "13298",
           "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE",
+          "status": "Active"
+        },
+        {
+          "player_id": "13346",
+          "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE",
           "status": "Active"
@@ -1377,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-16T13:01:15.199Z"
+  "published_at": "2026-09-16T15:01:31.134Z"
 }
