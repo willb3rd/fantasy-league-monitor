@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T14:01:54.795Z",
+  "generated_at": "2026-09-16T16:01:29.250Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12227
   },
-  "transaction_count": 1,
-  "latest_transaction_id": "1405933998340911104",
-  "latest_transaction_created": 1789563295496,
+  "transaction_count": 2,
+  "latest_transaction_id": "1405952946847367168",
+  "latest_transaction_created": 1789567813173,
   "transactions": [
+    {
+      "transaction_id": "1405952946847367168",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789567813173,
+      "status_updated": 1789567813173,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [
+        {
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1405933998340911104",
       "type": "free_agent",
@@ -1007,6 +1032,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE",
+          "status": "Active"
+        },
+        {
           "player_id": "4866",
           "name": "Saquon Barkley",
           "position": "RB",
@@ -1325,11 +1357,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "SF",
+          "name": "SF DST",
+          "position": "DEF",
+          "team": "SF",
+          "status": "Active"
         }
       ],
       "reserve": []
@@ -2275,5 +2307,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-16T14:01:54.795Z"
+  "published_at": "2026-09-16T16:01:29.250Z"
 }
