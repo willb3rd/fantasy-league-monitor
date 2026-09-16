@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-15T22:01:03.815Z",
+  "generated_at": "2026-09-16T01:01:13.618Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1995,10 +1995,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts",
+          "player_id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "ATL",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2966,5 +2966,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-15T22:01:03.815Z"
+  "published_at": "2026-09-16T01:01:13.618Z"
 }
