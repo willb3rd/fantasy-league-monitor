@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T08:01:42.152Z",
+  "generated_at": "2026-09-16T13:01:15.199Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -366,13 +366,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC",
-          "status": "Active"
-        },
-        {
           "player_id": "12506",
           "name": "Harold Fannin",
           "position": "TE",
@@ -405,6 +398,13 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF",
+          "status": "Active"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -1377,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-16T08:01:42.152Z"
+  "published_at": "2026-09-16T13:01:15.199Z"
 }
