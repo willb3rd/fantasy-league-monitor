@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T15:01:31.134Z",
+  "generated_at": "2026-09-16T20:58:03.247Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -490,7 +490,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "2449",
@@ -1384,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-16T15:01:31.134Z"
+  "published_at": "2026-09-16T20:58:03.247Z"
 }
