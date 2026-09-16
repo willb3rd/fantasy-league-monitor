@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T09:01:20.204Z",
+  "generated_at": "2026-09-16T14:01:54.795Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,45 @@
     "loaded": true,
     "database_size": 12227
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 1,
+  "latest_transaction_id": "1405933998340911104",
+  "latest_transaction_created": 1789563295496,
+  "transactions": [
+    {
+      "transaction_id": "1405933998340911104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789563295496,
+      "status_updated": 1789563295496,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12493",
+          "name": "Oronde Gadsden",
+          "position": "TE",
+          "team": "LAC",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -587,13 +622,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC",
-          "status": "Active"
-        },
-        {
           "player_id": "12506",
           "name": "Harold Fannin",
           "position": "TE",
@@ -626,6 +654,13 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF",
+          "status": "Active"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -694,10 +729,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "TB",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -715,10 +750,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "CLE",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -2240,5 +2275,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-16T09:01:20.204Z"
+  "published_at": "2026-09-16T14:01:54.795Z"
 }
