@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T07:01:11.791Z",
+  "generated_at": "2026-09-17T13:01:36.560Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 2,
-  "latest_transaction_id": "1405952946847367168",
-  "latest_transaction_created": 1789567813173,
+  "transaction_count": 3,
+  "latest_transaction_id": "1406281073708560384",
+  "latest_transaction_created": 1789646044712,
   "transactions": [
+    {
+      "transaction_id": "1406281073708560384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789646044712,
+      "status_updated": 1789646044712,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL",
+          "status": "Inactive",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1405952946847367168",
       "type": "free_agent",
@@ -652,13 +677,6 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active"
-        },
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Inactive"
         },
         {
           "player_id": "1466",
@@ -2307,5 +2325,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T07:01:11.791Z"
+  "published_at": "2026-09-17T13:01:36.560Z"
 }
