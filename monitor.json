@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T14:01:25.493Z",
+  "generated_at": "2026-09-17T15:01:43.781Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -261,10 +261,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7543",
-          "name": "Travis Etienne",
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
           "position": "RB",
-          "team": "NO",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -2325,5 +2325,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T14:01:25.493Z"
+  "published_at": "2026-09-17T15:01:43.781Z"
 }
