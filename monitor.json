@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T13:01:36.560Z",
+  "generated_at": "2026-09-17T14:01:25.493Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -954,10 +954,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "NE",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -2325,5 +2325,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T13:01:36.560Z"
+  "published_at": "2026-09-17T14:01:25.493Z"
 }
