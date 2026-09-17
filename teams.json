@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T08:01:36.273Z",
+  "generated_at": "2026-09-17T12:01:31.046Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -371,13 +371,6 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active"
-        },
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Inactive"
         },
         {
           "player_id": "1466",
@@ -1384,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T08:01:36.273Z"
+  "published_at": "2026-09-17T12:01:31.046Z"
 }
