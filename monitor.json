@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T01:01:12.042Z",
+  "generated_at": "2026-09-17T07:01:11.791Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
     "enabled": true,
     "source": "sleeper_players_nfl",
     "loaded": true,
-    "database_size": 12227
+    "database_size": 12228
   },
   "transaction_count": 2,
   "latest_transaction_id": "1405952946847367168",
@@ -658,7 +658,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "1466",
@@ -2307,5 +2307,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T01:01:12.042Z"
+  "published_at": "2026-09-17T07:01:11.791Z"
 }
