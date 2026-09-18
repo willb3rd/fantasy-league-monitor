@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T00:01:21.418Z",
+  "generated_at": "2026-09-18T02:01:23.573Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -982,10 +982,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -1157,10 +1157,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "MIN",
+          "team": "CAR",
           "status": "Active"
         },
         {
@@ -2325,5 +2325,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T00:01:21.418Z"
+  "published_at": "2026-09-18T02:01:23.573Z"
 }
