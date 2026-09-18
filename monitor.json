@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T18:01:29.592Z",
+  "generated_at": "2026-09-18T21:01:25.271Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 3,
-  "latest_transaction_id": "1406281073708560384",
-  "latest_transaction_created": 1789646044712,
+  "transaction_count": 4,
+  "latest_transaction_id": "1406763881791057920",
+  "latest_transaction_created": 1789761155129,
   "transactions": [
+    {
+      "transaction_id": "1406763881791057920",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789761155129,
+      "status_updated": 1789761155129,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1406281073708560384",
       "type": "free_agent",
@@ -1758,6 +1783,13 @@
       "total_moves": 0,
       "players": [
         {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "10222",
           "name": "Jayden Reed",
           "position": "WR",
@@ -2333,5 +2365,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T18:01:29.592Z"
+  "published_at": "2026-09-18T21:01:25.271Z"
 }
