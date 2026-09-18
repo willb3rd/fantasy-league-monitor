@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T13:01:19.988Z",
+  "generated_at": "2026-09-18T18:01:29.592Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -240,10 +240,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "9500",
+          "name": "Josh Downs",
           "position": "WR",
-          "team": "HOU",
+          "team": "IND",
           "status": "Active"
         },
         {
@@ -254,10 +254,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
+          "player_id": "3214",
+          "name": "Hunter Henry",
           "position": "TE",
-          "team": "LV",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2333,5 +2333,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T13:01:19.988Z"
+  "published_at": "2026-09-18T18:01:29.592Z"
 }
