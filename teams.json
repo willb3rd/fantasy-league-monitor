@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T12:01:31.046Z",
+  "generated_at": "2026-09-18T20:01:24.240Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1030,6 +1030,13 @@
       "waiver_position": 5,
       "players": [
         {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "10222",
           "name": "Jayden Reed",
           "position": "WR",
@@ -1377,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-17T12:01:31.046Z"
+  "published_at": "2026-09-18T20:01:24.240Z"
 }
