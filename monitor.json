@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T02:01:23.573Z",
+  "generated_at": "2026-09-18T13:01:19.988Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1907,10 +1907,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10222",
-          "name": "Jayden Reed",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "GB",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -1928,7 +1928,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 11,
@@ -2325,5 +2333,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T02:01:23.573Z"
+  "published_at": "2026-09-18T13:01:19.988Z"
 }
