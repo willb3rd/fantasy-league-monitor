@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T21:01:25.271Z",
+  "generated_at": "2026-09-19T00:01:10.192Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1568,10 +1568,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "4199",
+          "name": "Aaron Jones",
+          "position": "RB",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2365,5 +2365,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T21:01:25.271Z"
+  "published_at": "2026-09-19T00:01:10.192Z"
 }
