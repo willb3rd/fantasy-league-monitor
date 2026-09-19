@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T00:01:10.192Z",
+  "generated_at": "2026-09-19T17:07:23.879Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 4,
-  "latest_transaction_id": "1406763881791057920",
-  "latest_transaction_created": 1789761155129,
+  "transaction_count": 5,
+  "latest_transaction_id": "1407084431381991424",
+  "latest_transaction_created": 1789837580107,
   "transactions": [
+    {
+      "transaction_id": "1407084431381991424",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789837580107,
+      "status_updated": 1789837580107,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5189",
+          "name": "Eddy Pineiro",
+          "position": "K",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1406763881791057920",
       "type": "free_agent",
@@ -2198,6 +2232,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -2209,13 +2250,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -2340,10 +2374,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
+          "player_id": "12711",
+          "name": "Tyler Loop",
           "position": "K",
-          "team": "SF",
+          "team": "BAL",
           "status": "Active"
         },
         {
@@ -2365,5 +2399,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-19T00:01:10.192Z"
+  "published_at": "2026-09-19T17:07:23.879Z"
 }
