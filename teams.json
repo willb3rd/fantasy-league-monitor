@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T20:01:24.240Z",
+  "generated_at": "2026-09-19T17:07:21.022Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1291,6 +1291,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -1302,13 +1309,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -1384,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-18T20:01:24.240Z"
+  "published_at": "2026-09-19T17:07:21.022Z"
 }
