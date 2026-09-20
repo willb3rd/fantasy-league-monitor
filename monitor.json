@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T18:01:14.211Z",
+  "generated_at": "2026-09-20T00:01:08.771Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2346,10 +2346,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "JAX",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2399,5 +2399,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-19T18:01:14.211Z"
+  "published_at": "2026-09-20T00:01:08.771Z"
 }
