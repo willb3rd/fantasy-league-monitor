@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T16:01:50.449Z",
+  "generated_at": "2026-09-20T20:01:16.963Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1075,10 +1075,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2433,5 +2433,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-20T16:01:50.449Z"
+  "published_at": "2026-09-20T20:01:16.963Z"
 }
