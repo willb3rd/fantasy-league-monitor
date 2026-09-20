@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T17:07:21.022Z",
+  "generated_at": "2026-09-20T17:01:42.362Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -500,10 +500,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
+          "player_id": "4227",
+          "name": "Harrison Butker",
           "position": "K",
-          "team": "TB",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -1384,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-19T17:07:21.022Z"
+  "published_at": "2026-09-20T17:01:42.362Z"
 }
