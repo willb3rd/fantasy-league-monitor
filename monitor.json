@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T00:01:08.771Z",
+  "generated_at": "2026-09-20T02:01:23.687Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1931,10 +1931,10 @@
       ],
       "starters": [
         {
-          "player_id": "3294",
-          "name": "Dak Prescott",
+          "player_id": "4892",
+          "name": "Baker Mayfield",
           "position": "QB",
-          "team": "DAL",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -2399,5 +2399,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-20T00:01:08.771Z"
+  "published_at": "2026-09-20T02:01:23.687Z"
 }
