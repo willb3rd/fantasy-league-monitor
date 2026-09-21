@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T20:01:16.963Z",
+  "generated_at": "2026-09-21T17:01:12.879Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 6,
-  "latest_transaction_id": "1407429520675368960",
-  "latest_transaction_created": 1789919855806,
+  "transaction_count": 7,
+  "latest_transaction_id": "1407789147493560320",
+  "latest_transaction_created": 1790005597521,
   "transactions": [
+    {
+      "transaction_id": "1407789147493560320",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790005597521,
+      "status_updated": 1790005597521,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13417",
+          "name": "De'Zhaun Stribling",
+          "position": "WR",
+          "team": "SF",
+          "status": "Inactive",
+          "roster_id": 5
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1407429520675368960",
       "type": "free_agent",
@@ -945,13 +970,6 @@
           "position": "RB",
           "team": "ARI",
           "status": "Active"
-        },
-        {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF",
-          "status": "Inactive"
         },
         {
           "player_id": "2449",
@@ -2433,5 +2451,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-20T20:01:16.963Z"
+  "published_at": "2026-09-21T17:01:12.879Z"
 }
