@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T16:00:10.344Z",
+  "generated_at": "2026-09-22T05:00:52.812Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 3,
+      "waiver_position": 2,
       "players": [
         {
           "player_id": "10219",
@@ -236,7 +236,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 7,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10859",
@@ -349,7 +349,7 @@
       "roster_id": 4,
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 4,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "11786",
@@ -455,7 +455,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "jakeeallen",
-      "waiver_position": 6,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "12489",
@@ -561,7 +561,7 @@
       "roster_id": 6,
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 10,
+      "waiver_position": 4,
       "players": [
         {
           "player_id": "10236",
@@ -681,7 +681,7 @@
       "roster_id": 7,
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "11581",
@@ -907,7 +907,7 @@
       "roster_id": 9,
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 2,
+      "waiver_position": 3,
       "players": [
         {
           "player_id": "11620",
@@ -1140,7 +1140,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 9,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "11533",
@@ -1260,7 +1260,7 @@
       "roster_id": 12,
       "team_name": "JD Chase'n Flowers 4 Mama",
       "display_name": "willb3rd",
-      "waiver_position": 11,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "11566",
@@ -1377,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-21T16:00:10.344Z"
+  "published_at": "2026-09-22T05:00:52.812Z"
 }
