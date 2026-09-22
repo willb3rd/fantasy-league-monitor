@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T17:01:12.879Z",
+  "generated_at": "2026-09-22T04:00:50.834Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2377,11 +2377,11 @@
       ],
       "starters": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "9224",
@@ -2442,14 +2442,14 @@
       ],
       "reserve": [
         {
-          "player_id": "9997",
-          "name": "Zay Flowers",
-          "position": "WR",
-          "team": "BAL",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
           "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-09-21T17:01:12.879Z"
+  "published_at": "2026-09-22T04:00:50.834Z"
 }
