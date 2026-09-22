@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T17:01:13.746Z",
+  "generated_at": "2026-09-22T18:01:02.965Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -527,10 +527,10 @@
       ],
       "starters": [
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
+          "player_id": "421",
+          "name": "Matthew Stafford",
           "position": "QB",
-          "team": "GB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2210,10 +2210,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
           "position": "RB",
-          "team": "DEN",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2467,5 +2467,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-22T17:01:13.746Z"
+  "published_at": "2026-09-22T18:01:02.965Z"
 }
