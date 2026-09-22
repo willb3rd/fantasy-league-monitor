@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T06:00:52.330Z",
+  "generated_at": "2026-09-22T07:00:58.061Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -400,7 +400,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -2451,5 +2459,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-22T06:00:52.330Z"
+  "published_at": "2026-09-22T07:00:58.061Z"
 }
