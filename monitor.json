@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T15:00:48.838Z",
+  "generated_at": "2026-09-22T16:01:12.533Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1999,10 +1999,10 @@
       ],
       "starters": [
         {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
+          "player_id": "3294",
+          "name": "Dak Prescott",
           "position": "QB",
-          "team": "TB",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2064,11 +2064,11 @@
       ],
       "reserve": [
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Inactive"
+          "player_id": "10222",
+          "name": "Jayden Reed",
+          "position": "WR",
+          "team": "GB",
+          "status": "Active"
         }
       ]
     },
@@ -2467,5 +2467,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-22T15:00:48.838Z"
+  "published_at": "2026-09-22T16:01:12.533Z"
 }
