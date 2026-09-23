@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T11:00:57.857Z",
+  "generated_at": "2026-09-23T11:35:36.490Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 2,
-  "latest_transaction_id": "1408414439488643072",
-  "latest_transaction_created": 1790154678750,
+  "transaction_count": 3,
+  "latest_transaction_id": "1408450026014810112",
+  "latest_transaction_created": 1790163163240,
   "transactions": [
+    {
+      "transaction_id": "1408450026014810112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790163163240,
+      "status_updated": 1790163163240,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11583",
+          "name": "Jonathon Brooks",
+          "position": "RB",
+          "team": "CAR",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1408414439488643072",
       "type": "free_agent",
@@ -2162,13 +2196,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11583",
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "team": "CAR",
-          "status": "Active"
-        },
-        {
           "player_id": "12711",
           "name": "Tyler Loop",
           "position": "K",
@@ -2187,6 +2214,13 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
+          "status": "Active"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
           "status": "Active"
         },
         {
@@ -2343,5 +2377,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-23T11:00:57.857Z"
+  "published_at": "2026-09-23T11:35:36.490Z"
 }
