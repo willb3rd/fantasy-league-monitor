@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T10:00:57.769Z",
+  "generated_at": "2026-09-23T11:35:25.638Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1298,13 +1298,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11583",
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "team": "CAR",
-          "status": "Active"
-        },
-        {
           "player_id": "12711",
           "name": "Tyler Loop",
           "position": "K",
@@ -1323,6 +1316,13 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
+          "status": "Active"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-23T10:00:57.769Z"
+  "published_at": "2026-09-23T11:35:25.638Z"
 }
