@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T12:01:03.357Z",
+  "generated_at": "2026-09-23T16:01:00.895Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12228
   },
-  "transaction_count": 3,
-  "latest_transaction_id": "1408450026014810112",
-  "latest_transaction_created": 1790163163240,
+  "transaction_count": 4,
+  "latest_transaction_id": "1408501738176032768",
+  "latest_transaction_created": 1790175492379,
   "transactions": [
+    {
+      "transaction_id": "1408501738176032768",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790175492379,
+      "status_updated": 1790175492379,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1408450026014810112",
       "type": "free_agent",
@@ -43,7 +77,7 @@
           "name": "Jonathon Brooks",
           "position": "RB",
           "team": "CAR",
-          "status": "Active",
+          "status": "Inactive",
           "roster_id": 12
         }
       ],
@@ -786,10 +820,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "NE",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -1233,6 +1267,13 @@
           "status": "Active"
         },
         {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active"
+        },
+        {
           "player_id": "12507",
           "name": "Omarion Hampton",
           "position": "RB",
@@ -1251,13 +1292,6 @@
           "name": "Kaelon Black",
           "position": "RB",
           "team": "SF",
-          "status": "Active"
-        },
-        {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2377,5 +2411,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-23T12:01:03.357Z"
+  "published_at": "2026-09-23T16:01:00.895Z"
 }
