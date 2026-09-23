@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T08:00:58.351Z",
+  "generated_at": "2026-09-23T10:00:57.769Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -87,13 +87,6 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU",
-          "status": "Active"
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
           "status": "Active"
         },
         {
@@ -945,6 +938,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "12481",
           "name": "Cam Skattebo",
           "position": "RB",
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-23T08:00:58.351Z"
+  "published_at": "2026-09-23T10:00:57.769Z"
 }
