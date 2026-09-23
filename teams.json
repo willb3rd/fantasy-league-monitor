@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T15:01:06.183Z",
+  "generated_at": "2026-09-23T20:01:05.299Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -207,7 +207,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8154",
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-23T15:01:06.183Z"
+  "published_at": "2026-09-23T20:01:05.299Z"
 }
