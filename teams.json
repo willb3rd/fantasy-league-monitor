@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T23:00:59.916Z",
+  "generated_at": "2026-09-25T08:01:00.155Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -808,7 +808,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "10213",
@@ -1048,7 +1048,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10218",
@@ -1288,7 +1288,7 @@
       "roster_id": 12,
       "team_name": "JD Chase'n Flowers 4 Mama",
       "display_name": "willb3rd",
-      "waiver_position": 10,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "11566",
@@ -1309,13 +1309,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": null,
           "status": "Active"
         },
         {
@@ -1382,6 +1375,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active"
+        },
+        {
           "player_id": "9758",
           "name": "C.J. Stroud",
           "position": "QB",
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-24T23:00:59.916Z"
+  "published_at": "2026-09-25T08:01:00.155Z"
 }
