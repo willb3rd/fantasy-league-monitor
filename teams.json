@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T12:01:06.135Z",
+  "generated_at": "2026-09-25T17:00:59.880Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -681,13 +681,6 @@
           "position": "DEF",
           "team": "MIN",
           "status": "Active"
-        },
-        {
-          "player_id": "TB",
-          "name": "TB DST",
-          "position": "DEF",
-          "team": "TB",
-          "status": "Active"
         }
       ]
     },
@@ -1114,13 +1107,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
           "player_id": "1945",
           "name": "Chris Boswell",
           "position": "K",
@@ -1135,10 +1121,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT",
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -1153,6 +1139,13 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV",
+          "status": "Active"
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -1298,6 +1291,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "13345",
           "name": "Jonah Coleman",
           "position": "RB",
@@ -1316,6 +1316,13 @@
           "name": "Eddy Pineiro",
           "position": "K",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -1368,13 +1375,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX",
-          "status": "Active"
-        },
-        {
           "player_id": "9753",
           "name": "Zach Charbonnet",
           "position": "RB",
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T12:01:06.135Z"
+  "published_at": "2026-09-25T17:00:59.880Z"
 }
