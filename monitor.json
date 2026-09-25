@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T11:01:00.333Z",
+  "generated_at": "2026-09-25T13:01:05.973Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 7,
-  "latest_transaction_id": "1408827538142162944",
-  "latest_transaction_created": 1790253169145,
+  "transaction_count": 8,
+  "latest_transaction_id": "1409172446581362688",
+  "latest_transaction_created": 1790335401724,
   "transactions": [
+    {
+      "transaction_id": "1409172446581362688",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790335401724,
+      "status_updated": 1790335401724,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1408827538142162944",
       "type": "waiver",
@@ -2407,13 +2432,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "9997",
           "name": "Zay Flowers",
           "position": "WR",
@@ -2430,11 +2448,11 @@
       ],
       "starters": [
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "9224",
@@ -2504,5 +2522,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T11:01:00.333Z"
+  "published_at": "2026-09-25T13:01:05.973Z"
 }
