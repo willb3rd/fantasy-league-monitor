@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T10:00:59.932Z",
+  "generated_at": "2026-09-25T11:01:00.333Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
   "week": "3",
-  "week_source": "sleeper_state",
+  "week_source": "league_leg",
   "player_mapping": {
     "enabled": true,
     "source": "sleeper_players_nfl",
@@ -2504,5 +2504,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T10:00:59.932Z"
+  "published_at": "2026-09-25T11:01:00.333Z"
 }
