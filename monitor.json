@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T13:01:05.973Z",
+  "generated_at": "2026-09-25T16:01:02.989Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 8,
-  "latest_transaction_id": "1409172446581362688",
-  "latest_transaction_created": 1790335401724,
+  "transaction_count": 10,
+  "latest_transaction_id": "1409232089391345664",
+  "latest_transaction_created": 1790349621678,
   "transactions": [
+    {
+      "transaction_id": "1409232089391345664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790349621678,
+      "status_updated": 1790349621678,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1409172446581362688",
       "type": "free_agent",
@@ -36,6 +61,73 @@
           "team": "HOU",
           "status": "Active",
           "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409048008955371520",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790305733483,
+      "status_updated": 1790349569264,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10,
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "roster_id": 12
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX",
+          "status": "Active",
+          "roster_id": 10
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "roster_id": 10
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX",
+          "status": "Active",
+          "roster_id": 12
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 10
         }
       ],
       "waiver_budget": [],
@@ -2010,13 +2102,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
           "player_id": "1945",
           "name": "Chris Boswell",
           "position": "K",
@@ -2031,10 +2116,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT",
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2049,6 +2134,13 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV",
+          "status": "Active"
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2103,10 +2195,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "PIT",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2348,6 +2440,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "13345",
           "name": "Jonah Coleman",
           "position": "RB",
@@ -2366,6 +2465,13 @@
           "name": "Eddy Pineiro",
           "position": "K",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2418,13 +2524,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX",
-          "status": "Active"
-        },
-        {
           "player_id": "9753",
           "name": "Zach Charbonnet",
           "position": "RB",
@@ -2448,11 +2547,11 @@
       ],
       "starters": [
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active"
         },
         {
           "player_id": "9224",
@@ -2476,11 +2575,11 @@
           "status": "Active"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "9484",
@@ -2522,5 +2621,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T13:01:05.973Z"
+  "published_at": "2026-09-25T16:01:02.989Z"
 }
