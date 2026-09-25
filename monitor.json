@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T22:01:05.399Z",
+  "generated_at": "2026-09-25T00:01:00.931Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1050,10 +1050,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
+          "player_id": "5001",
+          "name": "Dalton Schultz",
           "position": "TE",
-          "team": "CHI",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -1429,10 +1429,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
+          "player_id": "7553",
+          "name": "Kyle Pitts",
           "position": "TE",
-          "team": "NO",
+          "team": "ATL",
           "status": "Active"
         },
         {
@@ -2445,5 +2445,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-24T22:01:05.399Z"
+  "published_at": "2026-09-25T00:01:00.931Z"
 }
