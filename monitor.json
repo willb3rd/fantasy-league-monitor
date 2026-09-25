@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T00:01:00.931Z",
+  "generated_at": "2026-09-25T01:00:59.466Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -679,10 +679,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "LAR",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -693,10 +693,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "2133",
+          "name": "Davante Adams",
           "position": "WR",
-          "team": "TB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2445,5 +2445,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T00:01:00.931Z"
+  "published_at": "2026-09-25T01:00:59.466Z"
 }
