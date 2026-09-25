@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T01:00:59.466Z",
+  "generated_at": "2026-09-25T07:01:01.315Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 5,
-  "latest_transaction_id": "1408610965385142272",
-  "latest_transaction_created": 1790201534175,
+  "transaction_count": 7,
+  "latest_transaction_id": "1408827538142162944",
+  "latest_transaction_created": 1790253169145,
   "transactions": [
+    {
+      "transaction_id": "1408827538142162944",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790253169145,
+      "status_updated": 1790316321134,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1408610965385142272",
       "type": "free_agent",
@@ -135,6 +169,31 @@
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408414100827955200",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790154598007,
+      "status_updated": 1790316321134,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB",
           "status": "Active",
           "roster_id": 9
         }
@@ -1464,7 +1523,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1858,7 +1917,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2252,7 +2311,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "JD Chase'n Flowers 4 Mama",
       "display_name": "willb3rd",
-      "waiver_position": 10,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2275,13 +2334,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": null,
           "status": "Active"
         },
         {
@@ -2345,6 +2397,13 @@
           "name": "Parker Washington",
           "position": "WR",
           "team": "JAX",
+          "status": "Active"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -2445,5 +2504,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T01:00:59.466Z"
+  "published_at": "2026-09-25T07:01:01.315Z"
 }
