@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T16:01:02.989Z",
+  "generated_at": "2026-09-25T18:01:01.851Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 10,
-  "latest_transaction_id": "1409232089391345664",
-  "latest_transaction_created": 1790349621678,
+  "transaction_count": 11,
+  "latest_transaction_id": "1409244212456685568",
+  "latest_transaction_created": 1790352512042,
   "transactions": [
+    {
+      "transaction_id": "1409244212456685568",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790352512042,
+      "status_updated": 1790352512042,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "TB",
+          "name": "TB DST",
+          "position": "DEF",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1409232089391345664",
       "type": "free_agent",
@@ -1369,13 +1394,6 @@
           "position": "DEF",
           "team": "MIN",
           "status": "Active"
-        },
-        {
-          "player_id": "TB",
-          "name": "TB DST",
-          "position": "DEF",
-          "team": "TB",
-          "status": "Active"
         }
       ],
       "starters": [
@@ -1443,15 +1461,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 7,
@@ -2575,11 +2585,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active"
         },
         {
           "player_id": "9484",
@@ -2621,5 +2631,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T16:01:02.989Z"
+  "published_at": "2026-09-25T18:01:01.851Z"
 }
