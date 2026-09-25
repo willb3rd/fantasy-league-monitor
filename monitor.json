@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T18:01:01.851Z",
+  "generated_at": "2026-09-25T23:01:04.517Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1379,7 +1379,7 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9756",
@@ -2585,10 +2585,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "PIT",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -2631,5 +2631,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T18:01:01.851Z"
+  "published_at": "2026-09-25T23:01:04.517Z"
 }
