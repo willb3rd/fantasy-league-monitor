@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T08:01:00.155Z",
+  "generated_at": "2026-09-25T12:01:06.135Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1382,13 +1382,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "9997",
           "name": "Zay Flowers",
           "position": "WR",
@@ -1405,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T08:01:00.155Z"
+  "published_at": "2026-09-25T12:01:06.135Z"
 }
