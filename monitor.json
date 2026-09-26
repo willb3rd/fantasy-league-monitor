@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T23:01:04.517Z",
+  "generated_at": "2026-09-26T08:00:52.189Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1055,10 +1055,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "LAR",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1076,10 +1076,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
           "position": "WR",
-          "team": "BUF",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -2631,5 +2631,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T23:01:04.517Z"
+  "published_at": "2026-09-26T08:00:52.189Z"
 }
