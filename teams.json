@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T22:01:04.405Z",
+  "generated_at": "2026-09-26T23:01:02.978Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1291,17 +1291,17 @@
           "status": "Active"
         },
         {
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "12545",
           "name": "Tyler Shough",
           "position": "QB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN",
           "status": "Active"
         },
         {
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-25T22:01:04.405Z"
+  "published_at": "2026-09-26T23:01:02.978Z"
 }
