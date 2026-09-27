@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T23:01:02.978Z",
+  "generated_at": "2026-09-27T07:01:18.340Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -34,6 +34,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active"
+        },
+        {
           "player_id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -48,10 +55,10 @@
           "status": "Active"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "2505",
+          "name": "Darren Waller",
           "position": "TE",
-          "team": "NE",
+          "team": "CAR",
           "status": "Active"
         },
         {
@@ -1398,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-26T23:01:02.978Z"
+  "published_at": "2026-09-27T07:01:18.340Z"
 }
