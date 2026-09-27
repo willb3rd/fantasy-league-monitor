@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T22:01:10.403Z",
+  "generated_at": "2026-09-27T06:01:07.797Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,69 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 12,
-  "latest_transaction_id": "1409692329647882240",
-  "latest_transaction_created": 1790459351507,
+  "transaction_count": 14,
+  "latest_transaction_id": "1409807210321620992",
+  "latest_transaction_created": 1790486741193,
   "transactions": [
+    {
+      "transaction_id": "1409807210321620992",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790486741193,
+      "status_updated": 1790486741193,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409806329073205248",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790486531087,
+      "status_updated": 1790486531087,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1409692329647882240",
       "type": "free_agent",
@@ -436,6 +495,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active"
+        },
+        {
           "player_id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -450,10 +516,10 @@
           "status": "Active"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "2505",
+          "name": "Darren Waller",
           "position": "TE",
-          "team": "NE",
+          "team": "CAR",
           "status": "Active"
         },
         {
@@ -564,10 +630,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS",
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
           "status": "Active"
         },
         {
@@ -585,7 +651,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -2665,5 +2739,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-26T22:01:10.403Z"
+  "published_at": "2026-09-27T06:01:07.797Z"
 }
