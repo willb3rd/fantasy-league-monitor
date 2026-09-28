@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T15:01:10.531Z",
+  "generated_at": "2026-09-28T21:01:01.475Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1892,7 +1892,7 @@
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9228",
@@ -1922,7 +1922,7 @@
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8155",
@@ -2773,5 +2773,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-28T15:01:10.531Z"
+  "published_at": "2026-09-28T21:01:01.475Z"
 }
