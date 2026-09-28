@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T07:01:18.340Z",
+  "generated_at": "2026-09-28T16:01:02.635Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -514,6 +514,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "status": "Active"
+        },
+        {
           "player_id": "5001",
           "name": "Dalton Schultz",
           "position": "TE",
@@ -546,13 +553,6 @@
           "name": "Rhamondre Stevenson",
           "position": "RB",
           "team": "NE",
-          "status": "Active"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-27T07:01:18.340Z"
+  "published_at": "2026-09-28T16:01:02.635Z"
 }
