@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T06:01:07.797Z",
+  "generated_at": "2026-09-28T15:01:10.531Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 14,
-  "latest_transaction_id": "1409807210321620992",
-  "latest_transaction_created": 1790486741193,
+  "transaction_count": 15,
+  "latest_transaction_id": "1410311637881102336",
+  "latest_transaction_created": 1790607006095,
   "transactions": [
+    {
+      "transaction_id": "1410311637881102336",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790607006095,
+      "status_updated": 1790607006095,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1409807210321620992",
       "type": "free_agent",
@@ -1259,6 +1293,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "status": "Active"
+        },
+        {
           "player_id": "5001",
           "name": "Dalton Schultz",
           "position": "TE",
@@ -1291,13 +1332,6 @@
           "name": "Rhamondre Stevenson",
           "position": "RB",
           "team": "NE",
-          "status": "Active"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF",
           "status": "Active"
         },
         {
@@ -2739,5 +2773,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-27T06:01:07.797Z"
+  "published_at": "2026-09-28T15:01:10.531Z"
 }
