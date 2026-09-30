@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T17:00:57.084Z",
+  "generated_at": "2026-09-30T22:01:02.463Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1058,13 +1058,6 @@
       "waiver_position": 9,
       "players": [
         {
-          "player_id": "10222",
-          "name": "Jayden Reed",
-          "position": "WR",
-          "team": "GB",
-          "status": "Inactive"
-        },
-        {
           "player_id": "10232",
           "name": "Michael Wilson",
           "position": "WR",
@@ -1412,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-30T17:00:57.084Z"
+  "published_at": "2026-09-30T22:01:02.463Z"
 }
