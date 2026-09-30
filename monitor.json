@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T12:01:07.046Z",
+  "generated_at": "2026-09-30T18:01:00.581Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,78 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 1,
-  "latest_transaction_id": "1410976401519050752",
-  "latest_transaction_created": 1790765498097,
+  "transaction_count": 3,
+  "latest_transaction_id": "1411062509623926784",
+  "latest_transaction_created": 1790786027869,
   "transactions": [
+    {
+      "transaction_id": "1411062509623926784",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790786027869,
+      "status_updated": 1790786027869,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "CHI",
+          "name": "CHI DST",
+          "position": "DEF",
+          "team": "CHI",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "PHI",
+          "name": "PHI DST",
+          "position": "DEF",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1411052884824506368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790783733138,
+      "status_updated": 1790783733138,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "BUF",
+          "name": "BUF DST",
+          "position": "DEF",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "SF",
+          "name": "SF DST",
+          "position": "DEF",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1410976401519050752",
       "type": "free_agent",
@@ -968,11 +1036,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "CIN",
+          "name": "CIN DST",
+          "position": "DEF",
+          "team": "CIN",
+          "status": "Active"
         }
       ],
       "reserve": []
@@ -1282,10 +1350,10 @@
           "status": "Active"
         },
         {
-          "player_id": "SF",
-          "name": "SF DST",
+          "player_id": "BUF",
+          "name": "BUF DST",
           "position": "DEF",
-          "team": "SF",
+          "team": "BUF",
           "status": "Active"
         }
       ],
@@ -1347,10 +1415,10 @@
           "status": "Active"
         },
         {
-          "player_id": "SF",
-          "name": "SF DST",
+          "player_id": "BUF",
+          "name": "BUF DST",
           "position": "DEF",
-          "team": "SF",
+          "team": "BUF",
           "status": "Active"
         }
       ],
@@ -1668,10 +1736,10 @@
           "status": "Active"
         },
         {
-          "player_id": "PHI",
-          "name": "PHI DST",
+          "player_id": "CHI",
+          "name": "CHI DST",
           "position": "DEF",
-          "team": "PHI",
+          "team": "CHI",
           "status": "Active"
         }
       ],
@@ -1733,10 +1801,10 @@
           "status": "Active"
         },
         {
-          "player_id": "PHI",
-          "name": "PHI DST",
+          "player_id": "CHI",
+          "name": "CHI DST",
           "position": "DEF",
-          "team": "PHI",
+          "team": "CHI",
           "status": "Active"
         }
       ],
@@ -1764,7 +1832,7 @@
           "name": "Jayden Reed",
           "position": "WR",
           "team": "GB",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "10232",
@@ -1943,7 +2011,7 @@
           "name": "Jayden Reed",
           "position": "WR",
           "team": "GB",
-          "status": "Active"
+          "status": "Inactive"
         }
       ]
     },
@@ -2342,5 +2410,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-30T12:01:07.046Z"
+  "published_at": "2026-09-30T18:01:00.581Z"
 }
