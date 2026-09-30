@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T16:01:00.419Z",
+  "generated_at": "2026-09-30T17:00:57.084Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1043,10 +1043,10 @@
           "status": "Active"
         },
         {
-          "player_id": "PHI",
-          "name": "PHI DST",
+          "player_id": "CHI",
+          "name": "CHI DST",
           "position": "DEF",
-          "team": "PHI",
+          "team": "CHI",
           "status": "Active"
         }
       ]
@@ -1062,7 +1062,7 @@
           "name": "Jayden Reed",
           "position": "WR",
           "team": "GB",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "10232",
@@ -1412,5 +1412,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-30T16:01:00.419Z"
+  "published_at": "2026-09-30T17:00:57.084Z"
 }
