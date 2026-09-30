@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T21:01:02.804Z",
+  "generated_at": "2026-09-30T03:00:58.282Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1926,15 +1926,15 @@
           "status": "Active"
         },
         {
-          "player_id": "9226",
-          "name": "De'Von Achane",
+          "player_id": "4199",
+          "name": "Aaron Jones",
           "position": "RB",
-          "team": "MIA",
-          "status": "Inactive"
+          "team": "MIN",
+          "status": "Active"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
@@ -1961,10 +1961,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
-          "position": "RB",
-          "team": "MIN",
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2781,5 +2781,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-29T21:01:02.804Z"
+  "published_at": "2026-09-30T03:00:58.282Z"
 }
