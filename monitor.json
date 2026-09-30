@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T18:01:00.581Z",
+  "generated_at": "2026-09-30T23:01:00.460Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 3,
-  "latest_transaction_id": "1411062509623926784",
-  "latest_transaction_created": 1790786027869,
+  "transaction_count": 4,
+  "latest_transaction_id": "1411136789200039936",
+  "latest_transaction_created": 1790803737500,
   "transactions": [
+    {
+      "transaction_id": "1411136789200039936",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790803737500,
+      "status_updated": 1790803737500,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "10222",
+          "name": "Jayden Reed",
+          "position": "WR",
+          "team": "GB",
+          "status": "Inactive",
+          "roster_id": 10
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1411062509623926784",
       "type": "free_agent",
@@ -1828,13 +1853,6 @@
       "total_moves": 0,
       "players": [
         {
-          "player_id": "10222",
-          "name": "Jayden Reed",
-          "position": "WR",
-          "team": "GB",
-          "status": "Inactive"
-        },
-        {
           "player_id": "10232",
           "name": "Michael Wilson",
           "position": "WR",
@@ -2005,15 +2023,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "10222",
-          "name": "Jayden Reed",
-          "position": "WR",
-          "team": "GB",
-          "status": "Inactive"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 11,
@@ -2410,5 +2420,5 @@
       ]
     }
   ],
-  "published_at": "2026-09-30T18:01:00.581Z"
+  "published_at": "2026-09-30T23:01:00.460Z"
 }
