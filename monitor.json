@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T09:01:07.198Z",
+  "generated_at": "2026-09-30T12:01:07.046Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,45 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 1,
+  "latest_transaction_id": "1410976401519050752",
+  "latest_transaction_created": 1790765498097,
+  "transactions": [
+    {
+      "transaction_id": "1410976401519050752",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790765498097,
+      "status_updated": 1790765498097,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9226",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Inactive",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -1408,6 +1443,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active"
+        },
+        {
           "player_id": "8131",
           "name": "Isaiah Likely",
           "position": "TE",
@@ -1420,13 +1462,6 @@
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
-        },
-        {
-          "player_id": "9226",
-          "name": "De'Von Achane",
-          "position": "RB",
-          "team": "MIA",
-          "status": "Inactive"
         },
         {
           "player_id": "9228",
@@ -1494,11 +1529,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "12185",
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND",
+          "status": "Active"
         },
         {
           "player_id": "PIT",
@@ -1853,10 +1888,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "CLE",
+          "team": "MIA",
           "status": "Active"
         },
         {
@@ -2298,14 +2333,14 @@
       ],
       "reserve": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
           "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-09-30T09:01:07.198Z"
+  "published_at": "2026-09-30T12:01:07.046Z"
 }
