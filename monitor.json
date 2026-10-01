@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T22:00:29.402Z",
+  "generated_at": "2026-10-01T23:00:38.906Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 6,
-  "latest_transaction_id": "1411440344934977536",
-  "latest_transaction_created": 1790876110827,
+  "transaction_count": 7,
+  "latest_transaction_id": "1411513665068318720",
+  "latest_transaction_created": 1790893591709,
   "transactions": [
+    {
+      "transaction_id": "1411513665068318720",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790893591709,
+      "status_updated": 1790893591709,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1411440344934977536",
       "type": "free_agent",
@@ -2291,6 +2325,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Active"
+        },
+        {
           "player_id": "12474",
           "name": "Woody Marks",
           "position": "RB",
@@ -2337,13 +2378,6 @@
           "name": "Javonte Williams",
           "position": "RB",
           "team": "DAL",
-          "status": "Active"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
           "status": "Active"
         },
         {
@@ -2472,5 +2506,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-01T22:00:29.402Z"
+  "published_at": "2026-10-01T23:00:38.906Z"
 }
