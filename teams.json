@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T03:01:04.069Z",
+  "generated_at": "2026-10-01T19:00:33.506Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -987,13 +987,6 @@
           "status": "Active"
         },
         {
-          "player_id": "2747",
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -1012,6 +1005,13 @@
           "name": "Deebo Samuel",
           "position": "WR",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -1379,7 +1379,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "team": "SEA",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9997",
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-01T03:01:04.069Z"
+  "published_at": "2026-10-01T19:00:33.506Z"
 }
