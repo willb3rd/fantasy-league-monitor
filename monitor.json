@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T13:01:00.162Z",
+  "generated_at": "2026-10-01T18:01:00.050Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 5,
-  "latest_transaction_id": "1411206881048788992",
-  "latest_transaction_created": 1790820448699,
+  "transaction_count": 6,
+  "latest_transaction_id": "1411440344934977536",
+  "latest_transaction_created": 1790876110827,
   "transactions": [
+    {
+      "transaction_id": "1411440344934977536",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790876110827,
+      "status_updated": 1790876110827,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "2747",
+          "name": "Jason Myers",
+          "position": "K",
+          "team": "SEA",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1411206881048788992",
       "type": "free_agent",
@@ -1730,13 +1764,6 @@
           "status": "Active"
         },
         {
-          "player_id": "2747",
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -1755,6 +1782,13 @@
           "name": "Deebo Samuel",
           "position": "WR",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -1816,10 +1850,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "TEN",
+          "team": "IND",
           "status": "Active"
         },
         {
@@ -1837,10 +1871,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2747",
-          "name": "Jason Myers",
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
           "position": "K",
-          "team": "SEA",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -2345,7 +2379,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "team": "SEA",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9997",
@@ -2433,10 +2467,10 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "team": "SEA",
-          "status": "Active"
+          "status": "Inactive"
         }
       ]
     }
   ],
-  "published_at": "2026-10-01T13:01:00.162Z"
+  "published_at": "2026-10-01T18:01:00.050Z"
 }
