@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T18:01:00.050Z",
+  "generated_at": "2026-10-01T22:00:29.402Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -288,7 +288,7 @@
           "name": "Travis Etienne",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "7569",
@@ -397,7 +397,7 @@
           "name": "Travis Etienne",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
+          "status": "Inactive"
         }
       ]
     },
@@ -2472,5 +2472,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-01T18:01:00.050Z"
+  "published_at": "2026-10-01T22:00:29.402Z"
 }
