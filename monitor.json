@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T04:01:03.638Z",
+  "generated_at": "2026-10-01T13:01:00.162Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1030,10 +1030,10 @@
       ],
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "SF",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2438,5 +2438,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-01T04:01:03.638Z"
+  "published_at": "2026-10-01T13:01:00.162Z"
 }
