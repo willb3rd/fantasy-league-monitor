@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T00:00:33.586Z",
+  "generated_at": "2026-10-02T08:00:30.796Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -469,7 +469,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "jakeeallen",
-      "waiver_position": 11,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "12489",
@@ -570,10 +570,10 @@
           "status": "Active"
         },
         {
-          "player_id": "CIN",
-          "name": "CIN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "CIN",
+          "team": "KC",
           "status": "Active"
         }
       ]
@@ -808,7 +808,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10229",
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-02T00:00:33.586Z"
+  "published_at": "2026-10-02T08:00:30.796Z"
 }
