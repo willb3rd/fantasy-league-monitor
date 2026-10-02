@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T01:00:40.904Z",
+  "generated_at": "2026-10-02T07:00:31.498Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 7,
+  "transaction_count": 8,
   "latest_transaction_id": "1411513665068318720",
   "latest_transaction_created": 1790893591709,
   "transactions": [
@@ -79,6 +79,40 @@
           "team": "SEA",
           "status": "Active",
           "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1411371757427843072",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790859758292,
+      "status_updated": 1790921101155,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [
+        {
+          "player_id": "KC",
+          "name": "KC DST",
+          "position": "DEF",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "CIN",
+          "name": "CIN DST",
+          "position": "DEF",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 5
         }
       ],
       "waiver_budget": [],
@@ -986,7 +1020,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "jakeeallen",
-      "waiver_position": 11,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1089,10 +1123,10 @@
           "status": "Active"
         },
         {
-          "player_id": "CIN",
-          "name": "CIN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "CIN",
+          "team": "KC",
           "status": "Active"
         }
       ],
@@ -1154,11 +1188,11 @@
           "status": "Active"
         },
         {
-          "player_id": "CIN",
-          "name": "CIN DST",
-          "position": "DEF",
-          "team": "CIN",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         }
       ],
       "reserve": []
@@ -1540,7 +1574,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2506,5 +2540,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-02T01:00:40.904Z"
+  "published_at": "2026-10-02T07:00:31.498Z"
 }
