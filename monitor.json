@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T23:00:38.906Z",
+  "generated_at": "2026-10-02T01:00:40.904Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -755,17 +755,17 @@
           "status": "Active"
         },
         {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active"
+        },
+        {
           "player_id": "9488",
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA",
-          "status": "Active"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB",
           "status": "Active"
         },
         {
@@ -776,10 +776,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR",
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -2506,5 +2506,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-01T23:00:38.906Z"
+  "published_at": "2026-10-02T01:00:40.904Z"
 }
