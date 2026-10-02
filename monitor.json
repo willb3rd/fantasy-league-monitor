@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T07:00:31.498Z",
+  "generated_at": "2026-10-02T14:00:32.336Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -978,10 +978,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "PHI",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -992,10 +992,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
           "position": "WR",
-          "team": "LAR",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2540,5 +2540,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-02T07:00:31.498Z"
+  "published_at": "2026-10-02T14:00:32.336Z"
 }
