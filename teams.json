@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T08:00:30.796Z",
+  "generated_at": "2026-10-03T03:00:30.393Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "10219",
@@ -469,7 +469,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "jakeeallen",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "12489",
@@ -582,7 +582,7 @@
       "roster_id": 6,
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10236",
@@ -638,6 +638,13 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
+          "status": "Active"
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -808,7 +815,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "10229",
@@ -1048,7 +1055,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "10232",
@@ -1398,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-02T08:00:30.796Z"
+  "published_at": "2026-10-03T03:00:30.393Z"
 }
