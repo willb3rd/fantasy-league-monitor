@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T22:00:29.093Z",
+  "generated_at": "2026-10-03T02:00:31.275Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 8,
+  "transaction_count": 9,
   "latest_transaction_id": "1411513665068318720",
   "latest_transaction_created": 1790893591709,
   "transactions": [
@@ -115,6 +115,31 @@
           "roster_id": 5
         }
       ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1411207311380209664",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790820551298,
+      "status_updated": 1790990123902,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "drops": [],
       "waiver_budget": [],
       "draft_picks": []
     },
@@ -277,7 +302,7 @@
       "owner_id": "997587248801533952",
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1020,7 +1045,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "jakeeallen",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1202,7 +1227,7 @@
       "owner_id": "1032429157571096576",
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1260,6 +1285,13 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
+          "status": "Active"
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -1574,7 +1606,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1968,7 +2000,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2540,5 +2572,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-02T22:00:29.093Z"
+  "published_at": "2026-10-03T02:00:31.275Z"
 }
