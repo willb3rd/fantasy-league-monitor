@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T17:00:39.989Z",
+  "generated_at": "2026-10-04T20:00:29.198Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1044,7 +1044,7 @@
       "roster_id": 5,
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
-      "display_name": "jakeeallen",
+      "display_name": "GnomeSayin69",
       "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
@@ -2572,5 +2572,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-04T17:00:39.989Z"
+  "published_at": "2026-10-04T20:00:29.198Z"
 }
