@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T16:00:29.227Z",
+  "generated_at": "2026-10-04T17:00:39.989Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -828,17 +828,17 @@
           "status": "Active"
         },
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
-          "position": "TE",
-          "team": "DET",
-          "status": "Active"
-        },
-        {
           "player_id": "8110",
           "name": "Jake Ferguson",
           "position": "TE",
           "team": "DAL",
+          "status": "Active"
+        },
+        {
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -2572,5 +2572,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-04T16:00:29.227Z"
+  "published_at": "2026-10-04T17:00:39.989Z"
 }
