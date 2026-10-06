@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T06:00:27.404Z",
+  "generated_at": "2026-10-06T12:00:25.636Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2133,10 +2133,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "CAR",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2154,10 +2154,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -2175,7 +2175,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 11,
@@ -2572,5 +2580,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-06T06:00:27.404Z"
+  "published_at": "2026-10-06T12:00:25.636Z"
 }
