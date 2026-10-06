@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T21:00:34.375Z",
+  "generated_at": "2026-10-06T22:00:33.598Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -653,10 +653,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2580,5 +2580,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-06T21:00:34.375Z"
+  "published_at": "2026-10-06T22:00:33.598Z"
 }
