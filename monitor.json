@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T16:00:37.571Z",
+  "generated_at": "2026-10-06T19:00:26.591Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1739,8 +1739,8 @@
           "status": "Active"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
@@ -1753,10 +1753,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "12519",
+          "name": "Luther Burden",
           "position": "WR",
-          "team": "KC",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -1767,10 +1767,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN",
           "status": "Active"
         },
         {
@@ -2580,5 +2580,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-06T16:00:37.571Z"
+  "published_at": "2026-10-06T19:00:26.591Z"
 }
