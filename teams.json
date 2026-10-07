@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T21:00:34.509Z",
+  "generated_at": "2026-10-07T22:00:27.100Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -980,17 +980,17 @@
           "status": "Active"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active"
-        },
-        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
           "team": "IND",
+          "status": "Active"
+        },
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T21:00:34.509Z"
+  "published_at": "2026-10-07T22:00:27.100Z"
 }
