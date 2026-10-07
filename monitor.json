@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T07:00:26.080Z",
+  "generated_at": "2026-10-07T09:00:33.723Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "4",
+  "week": "5",
   "week_source": "league_leg",
   "player_mapping": {
     "enabled": true,
@@ -12,297 +12,17 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 9,
-  "latest_transaction_id": "1411513665068318720",
-  "latest_transaction_created": 1790893591709,
-  "transactions": [
-    {
-      "transaction_id": "1411513665068318720",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790893591709,
-      "status_updated": 1790893591709,
-      "creator_id": "1328994047599071232",
-      "creator_team": "JD Chase'n Flowers 4 Mama",
-      "roster_ids": [
-        12
-      ],
-      "adds": [
-        {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA",
-          "status": "Active",
-          "roster_id": 12
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "roster_id": 12
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411440344934977536",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790876110827,
-      "status_updated": 1790876110827,
-      "creator_id": "997588269191708672",
-      "creator_team": "Jahmyr Force One",
-      "roster_ids": [
-        9
-      ],
-      "adds": [
-        {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "2747",
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411371757427843072",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1790859758292,
-      "status_updated": 1790921101155,
-      "creator_id": "464852020482797568",
-      "creator_team": "GnomSayin",
-      "roster_ids": [
-        5
-      ],
-      "adds": [
-        {
-          "player_id": "KC",
-          "name": "KC DST",
-          "position": "DEF",
-          "team": "KC",
-          "status": "Active",
-          "roster_id": 5
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "CIN",
-          "name": "CIN DST",
-          "position": "DEF",
-          "team": "CIN",
-          "status": "Active",
-          "roster_id": 5
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411207311380209664",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1790820551298,
-      "status_updated": 1790990123902,
-      "creator_id": "1032429157571096576",
-      "creator_team": "Jonathan(Taylor’sVersion)",
-      "roster_ids": [
-        6
-      ],
-      "adds": [
-        {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active",
-          "roster_id": 6
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411206881048788992",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790820448699,
-      "status_updated": 1790820448699,
-      "creator_id": "1032429157571096576",
-      "creator_team": "Jonathan(Taylor’sVersion)",
-      "roster_ids": [
-        6
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active",
-          "roster_id": 6
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411136789200039936",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790803737500,
-      "status_updated": 1790803737500,
-      "creator_id": "997960054936584192",
-      "creator_team": "McLovin’ It",
-      "roster_ids": [
-        10
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "10222",
-          "name": "Jayden Reed",
-          "position": "WR",
-          "team": "GB",
-          "status": "Inactive",
-          "roster_id": 10
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411062509623926784",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790786027869,
-      "status_updated": 1790786027869,
-      "creator_id": "997588269191708672",
-      "creator_team": "Jahmyr Force One",
-      "roster_ids": [
-        9
-      ],
-      "adds": [
-        {
-          "player_id": "CHI",
-          "name": "CHI DST",
-          "position": "DEF",
-          "team": "CHI",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "PHI",
-          "name": "PHI DST",
-          "position": "DEF",
-          "team": "PHI",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1411052884824506368",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790783733138,
-      "status_updated": 1790783733138,
-      "creator_id": "1256653358719053824",
-      "creator_team": "Chuba Chuba Choo Choo",
-      "roster_ids": [
-        7
-      ],
-      "adds": [
-        {
-          "player_id": "BUF",
-          "name": "BUF DST",
-          "position": "DEF",
-          "team": "BUF",
-          "status": "Active",
-          "roster_id": 7
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "SF",
-          "name": "SF DST",
-          "position": "DEF",
-          "team": "SF",
-          "status": "Active",
-          "roster_id": 7
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1410976401519050752",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1790765498097,
-      "status_updated": 1790765498097,
-      "creator_id": "859001230779871232",
-      "creator_team": "Diamond Dawgz",
-      "roster_ids": [
-        8
-      ],
-      "adds": [
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "roster_id": 8
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "9226",
-          "name": "De'Von Achane",
-          "position": "RB",
-          "team": "MIA",
-          "status": "Inactive",
-          "roster_id": 8
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    }
-  ],
+  "transaction_count": 0,
+  "latest_transaction_id": null,
+  "latest_transaction_created": null,
+  "transactions": [],
   "rosters": [
     {
       "roster_id": 1,
       "owner_id": "997587248801533952",
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 4,
+      "waiver_position": 3,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -681,7 +401,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 12,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -863,7 +583,7 @@
       "owner_id": "997584125194194944",
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 6,
+      "waiver_position": 5,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1045,7 +765,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1085,13 +805,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
           "player_id": "4663",
           "name": "Austin Ekeler",
           "position": "RB",
@@ -1103,6 +816,13 @@
           "name": "Dalton Schultz",
           "position": "TE",
           "team": "HOU",
+          "status": "Active"
+        },
+        {
+          "player_id": "6083",
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -1148,10 +868,10 @@
           "status": "Active"
         },
         {
-          "player_id": "KC",
-          "name": "KC DST",
+          "player_id": "CIN",
+          "name": "CIN DST",
           "position": "DEF",
-          "team": "KC",
+          "team": "CIN",
           "status": "Active"
         }
       ],
@@ -1206,18 +926,18 @@
           "status": "Active"
         },
         {
-          "player_id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
-          "player_id": "KC",
-          "name": "KC DST",
-          "position": "DEF",
-          "team": "KC",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         }
       ],
       "reserve": []
@@ -1227,7 +947,7 @@
       "owner_id": "1032429157571096576",
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 2,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1236,6 +956,13 @@
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
+          "status": "Active"
+        },
+        {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -1313,13 +1040,6 @@
           "name": "Jonathan Taylor",
           "position": "RB",
           "team": "IND",
-          "status": "Active"
-        },
-        {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "position": "WR",
-          "team": "PIT",
           "status": "Active"
         },
         {
@@ -1424,7 +1144,7 @@
       "owner_id": "1256653358719053824",
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 10,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1606,7 +1326,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 9,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1660,6 +1380,13 @@
           "status": "Active"
         },
         {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Active"
+        },
+        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
@@ -1685,13 +1412,6 @@
           "name": "CeeDee Lamb",
           "position": "WR",
           "team": "DAL",
-          "status": "Active"
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
           "status": "Active"
         },
         {
@@ -1803,7 +1523,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 3,
+      "waiver_position": 2,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2000,7 +1720,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2190,7 +1910,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 5,
+      "waiver_position": 4,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2387,7 +2107,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "JD Chase'n Flowers 4 Mama",
       "display_name": "willb3rd",
-      "waiver_position": 11,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2580,5 +2300,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T07:00:26.080Z"
+  "published_at": "2026-10-07T09:00:33.723Z"
 }
