@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T18:00:34.804Z",
+  "generated_at": "2026-10-07T19:00:37.719Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -705,13 +705,6 @@
       "waiver_position": 7,
       "players": [
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -786,6 +779,13 @@
           "name": "Evan McPherson",
           "position": "K",
           "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T18:00:34.804Z"
+  "published_at": "2026-10-07T19:00:37.719Z"
 }
