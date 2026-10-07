@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T12:00:54.890Z",
+  "generated_at": "2026-10-07T14:00:51.128Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -933,10 +933,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "DEN",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -947,32 +947,32 @@
           "status": "Active"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
+          "player_id": "12517",
+          "name": "Colston Loveland",
           "position": "TE",
-          "team": "HOU",
+          "team": "CHI",
           "status": "Active"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "6083",
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
+          "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "CIN",
+          "name": "CIN DST",
+          "position": "DEF",
+          "team": "CIN",
+          "status": "Active"
         }
       ],
       "reserve": []
@@ -1930,15 +1930,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 11,
@@ -2335,5 +2327,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T12:00:54.890Z"
+  "published_at": "2026-10-07T14:00:51.128Z"
 }
