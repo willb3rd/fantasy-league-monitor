@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T13:00:25.498Z",
+  "generated_at": "2026-10-07T18:00:34.804Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -803,10 +803,10 @@
           "status": "Active"
         },
         {
-          "player_id": "BUF",
-          "name": "BUF DST",
+          "player_id": "JAX",
+          "name": "JAX DST",
           "position": "DEF",
-          "team": "BUF",
+          "team": "JAX",
           "status": "Active"
         }
       ]
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T13:00:25.498Z"
+  "published_at": "2026-10-07T18:00:34.804Z"
 }
