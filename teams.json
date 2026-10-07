@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T08:00:34.393Z",
+  "generated_at": "2026-10-07T13:00:25.498Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1319,17 +1319,17 @@
           "status": "Active"
         },
         {
+          "player_id": "2747",
+          "name": "Jason Myers",
+          "position": "K",
+          "team": "SEA",
+          "status": "Active"
+        },
+        {
           "player_id": "4035",
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T08:00:34.393Z"
+  "published_at": "2026-10-07T13:00:25.498Z"
 }
