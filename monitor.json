@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T14:00:51.128Z",
+  "generated_at": "2026-10-07T15:00:40.900Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2274,10 +2274,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "CIN",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2327,5 +2327,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T14:00:51.128Z"
+  "published_at": "2026-10-07T15:00:40.900Z"
 }
