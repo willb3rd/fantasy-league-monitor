@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T22:00:33.598Z",
+  "generated_at": "2026-10-07T07:00:26.080Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1374,10 +1374,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "13298",
+          "name": "KC Concepcion",
           "position": "WR",
-          "team": "KC",
+          "team": "CLE",
           "status": "Active"
         },
         {
@@ -2580,5 +2580,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-06T22:00:33.598Z"
+  "published_at": "2026-10-07T07:00:26.080Z"
 }
