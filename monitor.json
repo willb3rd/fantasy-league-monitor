@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T15:00:40.900Z",
+  "generated_at": "2026-10-07T20:00:36.421Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,112 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 1,
-  "latest_transaction_id": "1413514022682112000",
-  "latest_transaction_created": 1791370514129,
+  "transaction_count": 4,
+  "latest_transaction_id": "1413644168856641536",
+  "latest_transaction_created": 1791401543395,
   "transactions": [
+    {
+      "transaction_id": "1413644168856641536",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791401543395,
+      "status_updated": 1791401543395,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1413621460630532096",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791396129333,
+      "status_updated": 1791396129333,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1413619259778560000",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791395604609,
+      "status_updated": 1791395604609,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "JAX",
+          "name": "JAX DST",
+          "position": "DEF",
+          "team": "JAX",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "BUF",
+          "name": "BUF DST",
+          "position": "DEF",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1413514022682112000",
       "type": "free_agent",
@@ -1184,13 +1286,6 @@
       "total_moves": 0,
       "players": [
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -1268,6 +1363,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "8144",
           "name": "Chris Olave",
           "position": "WR",
@@ -1282,10 +1384,10 @@
           "status": "Active"
         },
         {
-          "player_id": "BUF",
-          "name": "BUF DST",
+          "player_id": "JAX",
+          "name": "JAX DST",
           "position": "DEF",
-          "team": "BUF",
+          "team": "JAX",
           "status": "Active"
         }
       ],
@@ -1347,10 +1449,10 @@
           "status": "Active"
         },
         {
-          "player_id": "BUF",
-          "name": "BUF DST",
+          "player_id": "JAX",
+          "name": "JAX DST",
           "position": "DEF",
-          "team": "BUF",
+          "team": "JAX",
           "status": "Active"
         }
       ],
@@ -2146,13 +2248,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA",
-          "status": "Active"
-        },
-        {
           "player_id": "12474",
           "name": "Woody Marks",
           "position": "RB",
@@ -2199,6 +2294,13 @@
           "name": "Javonte Williams",
           "position": "RB",
           "team": "DAL",
+          "status": "Active"
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -2327,5 +2429,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T15:00:40.900Z"
+  "published_at": "2026-10-07T20:00:36.421Z"
 }
