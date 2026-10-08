@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T22:00:27.100Z",
+  "generated_at": "2026-10-08T02:00:27.802Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -48,10 +48,10 @@
           "status": "Active"
         },
         {
-          "player_id": "1339",
-          "name": "Zach Ertz",
-          "position": "TE",
-          "team": "PHI",
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -118,10 +118,10 @@
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
+          "player_id": "DAL",
+          "name": "DAL DST",
           "position": "DEF",
-          "team": "BAL",
+          "team": "DAL",
           "status": "Active"
         }
       ]
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T22:00:27.100Z"
+  "published_at": "2026-10-08T02:00:27.802Z"
 }
