@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T23:00:27.718Z",
+  "generated_at": "2026-10-08T00:00:51.826Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1237,10 +1237,10 @@
       ],
       "starters": [
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "LAC",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -1251,15 +1251,15 @@
           "status": "Active"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "11577",
+          "name": "Will Shipley",
           "position": "RB",
           "team": "PHI",
           "status": "Active"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
           "team": "MIN",
           "status": "Active"
@@ -1302,10 +1302,10 @@
       ],
       "reserve": [
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT",
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR",
           "status": "Active"
         }
       ]
@@ -2463,5 +2463,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-07T23:00:27.718Z"
+  "published_at": "2026-10-08T00:00:51.826Z"
 }
