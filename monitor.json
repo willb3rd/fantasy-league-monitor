@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T18:00:37.696Z",
+  "generated_at": "2026-10-09T20:00:31.317Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1783,10 +1783,10 @@
       ],
       "reserve": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI",
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ",
           "status": "Active"
         }
       ]
@@ -2565,5 +2565,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-09T18:00:37.696Z"
+  "published_at": "2026-10-09T20:00:31.317Z"
 }
