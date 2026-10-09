@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T02:00:27.802Z",
+  "generated_at": "2026-10-09T11:00:32.902Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -380,17 +380,17 @@
           "status": "Active"
         },
         {
+          "player_id": "13402",
+          "name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC",
-          "status": "Active"
-        },
-        {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-08T02:00:27.802Z"
+  "published_at": "2026-10-09T11:00:32.902Z"
 }
