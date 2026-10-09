@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T10:00:32.013Z",
+  "generated_at": "2026-10-09T10:00:28.778Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 7,
-  "latest_transaction_id": "1413737898422906880",
-  "latest_transaction_created": 1791423890266,
+  "transaction_count": 8,
+  "latest_transaction_id": "1414220800369659904",
+  "latest_transaction_created": 1791539023062,
   "transactions": [
+    {
+      "transaction_id": "1414220800369659904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791539023062,
+      "status_updated": 1791539023062,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "13402",
+          "name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1413737898422906880",
       "type": "free_agent",
@@ -848,17 +882,17 @@
           "status": "Active"
         },
         {
+          "player_id": "13402",
+          "name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC",
-          "status": "Active"
-        },
-        {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -2531,5 +2565,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-08T10:00:32.013Z"
+  "published_at": "2026-10-09T10:00:28.778Z"
 }
