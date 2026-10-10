@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T20:00:31.317Z",
+  "generated_at": "2026-10-10T16:00:39.465Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 8,
-  "latest_transaction_id": "1414220800369659904",
-  "latest_transaction_created": 1791539023062,
+  "transaction_count": 9,
+  "latest_transaction_id": "1414666325065740288",
+  "latest_transaction_created": 1791645244427,
   "transactions": [
+    {
+      "transaction_id": "1414666325065740288",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791645244427,
+      "status_updated": 1791645244427,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1414220800369659904",
       "type": "free_agent",
@@ -2384,10 +2418,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "HOU",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2565,5 +2599,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-09T20:00:31.317Z"
+  "published_at": "2026-10-10T16:00:39.465Z"
 }
