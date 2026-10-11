@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T16:00:39.465Z",
+  "generated_at": "2026-10-11T07:00:34.516Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1037,10 +1037,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
+          "player_id": "12506",
+          "name": "Harold Fannin",
           "position": "TE",
-          "team": "CIN",
+          "team": "CLE",
           "status": "Active"
         },
         {
@@ -2599,5 +2599,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-10T16:00:39.465Z"
+  "published_at": "2026-10-11T07:00:34.516Z"
 }
