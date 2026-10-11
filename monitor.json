@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T16:00:22.625Z",
+  "generated_at": "2026-10-11T16:45:18.457Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2553,10 +2553,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9997",
-          "name": "Zay Flowers",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "BAL",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2599,5 +2599,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-11T16:00:22.625Z"
+  "published_at": "2026-10-11T16:45:18.457Z"
 }
