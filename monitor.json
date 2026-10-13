@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T15:00:47.232Z",
+  "generated_at": "2026-10-13T16:00:31.439Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1563,10 +1563,10 @@
       ],
       "starters": [
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "LV",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -1577,17 +1577,17 @@
           "status": "Active"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "LAC",
+          "team": "CAR",
           "status": "Active"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
+          "player_id": "11631",
+          "name": "Brian Thomas",
           "position": "WR",
-          "team": "DET",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2599,5 +2599,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-13T15:00:47.232Z"
+  "published_at": "2026-10-13T16:00:31.439Z"
 }
