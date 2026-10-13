@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T00:00:28.333Z",
+  "generated_at": "2026-10-13T06:00:36.888Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -329,7 +329,7 @@
       "owner_id": "997587248801533952",
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 3,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -526,7 +526,7 @@
       "owner_id": "997580979944402944",
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 1,
+      "waiver_position": 2,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -708,7 +708,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 9,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -890,7 +890,7 @@
       "owner_id": "997584125194194944",
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 5,
+      "waiver_position": 3,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1072,7 +1072,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 12,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1254,7 +1254,7 @@
       "owner_id": "1032429157571096576",
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 10,
+      "waiver_position": 1,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1451,7 +1451,7 @@
       "owner_id": "1256653358719053824",
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1830,7 +1830,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 2,
+      "waiver_position": 4,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2027,7 +2027,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 6,
+      "waiver_position": 5,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2209,7 +2209,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 4,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2406,7 +2406,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "JD Chase'n Flowers 4 Mama",
       "display_name": "willb3rd",
-      "waiver_position": 8,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2599,5 +2599,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-13T00:00:28.333Z"
+  "published_at": "2026-10-13T06:00:36.888Z"
 }
