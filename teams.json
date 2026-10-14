@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T16:00:20.011Z",
+  "generated_at": "2026-10-14T17:00:08.999Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -592,13 +592,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active"
-        },
-        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
@@ -620,17 +613,17 @@
           "status": "Active"
         },
         {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
           "team": "CLE",
-          "status": "Active"
-        },
-        {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -687,6 +680,13 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
           "status": "Active"
         },
         {
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T16:00:20.011Z"
+  "published_at": "2026-10-14T17:00:08.999Z"
 }
