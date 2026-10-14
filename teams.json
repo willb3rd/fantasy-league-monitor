@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T17:00:08.999Z",
+  "generated_at": "2026-10-14T18:00:19.692Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1107,6 +1107,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active"
+        },
+        {
           "player_id": "1945",
           "name": "Chris Boswell",
           "position": "K",
@@ -1118,13 +1125,6 @@
           "name": "Dak Prescott",
           "position": "QB",
           "team": "DAL",
-          "status": "Active"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
           "status": "Active"
         },
         {
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T17:00:08.999Z"
+  "published_at": "2026-10-14T18:00:19.692Z"
 }
