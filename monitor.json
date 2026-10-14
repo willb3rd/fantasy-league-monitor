@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T16:00:31.439Z",
+  "generated_at": "2026-10-14T05:00:15.161Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 9,
-  "latest_transaction_id": "1414666325065740288",
-  "latest_transaction_created": 1791645244427,
+  "transaction_count": 10,
+  "latest_transaction_id": "1415940943617458176",
+  "latest_transaction_created": 1791949137170,
   "transactions": [
+    {
+      "transaction_id": "1415940943617458176",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791949137170,
+      "status_updated": 1791949137170,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1414666325065740288",
       "type": "free_agent",
@@ -1687,13 +1712,6 @@
           "status": "Active"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI",
-          "status": "Active"
-        },
-        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
@@ -1752,22 +1770,22 @@
       ],
       "starters": [
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "9228",
+          "name": "Bryce Young",
           "position": "QB",
-          "team": "ARI",
+          "team": "CAR",
           "status": "Active"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
+          "player_id": "5967",
+          "name": "Tony Pollard",
           "position": "RB",
-          "team": "MIN",
+          "team": "TEN",
           "status": "Active"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
@@ -1780,10 +1798,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "CHI",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -1794,10 +1812,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN",
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -1815,15 +1833,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 9,
@@ -2599,5 +2609,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-13T16:00:31.439Z"
+  "published_at": "2026-10-14T05:00:15.161Z"
 }
