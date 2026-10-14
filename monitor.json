@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T11:00:15.509Z",
+  "generated_at": "2026-10-14T13:00:14.051Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -926,10 +926,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "ARI",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -968,11 +968,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "IND",
+          "name": "IND DST",
+          "position": "DEF",
+          "team": "IND",
+          "status": "Active"
         }
       ],
       "reserve": []
@@ -2312,5 +2312,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T11:00:15.509Z"
+  "published_at": "2026-10-14T13:00:14.051Z"
 }
