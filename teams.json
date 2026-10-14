@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T12:00:08.905Z",
+  "generated_at": "2026-10-14T14:00:10.911Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -274,18 +274,18 @@
           "status": "Active"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active"
-        },
-        {
           "player_id": "13286",
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA",
           "status": "Inactive"
+        },
+        {
+          "player_id": "13545",
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB",
+          "status": "Active"
         },
         {
           "player_id": "13726",
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T12:00:08.905Z"
+  "published_at": "2026-10-14T14:00:10.911Z"
 }
