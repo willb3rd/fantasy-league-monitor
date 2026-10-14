@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T09:00:15.994Z",
+  "generated_at": "2026-10-14T11:00:15.509Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,45 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 1,
+  "latest_transaction_id": "1416042302392053760",
+  "latest_transaction_created": 1791973302986,
+  "transactions": [
+    {
+      "transaction_id": "1416042302392053760",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791973302986,
+      "status_updated": 1791973302986,
+      "creator_id": "1328994047599071232",
+      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "KC",
+          "name": "KC DST",
+          "position": "DEF",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "DEN",
+          "name": "DEN DST",
+          "position": "DEF",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -2194,10 +2229,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DEN",
-          "name": "DEN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "DEN",
+          "team": "KC",
           "status": "Active"
         }
       ],
@@ -2210,10 +2245,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "CIN",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2224,17 +2259,17 @@
           "status": "Active"
         },
         {
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "5846",
           "name": "DK Metcalf",
           "position": "WR",
           "team": "PIT",
-          "status": "Active"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2245,10 +2280,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "LAR",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2259,10 +2294,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DEN",
-          "name": "DEN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "DEN",
+          "team": "KC",
           "status": "Active"
         }
       ],
@@ -2277,5 +2312,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T09:00:15.994Z"
+  "published_at": "2026-10-14T11:00:15.509Z"
 }
