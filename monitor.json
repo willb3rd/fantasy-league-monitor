@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T14:00:10.911Z",
+  "generated_at": "2026-10-14T19:00:09.579Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,144 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 2,
-  "latest_transaction_id": "1416088693097209856",
-  "latest_transaction_created": 1791984363391,
+  "transaction_count": 7,
+  "latest_transaction_id": "1416154493711659008",
+  "latest_transaction_created": 1792000051481,
   "transactions": [
+    {
+      "transaction_id": "1416154493711659008",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792000051481,
+      "status_updated": 1792000051481,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416138255614644224",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791996180017,
+      "status_updated": 1791996180017,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416138085107802112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791996139364,
+      "status_updated": 1791996139364,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416137902508855296",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791996095830,
+      "status_updated": 1791996095830,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [
+        {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416137520663576576",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791996004791,
+      "status_updated": 1791996004791,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1416088693097209856",
       "type": "free_agent",
@@ -57,7 +191,7 @@
       "created": 1791973302986,
       "status_updated": 1791973302986,
       "creator_id": "1328994047599071232",
-      "creator_team": "JD Chase'n Flowers 4 Mama",
+      "creator_team": "Love thy Nabers Flowers",
       "roster_ids": [
         12
       ],
@@ -1028,13 +1162,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active"
-        },
-        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
@@ -1056,17 +1183,17 @@
           "status": "Active"
         },
         {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
           "team": "CLE",
-          "status": "Active"
-        },
-        {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -1126,6 +1253,13 @@
           "status": "Active"
         },
         {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "player_id": "MIN",
           "name": "MIN DST",
           "position": "DEF",
@@ -1149,17 +1283,17 @@
           "status": "Active"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
           "status": "Active"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "MIN",
+          "team": "CAR",
           "status": "Active"
         },
         {
@@ -1184,26 +1318,26 @@
           "status": "Active"
         },
         {
-          "player_id": "11792",
-          "name": "Will Reichard",
+          "player_id": "12711",
+          "name": "Tyler Loop",
           "position": "K",
-          "team": "MIN",
+          "team": "BAL",
           "status": "Active"
         },
         {
-          "player_id": "MIN",
-          "name": "MIN DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "MIN",
+          "team": "BAL",
           "status": "Active"
         }
       ],
       "reserve": [
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "CAR",
+          "team": "MIN",
           "status": "Active"
         }
       ]
@@ -1346,10 +1480,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "JAX",
+          "team": "TEN",
           "status": "Active"
         },
         {
@@ -1374,18 +1508,18 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "5189",
+          "name": "Eddy Pineiro",
+          "position": "K",
+          "team": "SF",
+          "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "SF",
+          "name": "SF DST",
+          "position": "DEF",
+          "team": "SF",
+          "status": "Active"
         }
       ],
       "reserve": []
@@ -1835,6 +1969,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active"
+        },
+        {
           "player_id": "1945",
           "name": "Chris Boswell",
           "position": "K",
@@ -1846,13 +1987,6 @@
           "name": "Dak Prescott",
           "position": "QB",
           "team": "DAL",
-          "status": "Active"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2151,7 +2285,7 @@
     {
       "roster_id": 12,
       "owner_id": "1328994047599071232",
-      "team_name": "JD Chase'n Flowers 4 Mama",
+      "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
       "waiver_position": 7,
       "waiver_budget_used": 0,
@@ -2346,5 +2480,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T14:00:10.911Z"
+  "published_at": "2026-10-14T19:00:09.579Z"
 }
