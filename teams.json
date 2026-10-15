@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T18:00:19.692Z",
+  "generated_at": "2026-10-15T15:00:57.304Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -380,16 +380,23 @@
           "status": "Active"
         },
         {
-          "player_id": "13402",
-          "name": "Skyler Bell",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active"
-        },
-        {
           "player_id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "4227",
+          "name": "Harrison Butker",
+          "position": "K",
           "team": "KC",
           "status": "Active"
         },
@@ -405,13 +412,6 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF",
-          "status": "Active"
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -443,17 +443,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "9493",
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T18:00:19.692Z"
+  "published_at": "2026-10-15T15:00:57.304Z"
 }
