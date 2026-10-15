@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T23:00:55.972Z",
+  "generated_at": "2026-10-15T08:00:51.884Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -372,10 +372,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "9500",
+          "name": "Josh Downs",
           "position": "WR",
-          "team": "MIA",
+          "team": "IND",
           "status": "Active"
         },
         {
@@ -2480,5 +2480,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-14T23:00:55.972Z"
+  "published_at": "2026-10-15T08:00:51.884Z"
 }
