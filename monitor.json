@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T16:00:59.778Z",
+  "generated_at": "2026-10-15T21:01:00.186Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -848,10 +848,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "8151",
+          "name": "Kenneth Walker",
           "position": "RB",
-          "team": "LAR",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -876,10 +876,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
-          "position": "RB",
-          "team": "KC",
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -2598,5 +2598,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-15T16:00:59.778Z"
+  "published_at": "2026-10-15T21:01:00.186Z"
 }
