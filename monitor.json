@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T08:00:51.884Z",
+  "generated_at": "2026-10-15T16:00:59.778Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,128 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 7,
-  "latest_transaction_id": "1416154493711659008",
-  "latest_transaction_created": 1792000051481,
+  "transaction_count": 11,
+  "latest_transaction_id": "1416473898060402688",
+  "latest_transaction_created": 1792076203412,
   "transactions": [
+    {
+      "transaction_id": "1416473898060402688",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792076203412,
+      "status_updated": 1792076203412,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416472920330383360",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792075970302,
+      "status_updated": 1792075970302,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "4227",
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416472518394408960",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792075874473,
+      "status_updated": 1792075874473,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416471156390735872",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792075549746,
+      "status_updated": 1792075549746,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13402",
+          "name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1416154493711659008",
       "type": "free_agent",
@@ -812,16 +930,23 @@
           "status": "Active"
         },
         {
-          "player_id": "13402",
-          "name": "Skyler Bell",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active"
-        },
-        {
           "player_id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "4227",
+          "name": "Harrison Butker",
+          "position": "K",
           "team": "KC",
           "status": "Active"
         },
@@ -837,13 +962,6 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF",
-          "status": "Active"
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -875,17 +993,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "9493",
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -905,10 +1023,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
           "position": "RB",
-          "team": "HOU",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -919,10 +1037,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "NE",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -933,15 +1051,15 @@
           "status": "Active"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "CLE",
+          "team": "KC",
           "status": "Active"
         },
         {
-          "player_id": "13402",
-          "name": "Skyler Bell",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
           "team": "BUF",
           "status": "Active"
@@ -2480,5 +2598,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-15T08:00:51.884Z"
+  "published_at": "2026-10-15T16:00:59.778Z"
 }
