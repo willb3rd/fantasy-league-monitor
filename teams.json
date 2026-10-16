@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T15:00:57.304Z",
+  "generated_at": "2026-10-16T03:00:57.863Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,15 +10,8 @@
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 6,
+      "waiver_position": 12,
       "players": [
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez",
-          "position": "RB",
-          "team": "JAX",
-          "status": "Active"
-        },
         {
           "player_id": "11563",
           "name": "Bo Nix",
@@ -55,10 +48,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -118,10 +111,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DAL",
-          "name": "DAL DST",
+          "player_id": "CAR",
+          "name": "CAR DST",
           "position": "DEF",
-          "team": "DAL",
+          "team": "CAR",
           "status": "Active"
         }
       ]
@@ -243,7 +236,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "10859",
@@ -469,7 +462,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "12474",
@@ -702,7 +695,7 @@
       "roster_id": 7,
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "11631",
@@ -815,7 +808,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "10229",
@@ -1161,7 +1154,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "11533",
@@ -1281,7 +1274,7 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "11566",
@@ -1398,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-15T15:00:57.304Z"
+  "published_at": "2026-10-16T03:00:57.863Z"
 }
