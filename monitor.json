@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T19:00:49.971Z",
+  "generated_at": "2026-10-16T21:00:14.977Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -379,7 +379,7 @@
           "name": "Will Shipley",
           "position": "RB",
           "team": "PHI",
-          "status": "Active",
+          "status": "Inactive",
           "roster_id": 6
         }
       ],
@@ -2716,5 +2716,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-16T19:00:49.971Z"
+  "published_at": "2026-10-16T21:00:14.977Z"
 }
