@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T04:00:51.533Z",
+  "generated_at": "2026-10-16T07:00:52.224Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 14,
-  "latest_transaction_id": "1416635832743329792",
-  "latest_transaction_created": 1792114811648,
+  "transaction_count": 15,
+  "latest_transaction_id": "1416691920905723904",
+  "latest_transaction_created": 1792128184108,
   "transactions": [
+    {
+      "transaction_id": "1416691920905723904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792128184108,
+      "status_updated": 1792128184108,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1416635832743329792",
       "type": "free_agent",
@@ -525,6 +550,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX",
+          "status": "Active"
+        },
+        {
           "player_id": "9500",
           "name": "Josh Downs",
           "position": "WR",
@@ -548,11 +580,11 @@
       ],
       "starters": [
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Active"
         },
         {
           "player_id": "9509",
@@ -590,10 +622,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS",
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2684,5 +2716,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-16T04:00:51.533Z"
+  "published_at": "2026-10-16T07:00:52.224Z"
 }
