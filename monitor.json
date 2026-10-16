@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T21:01:00.186Z",
+  "generated_at": "2026-10-16T01:01:07.395Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1773,8 +1773,8 @@
           "status": "Active"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
@@ -2598,5 +2598,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-15T21:01:00.186Z"
+  "published_at": "2026-10-16T01:01:07.395Z"
 }
