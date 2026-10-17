@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T21:00:14.977Z",
+  "generated_at": "2026-10-17T08:00:14.810Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 15,
+  "transaction_count": 16,
   "latest_transaction_id": "1416691920905723904",
   "latest_transaction_created": 1792128184108,
   "transactions": [
@@ -387,6 +387,89 @@
       "draft_picks": []
     },
     {
+      "transaction_id": "1416104787467857920",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791988200588,
+      "status_updated": 1792217500778,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        2,
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 12
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 12
+        },
+        {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 12
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 2
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1416088693097209856",
       "type": "free_agent",
       "status": "complete",
@@ -663,17 +746,17 @@
       "total_moves": 0,
       "players": [
         {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "11584",
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB",
-          "status": "Active"
-        },
-        {
-          "player_id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG",
           "status": "Active"
         },
         {
@@ -719,13 +802,6 @@
           "status": "Active"
         },
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "8112",
           "name": "Drake London",
           "position": "WR",
@@ -758,6 +834,13 @@
           "name": "Cameron Dicker",
           "position": "K",
           "team": "LAC",
+          "status": "Active"
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -798,10 +881,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "NYG",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -812,10 +895,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "SF",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2528,17 +2611,17 @@
       "total_moves": 0,
       "players": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
-          "status": "Active"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB",
+          "status": "Active"
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2577,6 +2660,13 @@
           "status": "Active"
         },
         {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active"
+        },
+        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
@@ -2602,13 +2692,6 @@
           "name": "Kyren Williams",
           "position": "RB",
           "team": "LAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2642,11 +2725,11 @@
       ],
       "starters": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "8150",
@@ -2716,5 +2799,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-16T21:00:14.977Z"
+  "published_at": "2026-10-17T08:00:14.810Z"
 }
