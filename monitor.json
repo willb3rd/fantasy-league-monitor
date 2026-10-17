@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T19:00:14.772Z",
+  "generated_at": "2026-10-17T22:00:14.746Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -643,7 +643,7 @@
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "7543",
@@ -766,7 +766,7 @@
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI",
-          "status": "Active"
+          "status": "Inactive"
         }
       ]
     },
@@ -2841,5 +2841,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-17T19:00:14.772Z"
+  "published_at": "2026-10-17T22:00:14.746Z"
 }
