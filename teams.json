@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T19:00:33.676Z",
+  "generated_at": "2026-10-17T07:00:14.822Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -133,17 +133,17 @@
       "waiver_position": 2,
       "players": [
         {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "11584",
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB",
-          "status": "Active"
-        },
-        {
-          "player_id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG",
           "status": "Active"
         },
         {
@@ -189,13 +189,6 @@
           "status": "Active"
         },
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "8112",
           "name": "Drake London",
           "position": "WR",
@@ -228,6 +221,13 @@
           "name": "Cameron Dicker",
           "position": "K",
           "team": "LAC",
+          "status": "Active"
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -1284,17 +1284,17 @@
       "waiver_position": 6,
       "players": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
-          "status": "Active"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB",
+          "status": "Active"
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -1333,6 +1333,13 @@
           "status": "Active"
         },
         {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active"
+        },
+        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
@@ -1358,13 +1365,6 @@
           "name": "Kyren Williams",
           "position": "RB",
           "team": "LAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -1398,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-16T19:00:33.676Z"
+  "published_at": "2026-10-17T07:00:14.822Z"
 }
