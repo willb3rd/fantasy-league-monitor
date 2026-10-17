@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T11:00:14.831Z",
+  "generated_at": "2026-10-17T16:00:14.970Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1988,10 +1988,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "12519",
+          "name": "Luther Burden",
           "position": "WR",
-          "team": "KC",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2002,10 +2002,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2474,7 +2474,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "status": "Inactive"
+          "status": "Active"
         },
         {
           "player_id": "6770",
@@ -2799,5 +2799,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-17T11:00:14.831Z"
+  "published_at": "2026-10-17T16:00:14.970Z"
 }
