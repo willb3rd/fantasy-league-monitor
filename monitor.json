@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T16:00:14.970Z",
+  "generated_at": "2026-10-17T18:00:14.778Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 16,
-  "latest_transaction_id": "1416691920905723904",
-  "latest_transaction_created": 1792128184108,
+  "transaction_count": 17,
+  "latest_transaction_id": "1417222237622136832",
+  "latest_transaction_created": 1792254621466,
   "transactions": [
+    {
+      "transaction_id": "1417222237622136832",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792254621466,
+      "status_updated": 1792254621466,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Inactive",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1416691920905723904",
       "type": "free_agent",
@@ -2149,11 +2183,11 @@
       ],
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "BAL",
-          "status": "Inactive"
+          "team": "CLE",
+          "status": "Active"
         },
         {
           "player_id": "8132",
@@ -2611,13 +2645,6 @@
       "total_moves": 0,
       "players": [
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "11632",
           "name": "Malik Nabers",
           "position": "WR",
@@ -2695,6 +2722,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Inactive"
+        },
+        {
           "player_id": "9484",
           "name": "Tucker Kraft",
           "position": "TE",
@@ -2767,10 +2801,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2799,5 +2833,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-17T16:00:14.970Z"
+  "published_at": "2026-10-17T18:00:14.778Z"
 }
