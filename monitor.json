@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T08:00:14.810Z",
+  "generated_at": "2026-10-17T11:00:14.831Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2725,11 +2725,11 @@
       ],
       "starters": [
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active"
         },
         {
           "player_id": "8150",
@@ -2753,10 +2753,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "PIT",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2799,5 +2799,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-17T08:00:14.810Z"
+  "published_at": "2026-10-17T11:00:14.831Z"
 }
