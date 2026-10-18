@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T13:00:15.005Z",
+  "generated_at": "2026-10-18T14:00:14.858Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2591,10 +2591,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "NO",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2841,5 +2841,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-18T13:00:15.005Z"
+  "published_at": "2026-10-18T14:00:14.858Z"
 }
