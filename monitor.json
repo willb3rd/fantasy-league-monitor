@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T22:00:14.746Z",
+  "generated_at": "2026-10-18T13:00:15.005Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1111,10 +1111,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB",
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -1636,10 +1636,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "PHI",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2841,5 +2841,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-17T22:00:14.746Z"
+  "published_at": "2026-10-18T13:00:15.005Z"
 }
