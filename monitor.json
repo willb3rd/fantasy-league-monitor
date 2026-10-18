@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T14:00:14.858Z",
+  "generated_at": "2026-10-18T18:00:14.797Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,69 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 17,
-  "latest_transaction_id": "1417222237622136832",
-  "latest_transaction_created": 1792254621466,
+  "transaction_count": 19,
+  "latest_transaction_id": "1417577624477179904",
+  "latest_transaction_created": 1792339352296,
   "transactions": [
+    {
+      "transaction_id": "1417577624477179904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792339352296,
+      "status_updated": 1792339352296,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1417577073576263680",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792339220951,
+      "status_updated": 1792339220951,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12508",
+          "name": "Jaxson Dart",
+          "position": "QB",
+          "team": "NYG",
+          "status": "Inactive",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1417222237622136832",
       "type": "free_agent",
@@ -2098,13 +2157,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG",
-          "status": "Inactive"
-        },
-        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -2140,10 +2192,10 @@
           "status": "Inactive"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "position": "WR",
-          "team": "DEN",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2226,10 +2278,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "IND",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2254,15 +2306,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG",
-          "status": "Inactive"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 10,
@@ -2841,5 +2885,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-18T14:00:14.858Z"
+  "published_at": "2026-10-18T18:00:14.797Z"
 }
