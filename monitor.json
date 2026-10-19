@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T18:00:14.797Z",
+  "generated_at": "2026-10-19T22:00:14.799Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -667,7 +667,7 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "13264",
@@ -1284,7 +1284,7 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9493",
@@ -2885,5 +2885,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-18T18:00:14.797Z"
+  "published_at": "2026-10-19T22:00:14.799Z"
 }
