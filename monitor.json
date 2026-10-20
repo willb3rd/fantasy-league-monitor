@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T12:00:14.741Z",
+  "generated_at": "2026-10-20T19:00:14.760Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2847,10 +2847,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "NYG",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2861,10 +2861,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "PIT",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2893,5 +2893,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-20T12:00:14.741Z"
+  "published_at": "2026-10-20T19:00:14.760Z"
 }
