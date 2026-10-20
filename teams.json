@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T21:00:14.790Z",
+  "generated_at": "2026-10-20T22:00:14.761Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -292,7 +292,7 @@
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "3163",
@@ -1384,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-20T21:00:14.790Z"
+  "published_at": "2026-10-20T22:00:14.761Z"
 }
