@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T19:00:14.760Z",
+  "generated_at": "2026-10-20T23:00:14.750Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 19,
-  "latest_transaction_id": "1417577624477179904",
-  "latest_transaction_created": 1792339352296,
+  "transaction_count": 20,
+  "latest_transaction_id": "1418362993871245312",
+  "latest_transaction_created": 1792526598950,
   "transactions": [
+    {
+      "transaction_id": "1418362993871245312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792526598950,
+      "status_updated": 1792526598950,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Inactive",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1417577624477179904",
       "type": "free_agent",
@@ -698,13 +723,6 @@
           "status": "Active"
         },
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI",
-          "status": "Inactive"
-        },
-        {
           "player_id": "7543",
           "name": "Travis Etienne",
           "position": "RB",
@@ -819,15 +837,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI",
-          "status": "Inactive"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 2,
@@ -1074,7 +1084,7 @@
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "3163",
@@ -1153,7 +1163,7 @@
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "9488",
@@ -2603,7 +2613,7 @@
           "name": "Tank Dell",
           "position": "WR",
           "team": "HOU",
-          "status": "Inactive"
+          "status": "Active"
         },
         {
           "player_id": "96",
@@ -2893,5 +2903,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-20T19:00:14.760Z"
+  "published_at": "2026-10-20T23:00:14.750Z"
 }
