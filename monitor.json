@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T23:00:14.750Z",
+  "generated_at": "2026-10-21T02:00:14.776Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -963,10 +963,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8138",
-          "name": "James Cook",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "BUF",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -998,10 +998,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "team": "ATL",
           "status": "Active"
         },
         {
@@ -2632,10 +2632,10 @@
       ],
       "starters": [
         {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
+          "player_id": "6770",
+          "name": "Joe Burrow",
           "position": "QB",
-          "team": "PIT",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2646,10 +2646,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
+          "player_id": "5850",
+          "name": "Josh Jacobs",
           "position": "RB",
-          "team": "NE",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2903,5 +2903,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-20T23:00:14.750Z"
+  "published_at": "2026-10-21T02:00:14.776Z"
 }
