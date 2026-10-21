@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T10:00:14.761Z",
+  "generated_at": "2026-10-21T11:00:14.780Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -620,13 +620,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE",
-          "status": "Active"
-        },
-        {
           "player_id": "13346",
           "name": "Denzel Boston",
           "position": "WR",
@@ -652,13 +645,6 @@
           "name": "Justin Jefferson",
           "position": "WR",
           "team": "MIN",
-          "status": "Active"
-        },
-        {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC",
           "status": "Active"
         },
         {
@@ -1377,5 +1363,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T10:00:14.761Z"
+  "published_at": "2026-10-21T11:00:14.780Z"
 }
