@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T08:00:14.812Z",
+  "generated_at": "2026-10-21T09:00:14.763Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -924,13 +924,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI",
-          "status": "Active"
-        },
-        {
           "player_id": "11637",
           "name": "Keon Coleman",
           "position": "WR",
@@ -973,11 +966,11 @@
           "status": "Active"
         },
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
-          "position": "QB",
-          "team": "CLE",
-          "status": "Active"
+          "player_id": "4137",
+          "name": "James Conner",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Inactive"
         },
         {
           "player_id": "4881",
@@ -1005,13 +998,6 @@
           "name": "Chase McLaughlin",
           "position": "K",
           "team": "TB",
-          "status": "Active"
-        },
-        {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI",
           "status": "Active"
         },
         {
@@ -1391,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T08:00:14.812Z"
+  "published_at": "2026-10-21T09:00:14.763Z"
 }
