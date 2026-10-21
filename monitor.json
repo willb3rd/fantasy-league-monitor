@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T14:00:14.828Z",
+  "generated_at": "2026-10-21T22:00:16.326Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -30,7 +30,7 @@
       "adds": [
         {
           "player_id": "11655",
-          "name": "Tyrone Tracy",
+          "name": "Tyrone Tracy Jr.",
           "position": "RB",
           "team": "NYG",
           "status": "Active",
@@ -81,7 +81,7 @@
       "drops": [
         {
           "player_id": "13298",
-          "name": "KC Concepcion",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
           "team": "CLE",
           "status": "Active",
@@ -405,7 +405,7 @@
         },
         {
           "player_id": "7543",
-          "name": "Travis Etienne",
+          "name": "Travis Etienne Jr.",
           "position": "RB",
           "team": "NO",
           "status": "Inactive"
@@ -601,14 +601,14 @@
         },
         {
           "player_id": "8138",
-          "name": "James Cook",
+          "name": "James Cook III",
           "position": "RB",
           "team": "BUF",
           "status": "Active"
         },
         {
           "player_id": "8154",
-          "name": "Brian Robinson",
+          "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL",
           "status": "Active"
@@ -776,7 +776,7 @@
         },
         {
           "player_id": "4037",
-          "name": "Chris Godwin",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
           "team": "TB",
           "status": "Active"
@@ -797,7 +797,7 @@
         },
         {
           "player_id": "8151",
-          "name": "Kenneth Walker",
+          "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC",
           "status": "Active"
@@ -841,7 +841,7 @@
         },
         {
           "player_id": "4037",
-          "name": "Chris Godwin",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
           "team": "TB",
           "status": "Active"
@@ -862,7 +862,7 @@
         },
         {
           "player_id": "8151",
-          "name": "Kenneth Walker",
+          "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC",
           "status": "Active"
@@ -916,7 +916,7 @@
         },
         {
           "player_id": "12506",
-          "name": "Harold Fannin",
+          "name": "Harold Fannin Jr.",
           "position": "TE",
           "team": "CLE",
           "status": "Active"
@@ -1294,7 +1294,7 @@
         },
         {
           "player_id": "13276",
-          "name": "Omar Cooper",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ",
           "status": "Active"
@@ -1441,7 +1441,7 @@
       "players": [
         {
           "player_id": "11631",
-          "name": "Brian Thomas",
+          "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX",
           "status": "Active"
@@ -1497,7 +1497,7 @@
         },
         {
           "player_id": "7553",
-          "name": "Kyle Pitts",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL",
           "status": "Active"
@@ -1637,14 +1637,14 @@
         },
         {
           "player_id": "11628",
-          "name": "Marvin Harrison",
+          "name": "Marvin Harrison Jr.",
           "position": "WR",
           "team": "HOU",
           "status": "Active"
         },
         {
           "player_id": "11655",
-          "name": "Tyrone Tracy",
+          "name": "Tyrone Tracy Jr.",
           "position": "RB",
           "team": "NYG",
           "status": "Active"
@@ -1665,14 +1665,14 @@
         },
         {
           "player_id": "13305",
-          "name": "Mike Washington",
+          "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV",
           "status": "Active"
         },
         {
           "player_id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
           "team": "MIN",
           "status": "Active"
@@ -1765,7 +1765,7 @@
         },
         {
           "player_id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
           "team": "MIN",
           "status": "Active"
@@ -1826,7 +1826,7 @@
         },
         {
           "player_id": "12519",
-          "name": "Luther Burden",
+          "name": "Luther Burden III",
           "position": "WR",
           "team": "CHI",
           "status": "Active"
@@ -1868,7 +1868,7 @@
         },
         {
           "player_id": "5872",
-          "name": "Deebo Samuel",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
           "status": "Active"
@@ -1947,7 +1947,7 @@
         },
         {
           "player_id": "12519",
-          "name": "Luther Burden",
+          "name": "Luther Burden III",
           "position": "WR",
           "team": "CHI",
           "status": "Active"
@@ -2016,7 +2016,7 @@
         },
         {
           "player_id": "12495",
-          "name": "Ollie Gordon",
+          "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA",
           "status": "Active"
@@ -2116,7 +2116,7 @@
         },
         {
           "player_id": "12495",
-          "name": "Ollie Gordon",
+          "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA",
           "status": "Active"
@@ -2569,5 +2569,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T14:00:14.828Z"
+  "published_at": "2026-10-21T22:00:16.326Z"
 }
