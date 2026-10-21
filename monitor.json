@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T03:00:14.787Z",
+  "generated_at": "2026-10-21T05:00:14.786Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,60 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 20,
-  "latest_transaction_id": "1418362993871245312",
-  "latest_transaction_created": 1792526598950,
+  "transaction_count": 22,
+  "latest_transaction_id": "1418483823611547648",
+  "latest_transaction_created": 1792555407005,
   "transactions": [
+    {
+      "transaction_id": "1418483823611547648",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792555407005,
+      "status_updated": 1792555407005,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1418483802543562752",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792555401983,
+      "status_updated": 1792555401983,
+      "creator_id": "1032429157571096576",
+      "creator_team": "Jonathan(Taylor’sVersion)",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1418362993871245312",
       "type": "free_agent",
@@ -1605,13 +1655,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12711",
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
@@ -1675,13 +1718,6 @@
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
-          "position": "DEF",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "player_id": "MIN",
           "name": "MIN DST",
           "position": "DEF",
@@ -1705,10 +1741,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
-          "team": "PIT",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -1719,18 +1755,18 @@
           "status": "Active"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "CLE",
+          "team": "MIN",
           "status": "Active"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "13346",
@@ -1740,17 +1776,17 @@
           "status": "Active"
         },
         {
-          "player_id": "12711",
-          "name": "Tyler Loop",
+          "player_id": "11792",
+          "name": "Will Reichard",
           "position": "K",
-          "team": "BAL",
+          "team": "MIN",
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
+          "player_id": "MIN",
+          "name": "MIN DST",
           "position": "DEF",
-          "team": "BAL",
+          "team": "MIN",
           "status": "Active"
         }
       ],
@@ -2895,5 +2931,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T03:00:14.787Z"
+  "published_at": "2026-10-21T05:00:14.786Z"
 }
