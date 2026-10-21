@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T02:00:14.776Z",
+  "generated_at": "2026-10-21T03:00:14.787Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2077,8 +2077,8 @@
           "status": "Active"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ",
           "status": "Active"
@@ -2091,10 +2091,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "CHI",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -2105,10 +2105,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2126,15 +2126,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 9,
@@ -2903,5 +2895,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T02:00:14.776Z"
+  "published_at": "2026-10-21T03:00:14.787Z"
 }
