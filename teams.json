@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T06:00:14.788Z",
+  "generated_at": "2026-10-21T07:00:14.784Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -352,6 +352,13 @@
       "waiver_position": 7,
       "players": [
         {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active"
+        },
+        {
           "player_id": "11786",
           "name": "Cam Little",
           "position": "K",
@@ -370,6 +377,20 @@
           "name": "Harold Fannin",
           "position": "TE",
           "team": "CLE",
+          "status": "Active"
+        },
+        {
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
+          "position": "RB",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -408,13 +429,6 @@
           "status": "Active"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
@@ -434,13 +448,6 @@
           "position": "WR",
           "team": "NE",
           "status": "Inactive"
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR",
-          "status": "Active"
         },
         {
           "player_id": "9758",
@@ -804,13 +811,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI",
-          "status": "Active"
-        },
-        {
           "player_id": "11576",
           "name": "Braelon Allen",
           "position": "RB",
@@ -829,13 +829,6 @@
           "name": "Spencer Shrader",
           "position": "K",
           "team": "IND",
-          "status": "Active"
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden",
-          "position": "WR",
-          "team": "CHI",
           "status": "Active"
         },
         {
@@ -881,10 +874,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
           "position": "RB",
-          "team": "NYJ",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -909,6 +902,13 @@
       "display_name": "ZynDaddyWebb",
       "waiver_position": 3,
       "players": [
+        {
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "position": "QB",
+          "team": "CHI",
+          "status": "Active"
+        },
         {
           "player_id": "11620",
           "name": "Rome Odunze",
@@ -935,6 +935,13 @@
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND",
+          "status": "Active"
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -1001,10 +1008,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "DET",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -1027,13 +1034,6 @@
           "name": "Michael Wilson",
           "position": "WR",
           "team": "ARI",
-          "status": "Active"
-        },
-        {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA",
           "status": "Active"
         },
         {
@@ -1065,20 +1065,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "12527",
-          "name": "Ashton Jeanty",
-          "position": "RB",
-          "team": "LV",
-          "status": "Active"
-        },
-        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "position": "WR",
@@ -1100,6 +1086,13 @@
           "status": "Active"
         },
         {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -1118,6 +1111,13 @@
           "name": "Parker Washington",
           "position": "WR",
           "team": "JAX",
+          "status": "Active"
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T06:00:14.788Z"
+  "published_at": "2026-10-21T07:00:14.784Z"
 }
