@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T11:00:14.780Z",
+  "generated_at": "2026-10-21T12:00:14.806Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -825,6 +825,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11655",
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active"
+        },
+        {
           "player_id": "12185",
           "name": "Spencer Shrader",
           "position": "K",
@@ -1114,6 +1121,13 @@
           "status": "Active"
         },
         {
+          "player_id": "CLE",
+          "name": "CLE DST",
+          "position": "DEF",
+          "team": "CLE",
+          "status": "Active"
+        },
+        {
           "player_id": "SEA",
           "name": "SEA DST",
           "position": "DEF",
@@ -1363,5 +1377,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T11:00:14.780Z"
+  "published_at": "2026-10-21T12:00:14.806Z"
 }
