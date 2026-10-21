@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T13:00:14.770Z",
+  "generated_at": "2026-10-21T14:00:14.828Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -497,10 +497,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX",
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
           "status": "Active"
         },
         {
@@ -665,10 +665,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "SF",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -679,17 +679,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "ATL",
+          "team": "CHI",
           "status": "Active"
         },
         {
-          "player_id": "8259",
-          "name": "Cameron Dicker",
+          "player_id": "7839",
+          "name": "Evan McPherson",
           "position": "K",
-          "team": "LAC",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -833,18 +833,18 @@
           "status": "Active"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "KC",
+          "team": "LAR",
           "status": "Active"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "LAR",
-          "status": "Inactive"
+          "team": "TB",
+          "status": "Active"
         },
         {
           "player_id": "9488",
@@ -854,24 +854,24 @@
           "status": "Active"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
+          "player_id": "10859",
+          "name": "Sam LaPorta",
           "position": "TE",
-          "team": "DAL",
+          "team": "DET",
           "status": "Active"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "8151",
+          "name": "Kenneth Walker",
           "position": "RB",
-          "team": "LAR",
+          "team": "KC",
           "status": "Active"
         },
         {
-          "player_id": "13545",
-          "name": "Trey Smack",
+          "player_id": "11539",
+          "name": "Jake Bates",
           "position": "K",
-          "team": "GB",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -2569,5 +2569,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T13:00:14.770Z"
+  "published_at": "2026-10-21T14:00:14.828Z"
 }
