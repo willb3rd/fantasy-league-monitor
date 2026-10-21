@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T22:00:14.761Z",
+  "generated_at": "2026-10-21T06:00:14.788Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -606,13 +606,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12711",
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
@@ -673,13 +666,6 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN",
-          "status": "Active"
-        },
-        {
-          "player_id": "BAL",
-          "name": "BAL DST",
-          "position": "DEF",
-          "team": "BAL",
           "status": "Active"
         },
         {
@@ -1384,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-20T22:00:14.761Z"
+  "published_at": "2026-10-21T06:00:14.788Z"
 }
