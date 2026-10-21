@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T09:00:14.763Z",
+  "generated_at": "2026-10-21T10:00:14.761Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -733,23 +733,16 @@
           "status": "Active"
         },
         {
+          "player_id": "12961",
+          "name": "Ryan Fitzgerald",
+          "position": "K",
+          "team": "CAR",
+          "status": "Active"
+        },
+        {
           "player_id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
-          "team": "SF",
-          "status": "Active"
-        },
-        {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
           "team": "SF",
           "status": "Active"
         },
@@ -803,10 +796,17 @@
           "status": "Active"
         },
         {
-          "player_id": "SF",
-          "name": "SF DST",
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
+          "player_id": "NYJ",
+          "name": "NYJ DST",
           "position": "DEF",
-          "team": "SF",
+          "team": "NYJ",
           "status": "Active"
         }
       ]
@@ -1368,14 +1368,14 @@
           "status": "Active"
         },
         {
-          "player_id": "KC",
-          "name": "KC DST",
+          "player_id": "DEN",
+          "name": "DEN DST",
           "position": "DEF",
-          "team": "KC",
+          "team": "DEN",
           "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-10-21T09:00:14.763Z"
+  "published_at": "2026-10-21T10:00:14.761Z"
 }
