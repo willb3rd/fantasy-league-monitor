@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-22T00:00:27.815Z",
+  "generated_at": "2026-10-22T20:00:20.409Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1351,7 +1351,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "team": "SEA",
-          "status": "Inactive"
+          "status": "Active"
         },
         {
           "player_id": "9997",
@@ -1370,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-22T00:00:27.815Z"
+  "published_at": "2026-10-22T20:00:20.409Z"
 }
