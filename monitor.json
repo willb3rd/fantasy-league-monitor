@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T22:00:16.326Z",
+  "generated_at": "2026-10-22T01:00:17.098Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 11,
-  "latest_transaction_id": "1418599090677149696",
-  "latest_transaction_created": 1792582888815,
+  "transaction_count": 12,
+  "latest_transaction_id": "1418774297035468800",
+  "latest_transaction_created": 1792624661267,
   "transactions": [
+    {
+      "transaction_id": "1418774297035468800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792624661267,
+      "status_updated": 1792624661267,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1418599090677149696",
       "type": "free_agent",
@@ -679,10 +704,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -700,7 +725,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 3,
@@ -943,13 +976,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN",
-          "status": "Active"
-        },
-        {
           "player_id": "4227",
           "name": "Harrison Butker",
           "position": "K",
@@ -1008,24 +1034,24 @@
       ],
       "starters": [
         {
-          "player_id": "4984",
-          "name": "Josh Allen",
+          "player_id": "9758",
+          "name": "C.J. Stroud",
           "position": "QB",
-          "team": "BUF",
+          "team": "HOU",
           "status": "Active"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "TB",
+          "team": "SEA",
           "status": "Active"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
           "position": "RB",
-          "team": "JAX",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -1036,11 +1062,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR",
+          "status": "Active"
         },
         {
           "player_id": "1466",
@@ -1050,17 +1076,17 @@
           "status": "Active"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF",
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE",
           "status": "Active"
         },
         {
-          "player_id": "11786",
-          "name": "Cam Little",
+          "player_id": "4227",
+          "name": "Harrison Butker",
           "position": "K",
-          "team": "JAX",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -1071,7 +1097,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 5,
@@ -2569,5 +2603,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T22:00:16.326Z"
+  "published_at": "2026-10-22T01:00:17.098Z"
 }
