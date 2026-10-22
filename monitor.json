@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-22T19:00:20.736Z",
+  "generated_at": "2026-10-22T23:00:16.797Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1938,10 +1938,10 @@
       ],
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "BAL",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2603,5 +2603,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-22T19:00:20.736Z"
+  "published_at": "2026-10-22T23:00:16.797Z"
 }
