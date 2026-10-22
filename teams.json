@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T21:00:19.709Z",
+  "generated_at": "2026-10-22T00:00:27.815Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -398,13 +398,6 @@
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC",
-          "status": "Active"
-        },
-        {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -1377,5 +1370,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-21T21:00:19.709Z"
+  "published_at": "2026-10-22T00:00:27.815Z"
 }
