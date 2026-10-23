@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T13:00:09.232Z",
+  "generated_at": "2026-10-23T17:00:11.900Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 17,
-  "latest_transaction_id": "1419318867976605696",
-  "latest_transaction_created": 1792754497096,
+  "transaction_count": 18,
+  "latest_transaction_id": "1419378756677578752",
+  "latest_transaction_created": 1792768775675,
   "transactions": [
+    {
+      "transaction_id": "1419378756677578752",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792768775675,
+      "status_updated": 1792768775675,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [
+        {
+          "player_id": "TEN",
+          "name": "TEN DST",
+          "position": "DEF",
+          "team": "TEN",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "IND",
+          "name": "IND DST",
+          "position": "DEF",
+          "team": "IND",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1419318867976605696",
       "type": "free_agent",
@@ -1349,10 +1383,10 @@
           "status": "Active"
         },
         {
-          "player_id": "IND",
-          "name": "IND DST",
+          "player_id": "TEN",
+          "name": "TEN DST",
           "position": "DEF",
-          "team": "IND",
+          "team": "TEN",
           "status": "Active"
         }
       ],
@@ -1414,10 +1448,10 @@
           "status": "Active"
         },
         {
-          "player_id": "IND",
-          "name": "IND DST",
+          "player_id": "TEN",
+          "name": "TEN DST",
           "position": "DEF",
-          "team": "IND",
+          "team": "TEN",
           "status": "Active"
         }
       ],
@@ -1757,10 +1791,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "TB",
+          "team": "TEN",
           "status": "Active"
         },
         {
@@ -2461,7 +2495,7 @@
           "name": "Tank Dell",
           "position": "WR",
           "team": "HOU",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "96",
@@ -2751,5 +2785,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T13:00:09.232Z"
+  "published_at": "2026-10-23T17:00:11.900Z"
 }
