@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T17:00:11.900Z",
+  "generated_at": "2026-10-23T21:00:13.208Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2776,14 +2776,14 @@
       ],
       "reserve": [
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "MIN",
-          "status": "Inactive"
+          "team": "SEA",
+          "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-10-23T17:00:11.900Z"
+  "published_at": "2026-10-23T21:00:13.208Z"
 }
