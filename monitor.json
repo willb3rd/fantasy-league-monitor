@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T08:00:18.217Z",
+  "generated_at": "2026-10-23T10:00:16.566Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 14,
+  "transaction_count": 16,
   "latest_transaction_id": "1418774297035468800",
   "latest_transaction_created": 1792624661267,
   "transactions": [
@@ -67,6 +67,31 @@
       "draft_picks": []
     },
     {
+      "transaction_id": "1418598903082745856",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1792582844089,
+      "status_updated": 1792744503653,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1418590504370667520",
       "type": "free_agent",
       "status": "complete",
@@ -88,6 +113,40 @@
         }
       ],
       "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1418590491187941376",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1792580838538,
+      "status_updated": 1792744503653,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
       "waiver_budget": [],
       "draft_picks": []
     },
@@ -600,7 +659,7 @@
       "owner_id": "997580979944402944",
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -790,7 +849,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1344,7 +1403,7 @@
       "owner_id": "1032429157571096576",
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1701,7 +1760,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1876,7 +1935,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2073,7 +2132,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2467,7 +2526,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 6,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2476,13 +2535,6 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
-          "status": "Active"
-        },
-        {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO",
           "status": "Active"
         },
         {
@@ -2497,6 +2549,13 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
+          "status": "Active"
+        },
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -2660,5 +2719,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T08:00:18.217Z"
+  "published_at": "2026-10-23T10:00:16.566Z"
 }
