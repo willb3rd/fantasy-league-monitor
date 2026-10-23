@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T10:00:16.566Z",
+  "generated_at": "2026-10-23T13:00:09.232Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 16,
-  "latest_transaction_id": "1418774297035468800",
-  "latest_transaction_created": 1792624661267,
+  "transaction_count": 17,
+  "latest_transaction_id": "1419318867976605696",
+  "latest_transaction_created": 1792754497096,
   "transactions": [
+    {
+      "transaction_id": "1419318867976605696",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792754497096,
+      "status_updated": 1792754497096,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1418774297035468800",
       "type": "free_agent",
@@ -1842,6 +1867,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active"
+        },
+        {
           "player_id": "9221",
           "name": "Jahmyr Gibbs",
           "position": "RB",
@@ -2719,5 +2751,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T10:00:16.566Z"
+  "published_at": "2026-10-23T13:00:09.232Z"
 }
