@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T09:00:13.117Z",
+  "generated_at": "2026-10-23T12:00:17.453Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -874,6 +874,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active"
+        },
+        {
           "player_id": "9221",
           "name": "Jahmyr Gibbs",
           "position": "RB",
@@ -1377,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T09:00:13.117Z"
+  "published_at": "2026-10-23T12:00:17.453Z"
 }
