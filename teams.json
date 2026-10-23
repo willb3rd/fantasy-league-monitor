@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T16:00:16.372Z",
+  "generated_at": "2026-10-23T23:00:08.966Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -151,6 +151,13 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
+          "status": "Active"
+        },
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -1384,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T16:00:16.372Z"
+  "published_at": "2026-10-23T23:00:08.966Z"
 }
