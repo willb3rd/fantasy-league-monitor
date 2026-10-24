@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T21:00:13.208Z",
+  "generated_at": "2026-10-24T00:00:16.618Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 18,
-  "latest_transaction_id": "1419378756677578752",
-  "latest_transaction_created": 1792768775675,
+  "transaction_count": 19,
+  "latest_transaction_id": "1419483039502753792",
+  "latest_transaction_created": 1792793638638,
   "transactions": [
+    {
+      "transaction_id": "1419483039502753792",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792793638638,
+      "status_updated": 1792793638638,
+      "creator_id": "997580979944402944",
+      "creator_team": "Dicker? I barely know her",
+      "roster_ids": [
+        2
+      ],
+      "adds": [
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 2
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1419378756677578752",
       "type": "free_agent",
@@ -751,6 +776,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -872,10 +904,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "12536",
+          "name": "Jaylin Noel",
           "position": "WR",
-          "team": "SF",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -2785,5 +2817,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-23T21:00:13.208Z"
+  "published_at": "2026-10-24T00:00:16.618Z"
 }
