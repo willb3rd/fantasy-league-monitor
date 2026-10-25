@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T08:00:27.092Z",
+  "generated_at": "2026-10-25T13:00:27.216Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -426,6 +426,13 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF",
+          "status": "Active"
+        },
+        {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -1398,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-25T08:00:27.092Z"
+  "published_at": "2026-10-25T13:00:27.216Z"
 }
