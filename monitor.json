@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T09:00:27.102Z",
+  "generated_at": "2026-10-25T14:00:27.121Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 23,
-  "latest_transaction_id": "1419959546545233920",
-  "latest_transaction_created": 1792907246770,
+  "transaction_count": 24,
+  "latest_transaction_id": "1420057490959200256",
+  "latest_transaction_created": 1792930598538,
   "transactions": [
+    {
+      "transaction_id": "1420057490959200256",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792930598538,
+      "status_updated": 1792930598538,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1419959546545233920",
       "type": "free_agent",
@@ -1315,6 +1340,13 @@
           "status": "Active"
         },
         {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
@@ -1373,10 +1405,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "5045",
+          "name": "Courtland Sutton",
           "position": "WR",
-          "team": "PHI",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2095,10 +2127,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
-          "team": "TEN",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2130,10 +2162,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "MIN",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2292,10 +2324,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "NYJ",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2950,5 +2982,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-25T09:00:27.102Z"
+  "published_at": "2026-10-25T14:00:27.121Z"
 }
