@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T03:00:27.185Z",
+  "generated_at": "2026-10-25T07:00:27.098Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 20,
-  "latest_transaction_id": "1419893462630694912",
-  "latest_transaction_created": 1792891491137,
+  "transaction_count": 21,
+  "latest_transaction_id": "1419959546545233920",
+  "latest_transaction_created": 1792907246770,
   "transactions": [
+    {
+      "transaction_id": "1419959546545233920",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792907246770,
+      "status_updated": 1792907246770,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1419893462630694912",
       "type": "free_agent",
@@ -1902,13 +1936,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active"
-        },
-        {
           "player_id": "12185",
           "name": "Spencer Shrader",
           "position": "K",
@@ -1934,6 +1961,13 @@
           "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV",
+          "status": "Active"
+        },
+        {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2567,7 +2601,7 @@
           "name": "Tank Dell",
           "position": "WR",
           "team": "HOU",
-          "status": "Inactive"
+          "status": "Active"
         },
         {
           "player_id": "96",
@@ -2857,5 +2891,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-25T03:00:27.185Z"
+  "published_at": "2026-10-25T07:00:27.098Z"
 }
