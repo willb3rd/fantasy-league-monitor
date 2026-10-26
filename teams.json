@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T13:00:27.216Z",
+  "generated_at": "2026-10-26T07:00:27.103Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -521,6 +521,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
           "player_id": "5001",
           "name": "Dalton Schultz",
           "position": "TE",
@@ -535,20 +542,6 @@
           "status": "Active"
         },
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
-          "position": "QB",
-          "team": "JAX",
-          "status": "Active"
-        },
-        {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN",
-          "status": "Active"
-        },
-        {
           "player_id": "7564",
           "name": "Ja'Marr Chase",
           "position": "WR",
@@ -560,6 +553,13 @@
           "name": "Rhamondre Stevenson",
           "position": "RB",
           "team": "NE",
+          "status": "Active"
+        },
+        {
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -1312,13 +1312,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
           "player_id": "5846",
           "name": "DK Metcalf",
           "position": "WR",
@@ -1340,6 +1333,20 @@
           "status": "Active"
         },
         {
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "team": "JAX",
+          "status": "Active"
+        },
+        {
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
@@ -1351,13 +1358,6 @@
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF",
-          "status": "Active"
-        },
-        {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-25T13:00:27.216Z"
+  "published_at": "2026-10-26T07:00:27.103Z"
 }
