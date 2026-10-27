@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-26T07:00:27.103Z",
+  "generated_at": "2026-10-27T05:00:22.202Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 2,
+      "waiver_position": 4,
       "players": [
         {
           "player_id": "11563",
@@ -123,7 +123,7 @@
       "roster_id": 2,
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 9,
+      "waiver_position": 2,
       "players": [
         {
           "player_id": "10213",
@@ -243,7 +243,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 5,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10859",
@@ -356,7 +356,7 @@
       "roster_id": 4,
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 3,
+      "waiver_position": 5,
       "players": [
         {
           "player_id": "11435",
@@ -476,7 +476,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 1,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "12474",
@@ -589,7 +589,7 @@
       "roster_id": 6,
       "team_name": "Jonathan(Taylor’sVersion)",
       "display_name": "Skylier",
-      "waiver_position": 8,
+      "waiver_position": 1,
       "players": [
         {
           "player_id": "10236",
@@ -695,7 +695,7 @@
       "roster_id": 7,
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 12,
+      "waiver_position": 3,
       "players": [
         {
           "player_id": "11631",
@@ -808,7 +808,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 7,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10229",
@@ -928,7 +928,7 @@
       "roster_id": 9,
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 10,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "11560",
@@ -1048,7 +1048,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 6,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "10232",
@@ -1168,7 +1168,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 4,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "11533",
@@ -1288,7 +1288,7 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "11632",
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-26T07:00:27.103Z"
+  "published_at": "2026-10-27T05:00:22.202Z"
 }
