@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T13:00:22.650Z",
+  "generated_at": "2026-10-27T17:00:22.246Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2021,10 +2021,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "NO",
+          "team": "LAC",
           "status": "Active"
         },
         {
@@ -2042,17 +2042,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "NO",
+          "team": "TB",
           "status": "Active"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
-          "team": "NO",
+          "team": "ATL",
           "status": "Active"
         },
         {
@@ -3065,5 +3065,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-27T13:00:22.650Z"
+  "published_at": "2026-10-27T17:00:22.246Z"
 }
