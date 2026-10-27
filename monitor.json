@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T12:00:22.361Z",
+  "generated_at": "2026-10-27T13:00:22.650Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1102,10 +1102,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "8138",
+          "name": "James Cook III",
           "position": "RB",
-          "team": "TB",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1116,10 +1116,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "LV",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -1130,10 +1130,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU",
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
           "status": "Active"
         },
         {
@@ -2653,10 +2653,10 @@
           "status": "Active"
         },
         {
-          "player_id": "CLE",
-          "name": "CLE DST",
+          "player_id": "SEA",
+          "name": "SEA DST",
           "position": "DEF",
-          "team": "CLE",
+          "team": "SEA",
           "status": "Active"
         }
       ],
@@ -3065,5 +3065,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-27T12:00:22.361Z"
+  "published_at": "2026-10-27T13:00:22.650Z"
 }
