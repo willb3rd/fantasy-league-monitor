@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T11:00:22.256Z",
+  "generated_at": "2026-10-28T14:00:22.421Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,61 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 2,
+  "latest_transaction_id": "1421157776964485120",
+  "latest_transaction_created": 1793192927164,
+  "transactions": [
+    {
+      "transaction_id": "1421157776964485120",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793192927164,
+      "status_updated": 1793192927164,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4227",
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421157746186739712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793192919827,
+      "status_updated": 1793192919827,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -645,13 +696,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
           "player_id": "4983",
           "name": "DJ Moore",
           "position": "WR",
@@ -694,13 +738,6 @@
           "status": "Inactive"
         },
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "LAR",
           "name": "LAR DST",
           "position": "DEF",
@@ -710,17 +747,17 @@
       ],
       "starters": [
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
+          "player_id": "4984",
+          "name": "Josh Allen",
           "position": "QB",
-          "team": "HOU",
+          "team": "BUF",
           "status": "Active"
         },
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "SEA",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -731,10 +768,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "DEN",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -752,17 +789,17 @@
           "status": "Active"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
           "status": "Active"
         },
         {
-          "player_id": "4227",
-          "name": "Harrison Butker",
+          "player_id": "11786",
+          "name": "Cam Little",
           "position": "K",
-          "team": "KC",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -2315,5 +2352,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T11:00:22.256Z"
+  "published_at": "2026-10-28T14:00:22.421Z"
 }
