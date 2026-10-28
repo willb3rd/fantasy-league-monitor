@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T14:00:22.421Z",
+  "generated_at": "2026-10-28T16:00:22.396Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 2,
-  "latest_transaction_id": "1421157776964485120",
-  "latest_transaction_created": 1793192927164,
+  "transaction_count": 3,
+  "latest_transaction_id": "1421174181525004288",
+  "latest_transaction_created": 1793196838316,
   "transactions": [
+    {
+      "transaction_id": "1421174181525004288",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793196838316,
+      "status_updated": 1793196838316,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421157776964485120",
       "type": "free_agent",
@@ -1404,13 +1429,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -1518,24 +1536,24 @@
           "status": "Active"
         },
         {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN",
+          "status": "Active"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion Jr.",
           "position": "WR",
           "team": "CLE",
-          "status": "Active"
-        },
-        {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG",
-          "status": "Active"
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -1553,15 +1571,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 9,
@@ -2352,5 +2362,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T14:00:22.421Z"
+  "published_at": "2026-10-28T16:00:22.396Z"
 }
