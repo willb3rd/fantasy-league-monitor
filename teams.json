@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T08:00:22.472Z",
+  "generated_at": "2026-10-28T15:00:22.326Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -408,13 +408,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
           "player_id": "4983",
           "name": "DJ Moore",
           "position": "WR",
@@ -455,13 +448,6 @@
           "position": "WR",
           "team": "NE",
           "status": "Inactive"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active"
         },
         {
           "player_id": "LAR",
@@ -843,13 +829,6 @@
           "name": "Spencer Shrader",
           "position": "K",
           "team": "IND",
-          "status": "Active"
-        },
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
           "status": "Active"
         },
         {
@@ -1412,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T08:00:22.472Z"
+  "published_at": "2026-10-28T15:00:22.326Z"
 }
