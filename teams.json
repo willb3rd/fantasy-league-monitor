@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T15:00:22.326Z",
+  "generated_at": "2026-10-28T18:00:22.350Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -66,7 +66,7 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "7543",
@@ -789,10 +789,10 @@
           "status": "Active"
         },
         {
-          "player_id": "NYJ",
-          "name": "NYJ DST",
+          "player_id": "WAS",
+          "name": "WAS DST",
           "position": "DEF",
-          "team": "NYJ",
+          "team": "WAS",
           "status": "Active"
         }
       ]
@@ -1391,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T15:00:22.326Z"
+  "published_at": "2026-10-28T18:00:22.350Z"
 }
