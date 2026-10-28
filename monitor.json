@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T20:00:22.211Z",
+  "generated_at": "2026-10-28T03:00:22.376Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2809,10 +2809,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
           "position": "RB",
-          "team": "SF",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -3073,5 +3073,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-27T20:00:22.211Z"
+  "published_at": "2026-10-28T03:00:22.376Z"
 }
