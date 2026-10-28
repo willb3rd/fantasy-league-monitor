@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T16:00:22.396Z",
+  "generated_at": "2026-10-28T17:00:22.342Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 3,
-  "latest_transaction_id": "1421174181525004288",
-  "latest_transaction_created": 1793196838316,
+  "transaction_count": 4,
+  "latest_transaction_id": "1421212315079995392",
+  "latest_transaction_created": 1793205930065,
   "transactions": [
+    {
+      "transaction_id": "1421212315079995392",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793205930065,
+      "status_updated": 1793205930065,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "WAS",
+          "name": "WAS DST",
+          "position": "DEF",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "NYJ",
+          "name": "NYJ DST",
+          "position": "DEF",
+          "team": "NYJ",
+          "status": "Active",
+          "roster_id": 7
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421174181525004288",
       "type": "free_agent",
@@ -156,7 +190,7 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "7543",
@@ -1317,10 +1351,10 @@
           "status": "Active"
         },
         {
-          "player_id": "NYJ",
-          "name": "NYJ DST",
+          "player_id": "WAS",
+          "name": "WAS DST",
           "position": "DEF",
-          "team": "NYJ",
+          "team": "WAS",
           "status": "Active"
         }
       ],
@@ -1333,10 +1367,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "LAC",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -1382,10 +1416,10 @@
           "status": "Active"
         },
         {
-          "player_id": "NYJ",
-          "name": "NYJ DST",
+          "player_id": "WAS",
+          "name": "WAS DST",
           "position": "DEF",
-          "team": "NYJ",
+          "team": "WAS",
           "status": "Active"
         }
       ],
@@ -2362,5 +2396,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T16:00:22.396Z"
+  "published_at": "2026-10-28T17:00:22.342Z"
 }
