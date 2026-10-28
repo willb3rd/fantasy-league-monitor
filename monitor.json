@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T09:00:22.236Z",
+  "generated_at": "2026-10-28T11:00:22.256Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1664,10 +1664,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "NYG",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -1685,10 +1685,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
+          "player_id": "12518",
+          "name": "Tyler Warren",
           "position": "TE",
-          "team": "PHI",
+          "team": "IND",
           "status": "Active"
         },
         {
@@ -2315,5 +2315,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T09:00:22.236Z"
+  "published_at": "2026-10-28T11:00:22.256Z"
 }
