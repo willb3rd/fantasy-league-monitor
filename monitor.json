@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T17:00:22.342Z",
+  "generated_at": "2026-10-28T21:00:22.187Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 4,
-  "latest_transaction_id": "1421212315079995392",
-  "latest_transaction_created": 1793205930065,
+  "transaction_count": 5,
+  "latest_transaction_id": "1421264954144636928",
+  "latest_transaction_created": 1793218480196,
   "transactions": [
+    {
+      "transaction_id": "1421264954144636928",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793218480196,
+      "status_updated": 1793218480196,
+      "creator_id": "997580979944402944",
+      "creator_team": "Dicker? I barely know her",
+      "roster_ids": [
+        2
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 2
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421212315079995392",
       "type": "free_agent",
@@ -347,13 +372,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -489,19 +507,19 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "CIN",
+          "name": "CIN DST",
+          "position": "DEF",
+          "team": "CIN",
+          "status": "Active"
         }
       ],
       "reserve": [
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF",
           "status": "Active"
         }
       ]
@@ -2396,5 +2414,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T17:00:22.342Z"
+  "published_at": "2026-10-28T21:00:22.187Z"
 }
