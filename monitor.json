@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T21:00:22.187Z",
+  "generated_at": "2026-10-28T23:00:22.213Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -34,7 +34,7 @@
           "name": "Jaylin Noel",
           "position": "WR",
           "team": "HOU",
-          "status": "Active",
+          "status": "Inactive",
           "roster_id": 2
         }
       ],
@@ -1723,7 +1723,7 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8137",
@@ -1760,7 +1760,7 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8155",
@@ -2414,5 +2414,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T21:00:22.187Z"
+  "published_at": "2026-10-28T23:00:22.213Z"
 }
