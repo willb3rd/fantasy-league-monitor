@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T11:00:43.801Z",
+  "generated_at": "2026-10-29T12:00:48.496Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -554,10 +554,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "JAX",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -2496,5 +2496,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-29T11:00:43.801Z"
+  "published_at": "2026-10-29T12:00:48.496Z"
 }
