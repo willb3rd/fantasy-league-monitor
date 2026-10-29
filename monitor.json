@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T01:00:22.237Z",
+  "generated_at": "2026-10-29T11:00:43.801Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1313,10 +1313,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
           "position": "TE",
-          "team": "PIT",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -2496,5 +2496,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-29T01:00:22.237Z"
+  "published_at": "2026-10-29T11:00:43.801Z"
 }
