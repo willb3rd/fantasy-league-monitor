@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T23:00:22.213Z",
+  "generated_at": "2026-10-29T01:00:22.237Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,85 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 5,
-  "latest_transaction_id": "1421264954144636928",
-  "latest_transaction_created": 1793218480196,
+  "transaction_count": 8,
+  "latest_transaction_id": "1421314720509485056",
+  "latest_transaction_created": 1793230345422,
   "transactions": [
+    {
+      "transaction_id": "1421314720509485056",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793230345422,
+      "status_updated": 1793230345422,
+      "creator_id": "726913994950021120",
+      "creator_team": "America’s Tight End",
+      "roster_ids": [
+        3
+      ],
+      "adds": [
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "roster_id": 3
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421313842780049408",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793230136154,
+      "status_updated": 1793230136154,
+      "creator_id": "726913994950021120",
+      "creator_team": "America’s Tight End",
+      "roster_ids": [
+        3
+      ],
+      "adds": [
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 3
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421312891356729344",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793229909318,
+      "status_updated": 1793229909318,
+      "creator_id": "726913994950021120",
+      "creator_team": "America’s Tight End",
+      "roster_ids": [
+        3
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Inactive",
+          "roster_id": 3
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421264954144636928",
       "type": "free_agent",
@@ -562,11 +637,11 @@
           "status": "Active"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Inactive"
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active"
         },
         {
           "player_id": "13545",
@@ -618,6 +693,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active"
+        },
+        {
           "player_id": "8151",
           "name": "Kenneth Walker III",
           "position": "RB",
@@ -648,24 +730,17 @@
           "status": "Active"
         },
         {
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
           "player_id": "6790",
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI",
-          "status": "Active"
-        },
-        {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB",
           "status": "Active"
         },
         {
@@ -676,6 +751,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active"
+        },
+        {
           "player_id": "10859",
           "name": "Sam LaPorta",
           "position": "TE",
@@ -683,10 +765,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "position": "RB",
-          "team": "KC",
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2414,5 +2496,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-28T23:00:22.213Z"
+  "published_at": "2026-10-29T01:00:22.237Z"
 }
