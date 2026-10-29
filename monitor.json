@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T19:00:44.387Z",
+  "generated_at": "2026-10-29T22:00:44.543Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1203,10 +1203,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "DET",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -2554,5 +2554,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-29T19:00:44.387Z"
+  "published_at": "2026-10-29T22:00:44.543Z"
 }
