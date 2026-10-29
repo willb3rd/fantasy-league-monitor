@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T15:00:50.834Z",
+  "generated_at": "2026-10-29T19:00:44.387Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,60 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 8,
-  "latest_transaction_id": "1421314720509485056",
-  "latest_transaction_created": 1793230345422,
+  "transaction_count": 10,
+  "latest_transaction_id": "1421597556361760768",
+  "latest_transaction_created": 1793297778744,
   "transactions": [
+    {
+      "transaction_id": "1421597556361760768",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793297778744,
+      "status_updated": 1793297778744,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Inactive",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421590634703192064",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793296128492,
+      "status_updated": 1793296128492,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "13968",
+          "name": "Drew Stevens",
+          "position": "K",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421314720509485056",
       "type": "free_agent",
@@ -272,6 +322,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13968",
+          "name": "Drew Stevens",
+          "position": "K",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
@@ -365,10 +422,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "HOU",
+          "team": "MIA",
           "status": "Active"
         },
         {
@@ -386,17 +443,17 @@
           "status": "Active"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA",
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX",
           "status": "Active"
         },
         {
-          "player_id": "3451",
-          "name": "Ka'imi Fairbairn",
+          "player_id": "13968",
+          "name": "Drew Stevens",
           "position": "K",
-          "team": "HOU",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -407,7 +464,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -1801,13 +1866,6 @@
           "status": "Active"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Inactive"
-        },
-        {
           "player_id": "8137",
           "name": "George Pickens",
           "position": "WR",
@@ -1831,18 +1889,18 @@
       ],
       "starters": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "CHI",
+          "team": "BAL",
           "status": "Active"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Inactive"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "8155",
@@ -2496,5 +2554,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-29T15:00:50.834Z"
+  "published_at": "2026-10-29T19:00:44.387Z"
 }
