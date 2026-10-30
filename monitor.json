@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T22:00:44.543Z",
+  "generated_at": "2026-10-30T19:00:41.556Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1917,10 +1917,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "TEN",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -1931,10 +1931,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2554,5 +2554,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-29T22:00:44.543Z"
+  "published_at": "2026-10-30T19:00:41.556Z"
 }
