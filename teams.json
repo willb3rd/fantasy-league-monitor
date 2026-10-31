@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T22:00:39.501Z",
+  "generated_at": "2026-10-31T23:00:39.627Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -380,6 +380,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active"
+        },
+        {
           "player_id": "11786",
           "name": "Cam Little",
           "position": "K",
@@ -440,6 +447,13 @@
           "name": "Courtland Sutton",
           "position": "WR",
           "team": "DEN",
+          "status": "Active"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -1405,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T22:00:39.501Z"
+  "published_at": "2026-10-31T23:00:39.627Z"
 }
