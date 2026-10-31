@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T08:00:44.442Z",
+  "generated_at": "2026-10-31T09:00:41.379Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,60 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 11,
-  "latest_transaction_id": "1421597556361760768",
-  "latest_transaction_created": 1793297778744,
+  "transaction_count": 13,
+  "latest_transaction_id": "1422179716592361472",
+  "latest_transaction_created": 1793436576558,
   "transactions": [
+    {
+      "transaction_id": "1422179716592361472",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793436576558,
+      "status_updated": 1793436576558,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1422179098888839168",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793436429286,
+      "status_updated": 1793436429286,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1421597556361760768",
       "type": "free_agent",
@@ -1916,6 +1966,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active"
+        },
+        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -1979,6 +2036,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE",
+          "status": "Active"
+        },
+        {
           "player_id": "CHI",
           "name": "CHI DST",
           "position": "DEF",
@@ -1995,11 +2059,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active"
         },
         {
           "player_id": "8155",
@@ -2009,11 +2073,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
+          "status": "Active"
         },
         {
           "player_id": "12519",
@@ -2030,11 +2094,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active"
         },
         {
           "player_id": "6650",
@@ -2653,5 +2717,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T08:00:44.442Z"
+  "published_at": "2026-10-31T09:00:41.379Z"
 }
