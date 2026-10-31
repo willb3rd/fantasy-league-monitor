@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T10:00:40.088Z",
+  "generated_at": "2026-10-31T22:00:39.501Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -490,7 +490,7 @@
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "12517",
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T10:00:40.088Z"
+  "published_at": "2026-10-31T22:00:39.501Z"
 }
