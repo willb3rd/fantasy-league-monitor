@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T07:00:39.082Z",
+  "generated_at": "2026-10-31T10:00:40.088Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -959,6 +959,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active"
+        },
+        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -1019,6 +1026,13 @@
           "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ",
+          "status": "Active"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -1391,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T07:00:39.082Z"
+  "published_at": "2026-10-31T10:00:40.088Z"
 }
