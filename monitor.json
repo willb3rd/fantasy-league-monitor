@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-30T19:00:41.556Z",
+  "generated_at": "2026-10-31T08:00:44.442Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 10,
+  "transaction_count": 11,
   "latest_transaction_id": "1421597556361760768",
   "latest_transaction_created": 1793297778744,
   "transactions": [
@@ -63,6 +63,105 @@
         }
       ],
       "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421361155552604160",
+      "type": "trade",
+      "status": "complete",
+      "created": 1793241416398,
+      "status_updated": 1793427079268,
+      "creator_id": "997580979944402944",
+      "creator_team": "Dicker? I barely know her",
+      "roster_ids": [
+        2,
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 9
+        },
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 9
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 2
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active",
+          "roster_id": 9
+        },
+        {
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active",
+          "roster_id": 9
+        },
+        {
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 2
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
       "waiver_budget": [],
       "draft_picks": []
     },
@@ -484,13 +583,6 @@
       "total_moves": 0,
       "players": [
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "status": "Active"
-        },
-        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
@@ -498,10 +590,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "TB",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -533,6 +625,13 @@
           "status": "Active"
         },
         {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active"
+        },
+        {
           "player_id": "5947",
           "name": "Jakobi Meyers",
           "position": "WR",
@@ -551,6 +650,13 @@
           "name": "Drake London",
           "position": "WR",
           "team": "ATL",
+          "status": "Active"
+        },
+        {
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -619,11 +725,11 @@
           "status": "Active"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "5012",
@@ -633,11 +739,11 @@
           "status": "Active"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "7839",
@@ -1782,6 +1888,13 @@
       "total_moves": 0,
       "players": [
         {
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
+          "status": "Active"
+        },
+        {
           "player_id": "11560",
           "name": "Caleb Williams",
           "position": "QB",
@@ -1789,17 +1902,17 @@
           "status": "Active"
         },
         {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active"
+        },
+        {
           "player_id": "11637",
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF",
-          "status": "Active"
-        },
-        {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG",
           "status": "Active"
         },
         {
@@ -1845,13 +1958,6 @@
           "status": "Active"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "status": "Active"
-        },
-        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
@@ -1863,13 +1969,6 @@
           "name": "Chase McLaughlin",
           "position": "K",
           "team": "TB",
-          "status": "Active"
-        },
-        {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL",
           "status": "Active"
         },
         {
@@ -1910,11 +2009,11 @@
           "status": "Active"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "12519",
@@ -1931,11 +2030,11 @@
           "status": "Active"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "6650",
@@ -2554,5 +2653,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-30T19:00:41.556Z"
+  "published_at": "2026-10-31T08:00:44.442Z"
 }
