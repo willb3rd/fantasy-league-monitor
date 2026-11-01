@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-01T13:00:39.277Z",
+  "generated_at": "2026-11-01T16:00:40.434Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1969,10 +1969,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE",
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2130,10 +2130,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "NYJ",
+          "team": "LAC",
           "status": "Active"
         },
         {
@@ -2781,5 +2781,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-01T13:00:39.277Z"
+  "published_at": "2026-11-01T16:00:40.434Z"
 }
