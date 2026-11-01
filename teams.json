@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T23:00:39.627Z",
+  "generated_at": "2026-11-01T18:00:39.704Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1220,6 +1220,13 @@
           "status": "Inactive"
         },
         {
+          "player_id": "13317",
+          "name": "Ted Hurst III",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active"
+        },
+        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
@@ -1273,13 +1280,6 @@
           "name": "Garrett Wilson",
           "position": "WR",
           "team": "NYJ",
-          "status": "Active"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
           "status": "Active"
         },
         {
@@ -1419,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T23:00:39.627Z"
+  "published_at": "2026-11-01T18:00:39.704Z"
 }
