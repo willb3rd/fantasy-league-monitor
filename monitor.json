@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-01T19:00:40.623Z",
+  "generated_at": "2026-11-01T23:00:14.807Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2110,7 +2110,7 @@
           "name": "Lamar Jackson",
           "position": "QB",
           "team": "BAL",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "5872",
@@ -2154,7 +2154,7 @@
           "name": "Lamar Jackson",
           "position": "QB",
           "team": "BAL",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "11584",
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-01T19:00:40.623Z"
+  "published_at": "2026-11-01T23:00:14.807Z"
 }
