@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-01T16:00:40.434Z",
+  "generated_at": "2026-11-01T17:00:41.155Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1605,10 +1605,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
-          "team": "CLE",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2781,5 +2781,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-01T16:00:40.434Z"
+  "published_at": "2026-11-01T17:00:41.155Z"
 }
