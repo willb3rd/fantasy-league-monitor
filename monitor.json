@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-01T00:00:39.208Z",
+  "generated_at": "2026-11-01T13:00:39.277Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1036,10 +1036,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "team": "DAL",
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2781,5 +2781,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-01T00:00:39.208Z"
+  "published_at": "2026-11-01T13:00:39.277Z"
 }
