@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T21:00:39.299Z",
+  "generated_at": "2026-11-01T00:00:39.208Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,60 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 13,
-  "latest_transaction_id": "1422179716592361472",
-  "latest_transaction_created": 1793436576558,
+  "transaction_count": 15,
+  "latest_transaction_id": "1422386525798154240",
+  "latest_transaction_created": 1793485883715,
   "transactions": [
+    {
+      "transaction_id": "1422386525798154240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793485883715,
+      "status_updated": 1793485883715,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1422386380855623680",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793485849158,
+      "status_updated": 1793485849158,
+      "creator_id": "997584125194194944",
+      "creator_team": "CommOnEverybody",
+      "roster_ids": [
+        4
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "roster_id": 4
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1422179716592361472",
       "type": "free_agent",
@@ -1034,6 +1084,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active"
+        },
+        {
           "player_id": "11786",
           "name": "Cam Little",
           "position": "K",
@@ -1094,6 +1151,13 @@
           "name": "Courtland Sutton",
           "position": "WR",
           "team": "DEN",
+          "status": "Active"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -1169,10 +1233,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "PHI",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2717,5 +2781,5 @@
       ]
     }
   ],
-  "published_at": "2026-10-31T21:00:39.299Z"
+  "published_at": "2026-11-01T00:00:39.208Z"
 }
