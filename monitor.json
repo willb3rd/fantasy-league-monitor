@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-01T23:00:14.807Z",
+  "generated_at": "2026-11-02T22:00:50.163Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -367,7 +367,7 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA",
-          "status": "Inactive",
+          "status": "Active",
           "roster_id": 3
         }
       ],
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-01T23:00:14.807Z"
+  "published_at": "2026-11-02T22:00:50.163Z"
 }
