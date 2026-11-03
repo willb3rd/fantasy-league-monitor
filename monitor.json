@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T07:00:48.331Z",
+  "generated_at": "2026-11-03T17:00:46.658Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1807,10 +1807,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "TEN",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2150,11 +2150,11 @@
       ],
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "BAL",
-          "status": "Inactive"
+          "team": "CHI",
+          "status": "Active"
         },
         {
           "player_id": "11584",
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-03T07:00:48.331Z"
+  "published_at": "2026-11-03T17:00:46.658Z"
 }
