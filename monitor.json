@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T20:00:51.817Z",
+  "generated_at": "2026-11-03T21:00:47.983Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1996,10 +1996,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
           "position": "TE",
-          "team": "MIN",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-03T20:00:51.817Z"
+  "published_at": "2026-11-03T21:00:47.983Z"
 }
