@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T17:00:46.658Z",
+  "generated_at": "2026-11-03T20:00:51.817Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1333,7 +1333,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "2449",
@@ -1461,7 +1461,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "6083",
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-03T17:00:46.658Z"
+  "published_at": "2026-11-03T20:00:51.817Z"
 }
