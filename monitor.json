@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T10:00:44.995Z",
+  "generated_at": "2026-11-04T14:00:44.798Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,36 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 1,
+  "latest_transaction_id": "1423684453649121280",
+  "latest_transaction_created": 1793795333830,
+  "transactions": [
+    {
+      "transaction_id": "1423684453649121280",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793795333830,
+      "status_updated": 1793795333830,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -922,10 +948,10 @@
       ],
       "starters": [
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "KC",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -964,11 +990,11 @@
           "status": "Active"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Inactive"
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET",
+          "status": "Active"
         },
         {
           "player_id": "6083",
@@ -1768,13 +1794,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Active"
-        },
-        {
           "player_id": "13305",
           "name": "Mike Washington Jr.",
           "position": "RB",
@@ -1882,10 +1901,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10232",
-          "name": "Michael Wilson",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "ARI",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -1896,17 +1915,17 @@
           "status": "Active"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "10232",
+          "name": "Michael Wilson",
           "position": "WR",
-          "team": "LAR",
+          "team": "ARI",
           "status": "Active"
         },
         {
-          "player_id": "1945",
-          "name": "Chris Boswell",
+          "player_id": "7042",
+          "name": "Tyler Bass",
           "position": "K",
-          "team": "PIT",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1917,15 +1936,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 11,
@@ -2322,5 +2333,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T10:00:44.995Z"
+  "published_at": "2026-11-04T14:00:44.798Z"
 }
