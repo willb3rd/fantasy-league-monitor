@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T19:00:44.566Z",
+  "generated_at": "2026-11-04T20:00:45.619Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -712,13 +712,6 @@
       "waiver_position": 10,
       "players": [
         {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
-          "position": "WR",
-          "team": "JAX",
-          "status": "Active"
-        },
-        {
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
@@ -751,13 +744,6 @@
           "name": "Ryan Fitzgerald",
           "position": "K",
           "team": "CAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF",
           "status": "Active"
         },
         {
@@ -796,6 +782,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "8136",
           "name": "Rachaad White",
           "position": "RB",
@@ -803,10 +796,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active"
+        },
+        {
+          "player_id": "9997",
+          "name": "Zay Flowers",
           "position": "WR",
-          "team": "NO",
+          "team": "BAL",
           "status": "Active"
         },
         {
@@ -1298,6 +1298,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
           "player_id": "2747",
           "name": "Jason Myers",
           "position": "K",
@@ -1354,10 +1361,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "BUF",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -1382,20 +1389,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
-          "player_id": "9997",
-          "name": "Zay Flowers",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "player_id": "DEN",
           "name": "DEN DST",
           "position": "DEF",
@@ -1405,5 +1398,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T19:00:44.566Z"
+  "published_at": "2026-11-04T20:00:45.619Z"
 }
