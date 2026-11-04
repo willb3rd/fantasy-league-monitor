@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T22:00:48.172Z",
+  "generated_at": "2026-11-04T09:00:46.248Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "8",
+  "week": "9",
   "teams": [
     {
       "roster_id": 1,
@@ -250,7 +250,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 12,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "10859",
@@ -370,7 +370,7 @@
       "roster_id": 4,
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 6,
+      "waiver_position": 5,
       "players": [
         {
           "player_id": "11435",
@@ -490,7 +490,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "12474",
@@ -716,7 +716,7 @@
       "roster_id": 7,
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 5,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "11631",
@@ -817,10 +817,10 @@
           "status": "Active"
         },
         {
-          "player_id": "WAS",
-          "name": "WAS DST",
+          "player_id": "HOU",
+          "name": "HOU DST",
           "position": "DEF",
-          "team": "WAS",
+          "team": "HOU",
           "status": "Active"
         }
       ]
@@ -881,13 +881,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active"
-        },
-        {
           "player_id": "5844",
           "name": "T.J. Hockenson",
           "position": "TE",
@@ -913,6 +906,13 @@
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG",
+          "status": "Active"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -1062,7 +1062,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10232",
@@ -1100,10 +1100,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS",
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -1135,6 +1135,13 @@
           "status": "Active"
         },
         {
+          "player_id": "7042",
+          "name": "Tyler Bass",
+          "position": "K",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -1163,13 +1170,6 @@
           "status": "Active"
         },
         {
-          "player_id": "CLE",
-          "name": "CLE DST",
-          "position": "DEF",
-          "team": "CLE",
-          "status": "Active"
-        },
-        {
           "player_id": "SEA",
           "name": "SEA DST",
           "position": "DEF",
@@ -1182,7 +1182,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 10,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "11533",
@@ -1302,7 +1302,7 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 9,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "11632",
@@ -1419,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-03T22:00:48.172Z"
+  "published_at": "2026-11-04T09:00:46.248Z"
 }
