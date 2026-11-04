@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T02:00:45.417Z",
+  "generated_at": "2026-11-04T10:00:44.995Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "8",
+  "week": "9",
   "week_source": "league_leg",
   "player_mapping": {
     "enabled": true,
@@ -12,503 +12,10 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 16,
-  "latest_transaction_id": "1422677864884473856",
-  "latest_transaction_created": 1793555344366,
-  "transactions": [
-    {
-      "transaction_id": "1422677864884473856",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793555344366,
-      "status_updated": 1793555344366,
-      "creator_id": "997594557602701312",
-      "creator_team": "dwilliamson4",
-      "roster_ids": [
-        11
-      ],
-      "adds": [
-        {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active",
-          "roster_id": 11
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "roster_id": 11
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1422386525798154240",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793485883715,
-      "status_updated": 1793485883715,
-      "creator_id": "997584125194194944",
-      "creator_team": "CommOnEverybody",
-      "roster_ids": [
-        4
-      ],
-      "adds": [
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active",
-          "roster_id": 4
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1422386380855623680",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793485849158,
-      "status_updated": 1793485849158,
-      "creator_id": "997584125194194944",
-      "creator_team": "CommOnEverybody",
-      "roster_ids": [
-        4
-      ],
-      "adds": [
-        {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active",
-          "roster_id": 4
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1422179716592361472",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793436576558,
-      "status_updated": 1793436576558,
-      "creator_id": "997588269191708672",
-      "creator_team": "Jahmyr Force One",
-      "roster_ids": [
-        9
-      ],
-      "adds": [
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1422179098888839168",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793436429286,
-      "status_updated": 1793436429286,
-      "creator_id": "997588269191708672",
-      "creator_team": "Jahmyr Force One",
-      "roster_ids": [
-        9
-      ],
-      "adds": [
-        {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421597556361760768",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793297778744,
-      "status_updated": 1793297778744,
-      "creator_id": "997588269191708672",
-      "creator_team": "Jahmyr Force One",
-      "roster_ids": [
-        9
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Inactive",
-          "roster_id": 9
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421590634703192064",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793296128492,
-      "status_updated": 1793296128492,
-      "creator_id": "997587248801533952",
-      "creator_team": "Hurts Donit?",
-      "roster_ids": [
-        1
-      ],
-      "adds": [
-        {
-          "player_id": "13968",
-          "name": "Drew Stevens",
-          "position": "K",
-          "team": "WAS",
-          "status": "Active",
-          "roster_id": 1
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421361155552604160",
-      "type": "trade",
-      "status": "complete",
-      "created": 1793241416398,
-      "status_updated": 1793427079268,
-      "creator_id": "997580979944402944",
-      "creator_team": "Dicker? I barely know her",
-      "roster_ids": [
-        2,
-        9
-      ],
-      "adds": [
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "status": "Active",
-          "roster_id": 2
-        },
-        {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active",
-          "roster_id": 2
-        },
-        {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "status": "Active",
-          "roster_id": 9
-        },
-        {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
-          "status": "Active",
-          "roster_id": 9
-        },
-        {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active",
-          "roster_id": 2
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "status": "Active",
-          "roster_id": 9
-        },
-        {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active",
-          "roster_id": 9
-        },
-        {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "status": "Active",
-          "roster_id": 2
-        },
-        {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
-          "status": "Active",
-          "roster_id": 2
-        },
-        {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active",
-          "roster_id": 9
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421314720509485056",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793230345422,
-      "status_updated": 1793230345422,
-      "creator_id": "726913994950021120",
-      "creator_team": "America’s Tight End",
-      "roster_ids": [
-        3
-      ],
-      "adds": [
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Active",
-          "roster_id": 3
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421313842780049408",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793230136154,
-      "status_updated": 1793230136154,
-      "creator_id": "726913994950021120",
-      "creator_team": "America’s Tight End",
-      "roster_ids": [
-        3
-      ],
-      "adds": [
-        {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "roster_id": 3
-        }
-      ],
-      "drops": [],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421312891356729344",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793229909318,
-      "status_updated": 1793229909318,
-      "creator_id": "726913994950021120",
-      "creator_team": "America’s Tight End",
-      "roster_ids": [
-        3
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "roster_id": 3
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421264954144636928",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793218480196,
-      "status_updated": 1793218480196,
-      "creator_id": "997580979944402944",
-      "creator_team": "Dicker? I barely know her",
-      "roster_ids": [
-        2
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Inactive",
-          "roster_id": 2
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421212315079995392",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793205930065,
-      "status_updated": 1793205930065,
-      "creator_id": "1256653358719053824",
-      "creator_team": "Chuba Chuba Choo Choo",
-      "roster_ids": [
-        7
-      ],
-      "adds": [
-        {
-          "player_id": "WAS",
-          "name": "WAS DST",
-          "position": "DEF",
-          "team": "WAS",
-          "status": "Active",
-          "roster_id": 7
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "NYJ",
-          "name": "NYJ DST",
-          "position": "DEF",
-          "team": "NYJ",
-          "status": "Active",
-          "roster_id": 7
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421174181525004288",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793196838316,
-      "status_updated": 1793196838316,
-      "creator_id": "859001230779871232",
-      "creator_team": "Diamond Dawgz",
-      "roster_ids": [
-        8
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Active",
-          "roster_id": 8
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421157776964485120",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793192927164,
-      "status_updated": 1793192927164,
-      "creator_id": "997584125194194944",
-      "creator_team": "CommOnEverybody",
-      "roster_ids": [
-        4
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
-          "status": "Active",
-          "roster_id": 4
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421157746186739712",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793192919827,
-      "status_updated": 1793192919827,
-      "creator_id": "997584125194194944",
-      "creator_team": "CommOnEverybody",
-      "roster_ids": [
-        4
-      ],
-      "adds": [],
-      "drops": [
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active",
-          "roster_id": 4
-        }
-      ],
-      "waiver_budget": [],
-      "draft_picks": []
-    }
-  ],
+  "transaction_count": 0,
+  "latest_transaction_id": null,
+  "latest_transaction_created": null,
+  "transactions": [],
   "rosters": [
     {
       "roster_id": 1,
@@ -909,7 +416,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 12,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1106,7 +613,7 @@
       "owner_id": "997584125194194944",
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 6,
+      "waiver_position": 5,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1303,7 +810,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1667,7 +1174,7 @@
       "owner_id": "1256653358719053824",
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 5,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1770,10 +1277,10 @@
           "status": "Active"
         },
         {
-          "player_id": "WAS",
-          "name": "WAS DST",
+          "player_id": "HOU",
+          "name": "HOU DST",
           "position": "DEF",
-          "team": "WAS",
+          "team": "HOU",
           "status": "Active"
         }
       ],
@@ -1835,11 +1342,11 @@
           "status": "Active"
         },
         {
-          "player_id": "WAS",
-          "name": "WAS DST",
-          "position": "DEF",
-          "team": "WAS",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         }
       ],
       "reserve": []
@@ -1903,13 +1410,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active"
-        },
-        {
           "player_id": "5844",
           "name": "T.J. Hockenson",
           "position": "TE",
@@ -1935,6 +1435,13 @@
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG",
+          "status": "Active"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -2228,7 +1735,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2268,10 +1775,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS",
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -2303,6 +1810,13 @@
           "status": "Active"
         },
         {
+          "player_id": "7042",
+          "name": "Tyler Bass",
+          "position": "K",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -2328,13 +1842,6 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
-        },
-        {
-          "player_id": "CLE",
-          "name": "CLE DST",
-          "position": "DEF",
-          "team": "CLE",
           "status": "Active"
         },
         {
@@ -2425,7 +1932,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 10,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2622,7 +2129,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 9,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2815,5 +2322,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T02:00:45.417Z"
+  "published_at": "2026-11-04T10:00:44.995Z"
 }
