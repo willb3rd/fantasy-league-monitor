@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T09:00:46.248Z",
+  "generated_at": "2026-11-04T13:00:44.296Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1093,13 +1093,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Active"
-        },
-        {
           "player_id": "13305",
           "name": "Mike Washington Jr.",
           "position": "RB",
@@ -1419,5 +1412,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T09:00:46.248Z"
+  "published_at": "2026-11-04T13:00:44.296Z"
 }
