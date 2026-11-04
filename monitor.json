@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T21:00:47.983Z",
+  "generated_at": "2026-11-04T02:00:45.417Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2551,10 +2551,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
           "position": "RB",
-          "team": "DEN",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2565,10 +2565,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "TB",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2579,10 +2579,10 @@
           "status": "Active"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "NE",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2815,5 +2815,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-03T21:00:47.983Z"
+  "published_at": "2026-11-04T02:00:45.417Z"
 }
