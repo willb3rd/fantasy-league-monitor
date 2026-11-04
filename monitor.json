@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T14:00:44.798Z",
+  "generated_at": "2026-11-04T18:00:45.363Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -188,10 +188,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "MIA",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -2333,5 +2333,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T14:00:44.798Z"
+  "published_at": "2026-11-04T18:00:45.363Z"
 }
