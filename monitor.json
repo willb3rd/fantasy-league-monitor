@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T21:00:45.498Z",
+  "generated_at": "2026-11-04T23:00:45.165Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 9,
-  "latest_transaction_id": "1423790231550750720",
-  "latest_transaction_created": 1793820553246,
+  "transaction_count": 10,
+  "latest_transaction_id": "1423843101272731648",
+  "latest_transaction_created": 1793833158370,
   "transactions": [
+    {
+      "transaction_id": "1423843101272731648",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793833158370,
+      "status_updated": 1793833158370,
+      "creator_id": "997580979944402944",
+      "creator_team": "Dicker? I barely know her",
+      "roster_ids": [
+        2
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8259",
+          "name": "Cameron Dicker",
+          "position": "K",
+          "team": "LAC",
+          "status": "Active",
+          "roster_id": 2
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1423790231550750720",
       "type": "free_agent",
@@ -626,13 +651,6 @@
           "status": "Active"
         },
         {
-          "player_id": "8259",
-          "name": "Cameron Dicker",
-          "position": "K",
-          "team": "LAC",
-          "status": "Active"
-        },
-        {
           "player_id": "9224",
           "name": "Chase Brown",
           "position": "RB",
@@ -691,10 +709,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "JAX",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -712,15 +730,7 @@
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 3,
@@ -2596,5 +2606,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-04T21:00:45.498Z"
+  "published_at": "2026-11-04T23:00:45.165Z"
 }
