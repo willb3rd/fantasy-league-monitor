@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T13:00:44.296Z",
+  "generated_at": "2026-11-04T19:00:44.566Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,6 +12,13 @@
       "display_name": "ApeArms",
       "waiver_position": 3,
       "players": [
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active"
+        },
         {
           "player_id": "11563",
           "name": "Bo Nix",
@@ -48,20 +55,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13968",
-          "name": "Drew Stevens",
-          "position": "K",
-          "team": "WAS",
-          "status": "Active"
-        },
-        {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI",
-          "status": "Active"
-        },
-        {
           "player_id": "3451",
           "name": "Ka'imi Fairbairn",
           "position": "K",
@@ -74,6 +67,13 @@
           "position": "WR",
           "team": "WAS",
           "status": "Inactive"
+        },
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Active"
         },
         {
           "player_id": "7543",
@@ -613,6 +613,13 @@
           "status": "Active"
         },
         {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG",
+          "status": "Active"
+        },
+        {
           "player_id": "11620",
           "name": "Rome Odunze",
           "position": "WR",
@@ -662,13 +669,6 @@
           "status": "Active"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "6794",
           "name": "Justin Jefferson",
           "position": "WR",
@@ -686,13 +686,6 @@
           "player_id": "7021",
           "name": "Rico Dowdle",
           "position": "RB",
-          "team": "PIT",
-          "status": "Active"
-        },
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
           "team": "PIT",
           "status": "Active"
         },
@@ -1412,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T13:00:44.296Z"
+  "published_at": "2026-11-04T19:00:44.566Z"
 }
