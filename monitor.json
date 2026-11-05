@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T03:00:44.495Z",
+  "generated_at": "2026-11-05T21:00:41.731Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 10,
-  "latest_transaction_id": "1423843101272731648",
-  "latest_transaction_created": 1793833158370,
+  "transaction_count": 11,
+  "latest_transaction_id": "1424155581660266496",
+  "latest_transaction_created": 1793907659501,
   "transactions": [
+    {
+      "transaction_id": "1424155581660266496",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793907659501,
+      "status_updated": 1793907659501,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "KC",
+          "name": "KC DST",
+          "position": "DEF",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "DEN",
+          "name": "DEN DST",
+          "position": "DEF",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1423843101272731648",
       "type": "free_agent",
@@ -2531,10 +2565,10 @@
           "status": "Active"
         },
         {
-          "player_id": "DEN",
-          "name": "DEN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "DEN",
+          "team": "KC",
           "status": "Active"
         }
       ],
@@ -2596,15 +2630,15 @@
           "status": "Active"
         },
         {
-          "player_id": "DEN",
-          "name": "DEN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "DEN",
+          "team": "KC",
           "status": "Active"
         }
       ],
       "reserve": []
     }
   ],
-  "published_at": "2026-11-05T03:00:44.495Z"
+  "published_at": "2026-11-05T21:00:41.731Z"
 }
