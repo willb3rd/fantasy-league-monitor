@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T23:00:45.165Z",
+  "generated_at": "2026-11-05T02:00:44.913Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1985,10 +1985,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "LAC",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2013,10 +2013,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "BUF",
+          "team": "IND",
           "status": "Active"
         },
         {
@@ -2606,5 +2606,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-04T23:00:45.165Z"
+  "published_at": "2026-11-05T02:00:44.913Z"
 }
