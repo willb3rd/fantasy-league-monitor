@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T02:00:44.913Z",
+  "generated_at": "2026-11-05T03:00:44.495Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1635,10 +1635,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
+          "player_id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "ATL",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2606,5 +2606,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-05T02:00:44.913Z"
+  "published_at": "2026-11-05T03:00:44.495Z"
 }
