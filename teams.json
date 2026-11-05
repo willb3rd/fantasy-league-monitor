@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T00:00:45.266Z",
+  "generated_at": "2026-11-05T20:00:41.513Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1382,14 +1382,14 @@
           "status": "Active"
         },
         {
-          "player_id": "DEN",
-          "name": "DEN DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "DEN",
+          "team": "KC",
           "status": "Active"
         }
       ]
     }
   ],
-  "published_at": "2026-11-05T00:00:45.266Z"
+  "published_at": "2026-11-05T20:00:41.513Z"
 }
