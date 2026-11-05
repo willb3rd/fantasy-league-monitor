@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-04T20:00:45.619Z",
+  "generated_at": "2026-11-05T00:00:45.266Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -221,13 +221,6 @@
           "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL",
-          "status": "Active"
-        },
-        {
-          "player_id": "8259",
-          "name": "Cameron Dicker",
-          "position": "K",
-          "team": "LAC",
           "status": "Active"
         },
         {
@@ -1398,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-04T20:00:45.619Z"
+  "published_at": "2026-11-05T00:00:45.266Z"
 }
