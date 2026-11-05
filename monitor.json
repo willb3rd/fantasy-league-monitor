@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T21:00:41.731Z",
+  "generated_at": "2026-11-05T23:00:41.269Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 11,
-  "latest_transaction_id": "1424155581660266496",
-  "latest_transaction_created": 1793907659501,
+  "transaction_count": 12,
+  "latest_transaction_id": "1424175687337508864",
+  "latest_transaction_created": 1793912453067,
   "transactions": [
+    {
+      "transaction_id": "1424175687337508864",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793912453067,
+      "status_updated": 1793912453067,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1424155581660266496",
       "type": "free_agent",
@@ -2488,10 +2522,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO",
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2640,5 +2674,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-05T21:00:41.731Z"
+  "published_at": "2026-11-05T23:00:41.269Z"
 }
