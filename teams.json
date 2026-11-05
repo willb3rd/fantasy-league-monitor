@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T20:00:41.513Z",
+  "generated_at": "2026-11-05T22:00:41.201Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1305,10 +1305,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO",
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -1391,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-05T20:00:41.513Z"
+  "published_at": "2026-11-05T22:00:41.201Z"
 }
