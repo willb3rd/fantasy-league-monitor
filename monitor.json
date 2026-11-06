@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-06T01:00:41.272Z",
+  "generated_at": "2026-11-06T05:00:41.212Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 12,
-  "latest_transaction_id": "1424175687337508864",
-  "latest_transaction_created": 1793912453067,
+  "transaction_count": 13,
+  "latest_transaction_id": "1424268262685863936",
+  "latest_transaction_created": 1793934524750,
   "transactions": [
+    {
+      "transaction_id": "1424268262685863936",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793934524750,
+      "status_updated": 1793934524750,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "NO",
+          "name": "NO DST",
+          "position": "DEF",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1424175687337508864",
       "type": "free_agent",
@@ -1757,13 +1791,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "12185",
           "name": "Spencer Shrader",
           "position": "K",
@@ -1841,6 +1868,13 @@
           "status": "Active"
         },
         {
+          "player_id": "NO",
+          "name": "NO DST",
+          "position": "DEF",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "PIT",
           "name": "PIT DST",
           "position": "DEF",
@@ -1857,10 +1891,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "TEN",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -1892,10 +1926,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "NYJ",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -1906,10 +1940,10 @@
           "status": "Active"
         },
         {
-          "player_id": "PIT",
-          "name": "PIT DST",
+          "player_id": "NO",
+          "name": "NO DST",
           "position": "DEF",
-          "team": "PIT",
+          "team": "NO",
           "status": "Active"
         }
       ],
@@ -2674,5 +2708,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-06T01:00:41.272Z"
+  "published_at": "2026-11-06T05:00:41.212Z"
 }
