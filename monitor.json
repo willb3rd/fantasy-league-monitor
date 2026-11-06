@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T23:00:41.269Z",
+  "generated_at": "2026-11-06T01:00:41.272Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1163,10 +1163,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL",
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE",
           "status": "Active"
         },
         {
@@ -1339,10 +1339,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8167",
-          "name": "Christian Watson",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "GB",
+          "team": "DET",
           "status": "Active"
         },
         {
@@ -1353,10 +1353,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "DET",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -2674,5 +2674,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-05T23:00:41.269Z"
+  "published_at": "2026-11-06T01:00:41.272Z"
 }
