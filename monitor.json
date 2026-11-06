@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-06T08:00:41.598Z",
+  "generated_at": "2026-11-06T19:00:17.447Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -454,7 +454,7 @@
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI",
+          "team": "BAL",
           "status": "Active",
           "roster_id": 1
         }
@@ -2742,5 +2742,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-06T08:00:41.598Z"
+  "published_at": "2026-11-06T19:00:17.447Z"
 }
