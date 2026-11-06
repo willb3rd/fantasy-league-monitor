@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-05T22:00:41.201Z",
+  "generated_at": "2026-11-06T04:00:41.289Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -832,13 +832,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "12185",
           "name": "Spencer Shrader",
           "position": "K",
@@ -913,6 +906,13 @@
           "name": "Bryce Young",
           "position": "QB",
           "team": "CAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "NO",
+          "name": "NO DST",
+          "position": "DEF",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -1391,5 +1391,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-05T22:00:41.201Z"
+  "published_at": "2026-11-06T04:00:41.289Z"
 }
