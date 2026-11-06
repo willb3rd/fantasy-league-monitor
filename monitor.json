@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-06T05:00:41.212Z",
+  "generated_at": "2026-11-06T08:00:41.598Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 13,
+  "transaction_count": 14,
   "latest_transaction_id": "1424268262685863936",
   "latest_transaction_created": 1793934524750,
   "transactions": [
@@ -138,6 +138,40 @@
           "team": "LAC",
           "status": "Active",
           "roster_id": 2
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423790340980105216",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793820579337,
+      "status_updated": 1793949334606,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 12
         }
       ],
       "waiver_budget": [],
@@ -839,7 +873,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1590,7 +1624,7 @@
       "owner_id": "1256653358719053824",
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1772,7 +1806,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2151,7 +2185,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2333,7 +2367,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2530,7 +2564,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 7,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2542,17 +2576,17 @@
           "status": "Active"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC",
-          "status": "Active"
-        },
-        {
           "player_id": "2747",
           "name": "Jason Myers",
           "position": "K",
           "team": "SEA",
+          "status": "Active"
+        },
+        {
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2708,5 +2742,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-06T05:00:41.212Z"
+  "published_at": "2026-11-06T08:00:41.598Z"
 }
