@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T13:10:52.734Z",
+  "generated_at": "2026-11-08T15:00:14.997Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1065,10 +1065,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "CHI",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -1079,10 +1079,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
-          "team": "TB",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -1093,10 +1093,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
           "position": "RB",
-          "team": "LAR",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2786,5 +2786,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-08T13:10:52.734Z"
+  "published_at": "2026-11-08T15:00:14.997Z"
 }
