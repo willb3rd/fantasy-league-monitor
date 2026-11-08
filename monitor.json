@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T15:00:14.997Z",
+  "generated_at": "2026-11-08T17:00:16.111Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -904,10 +904,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2786,5 +2786,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-08T15:00:14.997Z"
+  "published_at": "2026-11-08T17:00:16.111Z"
 }
