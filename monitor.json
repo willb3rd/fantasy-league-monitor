@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T00:00:15.901Z",
+  "generated_at": "2026-11-08T13:10:52.734Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,69 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 14,
-  "latest_transaction_id": "1424268262685863936",
-  "latest_transaction_created": 1793934524750,
+  "transaction_count": 16,
+  "latest_transaction_id": "1425127979519840256",
+  "latest_transaction_created": 1794139497217,
   "transactions": [
+    {
+      "transaction_id": "1425127979519840256",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794139497217,
+      "status_updated": 1794139497217,
+      "creator_id": "997594557602701312",
+      "creator_team": "dwilliamson4",
+      "roster_ids": [
+        11
+      ],
+      "adds": [
+        {
+          "player_id": "TB",
+          "name": "TB DST",
+          "position": "DEF",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 11
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "LV",
+          "name": "LV DST",
+          "position": "DEF",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 11
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1425127674833027072",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794139424574,
+      "status_updated": 1794139424574,
+      "creator_id": "997594557602701312",
+      "creator_team": "dwilliamson4",
+      "roster_ids": [
+        11
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13317",
+          "name": "Ted Hurst III",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 11
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1424268262685863936",
       "type": "free_agent",
@@ -2407,13 +2466,6 @@
           "status": "Active"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active"
-        },
-        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
@@ -2477,10 +2529,10 @@
           "status": "Active"
         },
         {
-          "player_id": "LV",
-          "name": "LV DST",
+          "player_id": "TB",
+          "name": "TB DST",
           "position": "DEF",
-          "team": "LV",
+          "team": "TB",
           "status": "Active"
         }
       ],
@@ -2507,24 +2559,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "NE",
-          "status": "Active"
-        },
-        {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2535,6 +2573,20 @@
           "status": "Active"
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "11533",
           "name": "Brandon Aubrey",
           "position": "K",
@@ -2542,22 +2594,14 @@
           "status": "Active"
         },
         {
-          "player_id": "LV",
-          "name": "LV DST",
+          "player_id": "TB",
+          "name": "TB DST",
           "position": "DEF",
-          "team": "LV",
+          "team": "TB",
           "status": "Active"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 12,
@@ -2742,5 +2786,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-08T00:00:15.901Z"
+  "published_at": "2026-11-08T13:10:52.734Z"
 }
