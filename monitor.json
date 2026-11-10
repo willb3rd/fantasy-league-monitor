@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-10T07:00:14.815Z",
+  "generated_at": "2026-11-10T11:00:14.876Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2748,10 +2748,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CIN",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -2762,10 +2762,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "NYG",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2783,8 +2783,16 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active"
+        }
+      ]
     }
   ],
-  "published_at": "2026-11-10T07:00:14.815Z"
+  "published_at": "2026-11-10T11:00:14.876Z"
 }
