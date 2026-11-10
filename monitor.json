@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T17:00:16.111Z",
+  "generated_at": "2026-11-10T00:00:14.738Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2344,7 +2344,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "SEA",
@@ -2388,7 +2388,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8130",
@@ -2786,5 +2786,5 @@
       "reserve": []
     }
   ],
-  "published_at": "2026-11-08T17:00:16.111Z"
+  "published_at": "2026-11-10T00:00:14.738Z"
 }
