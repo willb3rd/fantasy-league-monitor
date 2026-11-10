@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-10T11:00:14.876Z",
+  "generated_at": "2026-11-10T17:00:14.959Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -897,17 +897,17 @@
           "status": "Active"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
+          "player_id": "5012",
+          "name": "Mark Andrews",
           "position": "TE",
-          "team": "PHI",
+          "team": "BAL",
           "status": "Active"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -925,7 +925,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 3,
@@ -2794,5 +2802,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-10T11:00:14.876Z"
+  "published_at": "2026-11-10T17:00:14.959Z"
 }
