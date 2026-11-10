@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-10T17:00:14.959Z",
+  "generated_at": "2026-11-10T21:00:14.928Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1699,7 +1699,7 @@
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -1806,7 +1806,7 @@
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV",
+          "team": "MIN",
           "status": "Active"
         },
         {
@@ -2119,7 +2119,7 @@
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2219,7 +2219,7 @@
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2802,5 +2802,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-10T17:00:14.959Z"
+  "published_at": "2026-11-10T21:00:14.928Z"
 }
