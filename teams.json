@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T11:00:43.273Z",
+  "generated_at": "2026-11-11T13:00:43.299Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -966,13 +966,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active"
-        },
-        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -998,6 +991,13 @@
           "name": "Keenan Allen",
           "position": "WR",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -1043,10 +1043,10 @@
           "status": "Active"
         },
         {
-          "player_id": "CHI",
-          "name": "CHI DST",
+          "player_id": "SF",
+          "name": "SF DST",
           "position": "DEF",
-          "team": "CHI",
+          "team": "SF",
           "status": "Active"
         }
       ]
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T11:00:43.273Z"
+  "published_at": "2026-11-11T13:00:43.299Z"
 }
