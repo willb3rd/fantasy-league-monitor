@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T09:31:25.030Z",
+  "generated_at": "2026-11-11T12:00:43.538Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,113 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 3,
+  "latest_transaction_id": "1426199357710934016",
+  "latest_transaction_created": 1794394933683,
+  "transactions": [
+    {
+      "transaction_id": "1426199357710934016",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794394933683,
+      "status_updated": 1794394933683,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426198983843278848",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794394844545,
+      "status_updated": 1794394844545,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "SF",
+          "name": "SF DST",
+          "position": "DEF",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "CHI",
+          "name": "CHI DST",
+          "position": "DEF",
+          "team": "CHI",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426198609400991744",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794394755272,
+      "status_updated": 1794394755272,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [
+        {
+          "player_id": "5119",
+          "name": "Jason Sanders",
+          "position": "K",
+          "team": "NYJ",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
+          "status": "Active",
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -1564,13 +1667,6 @@
           "status": "Active"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active"
-        },
-        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -1599,6 +1695,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "4137",
           "name": "James Conner",
           "position": "RB",
@@ -1606,17 +1709,17 @@
           "status": "Inactive"
         },
         {
+          "player_id": "5119",
+          "name": "Jason Sanders",
+          "position": "K",
+          "team": "NYJ",
+          "status": "Active"
+        },
+        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
-          "status": "Active"
-        },
-        {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
           "status": "Active"
         },
         {
@@ -1641,26 +1744,19 @@
           "status": "Active"
         },
         {
-          "player_id": "CHI",
-          "name": "CHI DST",
+          "player_id": "SF",
+          "name": "SF DST",
           "position": "DEF",
-          "team": "CHI",
+          "team": "SF",
           "status": "Active"
         }
       ],
       "starters": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
+          "player_id": "9758",
+          "name": "C.J. Stroud",
           "position": "QB",
-          "team": "CHI",
-          "status": "Active"
-        },
-        {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -1671,6 +1767,13 @@
           "status": "Active"
         },
         {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "10213",
           "name": "Tre Tucker",
           "position": "WR",
@@ -1678,10 +1781,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "CHI",
+          "team": "TEN",
           "status": "Active"
         },
         {
@@ -1699,17 +1802,17 @@
           "status": "Active"
         },
         {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
+          "player_id": "5119",
+          "name": "Jason Sanders",
           "position": "K",
-          "team": "TB",
+          "team": "NYJ",
           "status": "Active"
         },
         {
-          "player_id": "CHI",
-          "name": "CHI DST",
+          "player_id": "SF",
+          "name": "SF DST",
           "position": "DEF",
-          "team": "CHI",
+          "team": "SF",
           "status": "Active"
         }
       ],
@@ -2300,5 +2403,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T09:31:25.030Z"
+  "published_at": "2026-11-11T12:00:43.538Z"
 }
