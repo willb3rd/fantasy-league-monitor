@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T14:16:48.089Z",
+  "generated_at": "2026-11-11T19:00:43.509Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1135,6 +1135,13 @@
           "status": "Active"
         },
         {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -1412,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T14:16:48.089Z"
+  "published_at": "2026-11-11T19:00:43.509Z"
 }
