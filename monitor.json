@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T12:00:43.538Z",
+  "generated_at": "2026-11-11T14:00:43.312Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -638,10 +638,10 @@
       ],
       "starters": [
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
+          "player_id": "11564",
+          "name": "Drake Maye",
           "position": "QB",
-          "team": "DET",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -666,10 +666,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "13726",
+          "name": "Camden Brown",
           "position": "WR",
-          "team": "PHI",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -680,10 +680,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
+          "player_id": "8122",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "team": "CHI",
+          "team": "ARI",
           "status": "Active"
         },
         {
@@ -2403,5 +2403,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T12:00:43.538Z"
+  "published_at": "2026-11-11T14:00:43.312Z"
 }
