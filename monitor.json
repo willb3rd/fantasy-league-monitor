@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T17:00:43.326Z",
+  "generated_at": "2026-11-11T20:00:43.403Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 4,
-  "latest_transaction_id": "1426246241360048144",
-  "latest_transaction_created": 1794406111616,
+  "transaction_count": 5,
+  "latest_transaction_id": "1426306469451546624",
+  "latest_transaction_created": 1794420471111,
   "transactions": [
+    {
+      "transaction_id": "1426306469451546624",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794420471111,
+      "status_updated": 1794420471111,
+      "creator_id": "997960054936584192",
+      "creator_team": "McLovin’ It",
+      "roster_ids": [
+        10
+      ],
+      "adds": [
+        {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active",
+          "roster_id": 10
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1426246241360048144",
       "type": "free_agent",
@@ -1946,6 +1971,13 @@
           "status": "Active"
         },
         {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -2011,11 +2043,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active"
         },
         {
           "player_id": "8130",
@@ -2025,11 +2057,11 @@
           "status": "Active"
         },
         {
-          "player_id": "10232",
-          "name": "Michael Wilson",
-          "position": "WR",
-          "team": "ARI",
-          "status": "Inactive"
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active"
         },
         {
           "player_id": "1945",
@@ -2451,5 +2483,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T17:00:43.326Z"
+  "published_at": "2026-11-11T20:00:43.403Z"
 }
