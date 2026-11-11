@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T09:00:43.665Z",
+  "generated_at": "2026-11-11T11:00:43.273Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1008,17 +1008,17 @@
           "status": "Inactive"
         },
         {
+          "player_id": "5119",
+          "name": "Jason Sanders",
+          "position": "K",
+          "team": "NYJ",
+          "status": "Active"
+        },
+        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
-          "status": "Active"
-        },
-        {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
           "status": "Active"
         },
         {
@@ -1405,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T09:00:43.665Z"
+  "published_at": "2026-11-11T11:00:43.273Z"
 }
