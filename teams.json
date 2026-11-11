@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T00:00:14.793Z",
+  "generated_at": "2026-11-11T09:00:43.665Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "9",
+  "week": "10",
   "teams": [
     {
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 3,
+      "waiver_position": 2,
       "players": [
         {
           "player_id": "10219",
@@ -130,7 +130,7 @@
       "roster_id": 2,
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 2,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "11566",
@@ -151,6 +151,13 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
+          "status": "Active"
+        },
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -243,7 +250,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 12,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "10859",
@@ -363,7 +370,7 @@
       "roster_id": 4,
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 6,
+      "waiver_position": 4,
       "players": [
         {
           "player_id": "11435",
@@ -483,7 +490,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 8,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "12474",
@@ -493,17 +500,17 @@
           "status": "Active"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN",
-          "status": "Inactive"
-        },
-        {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI",
+          "status": "Active"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -535,13 +542,6 @@
           "status": "Active"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU",
-          "status": "Active"
-        },
-        {
           "player_id": "6083",
           "name": "Matt Gay",
           "position": "K",
@@ -553,6 +553,13 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -702,7 +709,7 @@
       "roster_id": 7,
       "team_name": "Chuba Chuba Choo Choo",
       "display_name": "03jclif",
-      "waiver_position": 4,
+      "waiver_position": 3,
       "players": [
         {
           "player_id": "1166",
@@ -815,7 +822,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "10229",
@@ -928,7 +935,7 @@
       "roster_id": 9,
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 5,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "10213",
@@ -1001,13 +1008,6 @@
           "status": "Inactive"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL",
-          "status": "Inactive"
-        },
-        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
@@ -1036,6 +1036,13 @@
           "status": "Active"
         },
         {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "CHI",
           "name": "CHI DST",
           "position": "DEF",
@@ -1048,7 +1055,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 7,
+      "waiver_position": 5,
       "players": [
         {
           "player_id": "10232",
@@ -1161,13 +1168,20 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 10,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "11533",
           "name": "Brandon Aubrey",
           "position": "K",
           "team": "DAL",
+          "status": "Active"
+        },
+        {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -1196,13 +1210,6 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
           "status": "Active"
         },
         {
@@ -1262,6 +1269,13 @@
           "status": "Active"
         },
         {
+          "player_id": "GB",
+          "name": "GB DST",
+          "position": "DEF",
+          "team": "GB",
+          "status": "Active"
+        },
+        {
           "player_id": "TB",
           "name": "TB DST",
           "position": "DEF",
@@ -1274,13 +1288,20 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 9,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "11632",
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
+          "status": "Active"
+        },
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -1384,5 +1405,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T00:00:14.793Z"
+  "published_at": "2026-11-11T09:00:43.665Z"
 }
