@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T14:16:52.379Z",
+  "generated_at": "2026-11-11T16:00:43.282Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2179,10 +2179,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
+          "player_id": "11579",
+          "name": "Audric Estime",
           "position": "RB",
-          "team": "DEN",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2193,10 +2193,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "NO",
+          "team": "NE",
           "status": "Active"
         },
         {
@@ -2228,10 +2228,10 @@
           "status": "Active"
         },
         {
-          "player_id": "TB",
-          "name": "TB DST",
+          "player_id": "GB",
+          "name": "GB DST",
           "position": "DEF",
-          "team": "TB",
+          "team": "GB",
           "status": "Active"
         }
       ],
@@ -2443,5 +2443,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T14:16:52.379Z"
+  "published_at": "2026-11-11T16:00:43.282Z"
 }
