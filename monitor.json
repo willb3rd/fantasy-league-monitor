@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T04:00:14.721Z",
+  "generated_at": "2026-11-11T06:00:14.769Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1992,10 +1992,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "5967",
+          "name": "Tony Pollard",
           "position": "RB",
-          "team": "DEN",
+          "team": "TEN",
           "status": "Active"
         },
         {
@@ -2041,10 +2041,10 @@
           "status": "Active"
         },
         {
-          "player_id": "NO",
-          "name": "NO DST",
+          "player_id": "PIT",
+          "name": "PIT DST",
           "position": "DEF",
-          "team": "NO",
+          "team": "PIT",
           "status": "Active"
         }
       ],
@@ -2810,5 +2810,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T04:00:14.721Z"
+  "published_at": "2026-11-11T06:00:14.769Z"
 }
