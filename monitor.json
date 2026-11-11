@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-10T23:00:14.760Z",
+  "generated_at": "2026-11-11T04:00:14.721Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2553,17 +2553,17 @@
           "status": "Active"
         },
         {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "4034",
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
-          "status": "Active"
-        },
-        {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB",
           "status": "Active"
         },
         {
@@ -2588,10 +2588,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2609,7 +2609,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active"
+        }
+      ]
     },
     {
       "roster_id": 12,
@@ -2802,5 +2810,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-10T23:00:14.760Z"
+  "published_at": "2026-11-11T04:00:14.721Z"
 }
