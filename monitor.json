@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T16:00:43.282Z",
+  "generated_at": "2026-11-11T17:00:43.326Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2011,11 +2011,11 @@
           "status": "Active"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR",
-          "status": "Inactive"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "8130",
@@ -2032,10 +2032,10 @@
           "status": "Inactive"
         },
         {
-          "player_id": "7042",
-          "name": "Tyler Bass",
+          "player_id": "1945",
+          "name": "Chris Boswell",
           "position": "K",
-          "team": "BUF",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -2046,7 +2046,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 11,
@@ -2443,5 +2451,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T16:00:43.282Z"
+  "published_at": "2026-11-11T17:00:43.326Z"
 }
