@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-10T22:00:14.789Z",
+  "generated_at": "2026-11-11T00:00:14.793Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -73,7 +73,7 @@
           "name": "Gardner Minshew II",
           "position": "QB",
           "team": "ARI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "7543",
@@ -1055,7 +1055,7 @@
           "name": "Michael Wilson",
           "position": "WR",
           "team": "ARI",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "11635",
@@ -1384,5 +1384,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-10T22:00:14.789Z"
+  "published_at": "2026-11-11T00:00:14.793Z"
 }
