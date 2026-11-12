@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T08:00:43.297Z",
+  "generated_at": "2026-11-12T15:00:43.263Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,78 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 5,
-  "latest_transaction_id": "1426306469451546624",
-  "latest_transaction_created": 1794420471111,
+  "transaction_count": 7,
+  "latest_transaction_id": "1426599237520482304",
+  "latest_transaction_created": 1794490272458,
   "transactions": [
+    {
+      "transaction_id": "1426599237520482304",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794490272458,
+      "status_updated": 1794490272458,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "CAR",
+          "name": "CAR DST",
+          "position": "DEF",
+          "team": "CAR",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426599151914745856",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794490252048,
+      "status_updated": 1794490252048,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "13269",
+          "name": "Fernando Mendoza",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Inactive",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1426306469451546624",
       "type": "free_agent",
@@ -222,6 +290,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13269",
+          "name": "Fernando Mendoza",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active"
+        },
+        {
           "player_id": "3451",
           "name": "Ka'imi Fairbairn",
           "position": "K",
@@ -233,13 +308,6 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS",
-          "status": "Inactive"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "team": "ARI",
           "status": "Inactive"
         },
         {
@@ -285,19 +353,19 @@
           "status": "Active"
         },
         {
-          "player_id": "CAR",
-          "name": "CAR DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "CAR",
+          "team": "BAL",
           "status": "Active"
         }
       ],
       "starters": [
         {
-          "player_id": "11563",
-          "name": "Bo Nix",
+          "player_id": "13269",
+          "name": "Fernando Mendoza",
           "position": "QB",
-          "team": "DEN",
+          "team": "LV",
           "status": "Active"
         },
         {
@@ -308,10 +376,10 @@
           "status": "Active"
         },
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "JAX",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -350,10 +418,10 @@
           "status": "Active"
         },
         {
-          "player_id": "CAR",
-          "name": "CAR DST",
+          "player_id": "BAL",
+          "name": "BAL DST",
           "position": "DEF",
-          "team": "CAR",
+          "team": "BAL",
           "status": "Active"
         }
       ],
@@ -2483,5 +2551,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-12T08:00:43.297Z"
+  "published_at": "2026-11-12T15:00:43.263Z"
 }
