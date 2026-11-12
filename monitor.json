@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T15:00:43.263Z",
+  "generated_at": "2026-11-12T16:00:43.292Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1522,10 +1522,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "WAS",
+          "team": "SEA",
           "status": "Active"
         },
         {
@@ -1557,10 +1557,10 @@
           "status": "Active"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "TB",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -2551,5 +2551,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-12T15:00:43.263Z"
+  "published_at": "2026-11-12T16:00:43.292Z"
 }
