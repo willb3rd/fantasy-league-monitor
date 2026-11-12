@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-11T20:00:43.403Z",
+  "generated_at": "2026-11-12T01:00:43.549Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -498,10 +498,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "CIN",
+          "team": "NYG",
           "status": "Active"
         },
         {
@@ -533,10 +533,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2483,5 +2483,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-11T20:00:43.403Z"
+  "published_at": "2026-11-12T01:00:43.549Z"
 }
