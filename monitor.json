@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T16:00:43.292Z",
+  "generated_at": "2026-11-12T22:00:02.511Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 7,
-  "latest_transaction_id": "1426599237520482304",
-  "latest_transaction_created": 1794490272458,
+  "transaction_count": 8,
+  "latest_transaction_id": "1426715993362673664",
+  "latest_transaction_created": 1794518109221,
   "transactions": [
+    {
+      "transaction_id": "1426715993362673664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794518109221,
+      "status_updated": 1794518109221,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "5189",
+          "name": "Eddy Pineiro",
+          "position": "K",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "2747",
+          "name": "Jason Myers",
+          "position": "K",
+          "team": "SEA",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1426599237520482304",
       "type": "free_agent",
@@ -2377,13 +2411,6 @@
           "status": "Active"
         },
         {
-          "player_id": "2747",
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -2395,6 +2422,13 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "player_id": "5189",
+          "name": "Eddy Pineiro",
+          "position": "K",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2484,17 +2518,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR",
-          "status": "Active"
-        },
-        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
           "team": "DAL",
+          "status": "Active"
+        },
+        {
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2526,10 +2560,10 @@
           "status": "Active"
         },
         {
-          "player_id": "2747",
-          "name": "Jason Myers",
+          "player_id": "5189",
+          "name": "Eddy Pineiro",
           "position": "K",
-          "team": "SEA",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2551,5 +2585,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-12T16:00:43.292Z"
+  "published_at": "2026-11-12T22:00:02.511Z"
 }
