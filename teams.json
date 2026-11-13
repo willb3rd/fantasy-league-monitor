@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T08:00:02.472Z",
+  "generated_at": "2026-11-13T20:00:02.383Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1312,10 +1312,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "SF",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -1419,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-13T08:00:02.472Z"
+  "published_at": "2026-11-13T20:00:02.383Z"
 }
