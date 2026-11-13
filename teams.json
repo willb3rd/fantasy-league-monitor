@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T02:00:02.375Z",
+  "generated_at": "2026-11-13T08:00:02.472Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -130,7 +130,7 @@
       "roster_id": 2,
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "11566",
@@ -250,7 +250,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "players": [
         {
           "player_id": "10859",
@@ -490,7 +490,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "12474",
@@ -829,7 +829,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 6,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10229",
@@ -872,6 +872,13 @@
           "position": "RB",
           "team": "DEN",
           "status": "Active"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL",
+          "status": "Inactive"
         },
         {
           "player_id": "5844",
@@ -923,13 +930,6 @@
           "status": "Active"
         },
         {
-          "player_id": "NO",
-          "name": "NO DST",
-          "position": "DEF",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
           "player_id": "PIT",
           "name": "PIT DST",
           "position": "DEF",
@@ -942,7 +942,7 @@
       "roster_id": 9,
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "10213",
@@ -1182,7 +1182,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "11533",
@@ -1302,7 +1302,7 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "11632",
@@ -1419,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-13T02:00:02.375Z"
+  "published_at": "2026-11-13T08:00:02.472Z"
 }
