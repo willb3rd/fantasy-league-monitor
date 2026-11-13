@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T09:00:02.597Z",
+  "generated_at": "2026-11-13T21:00:02.438Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 9,
-  "latest_transaction_id": "1426715993362673664",
-  "latest_transaction_created": 1794518109221,
+  "transaction_count": 10,
+  "latest_transaction_id": "1427053677880815616",
+  "latest_transaction_created": 1794598619483,
   "transactions": [
+    {
+      "transaction_id": "1427053677880815616",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794598619483,
+      "status_updated": 1794598619483,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1426715993362673664",
       "type": "free_agent",
@@ -2438,10 +2472,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "SF",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -2619,5 +2653,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-13T09:00:02.597Z"
+  "published_at": "2026-11-13T21:00:02.438Z"
 }
