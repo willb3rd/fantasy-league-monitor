@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T22:00:02.511Z",
+  "generated_at": "2026-11-13T01:00:02.377Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1381,10 +1381,10 @@
           "status": "Active"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "PHI",
+          "team": "PIT",
           "status": "Active"
         },
         {
@@ -1409,11 +1409,11 @@
           "status": "Active"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI",
-          "status": "Active"
+          "player_id": "0",
+          "name": "Unknown Player (0)",
+          "position": null,
+          "team": null,
+          "status": null
         },
         {
           "player_id": "11792",
@@ -2585,5 +2585,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-12T22:00:02.511Z"
+  "published_at": "2026-11-13T01:00:02.377Z"
 }
