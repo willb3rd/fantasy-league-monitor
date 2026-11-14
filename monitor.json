@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T21:00:40.784Z",
+  "generated_at": "2026-11-14T22:00:40.784Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2351,7 +2351,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "13281",
@@ -2697,5 +2697,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-14T21:00:40.784Z"
+  "published_at": "2026-11-14T22:00:40.784Z"
 }
