@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T21:00:02.438Z",
+  "generated_at": "2026-11-14T17:00:40.780Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,60 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 10,
-  "latest_transaction_id": "1427053677880815616",
-  "latest_transaction_created": 1794598619483,
+  "transaction_count": 12,
+  "latest_transaction_id": "1427369842716966912",
+  "latest_transaction_created": 1794673999055,
   "transactions": [
+    {
+      "transaction_id": "1427369842716966912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794673999055,
+      "status_updated": 1794673999055,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13269",
+          "name": "Fernando Mendoza",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1427369654162067456",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794673954099,
+      "status_updated": 1794673954099,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "team": "CIN",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1427053677880815616",
       "type": "free_agent",
@@ -385,20 +435,6 @@
           "status": "Inactive"
         },
         {
-          "player_id": "13264",
-          "name": "Dohnte Meyers",
-          "position": "WR",
-          "team": "CIN",
-          "status": "Active"
-        },
-        {
-          "player_id": "13269",
-          "name": "Fernando Mendoza",
-          "position": "QB",
-          "team": "LV",
-          "status": "Active"
-        },
-        {
           "player_id": "3451",
           "name": "Ka'imi Fairbairn",
           "position": "K",
@@ -413,6 +449,13 @@
           "status": "Inactive"
         },
         {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB",
+          "status": "Active"
+        },
+        {
           "player_id": "7543",
           "name": "Travis Etienne Jr.",
           "position": "RB",
@@ -420,10 +463,17 @@
           "status": "Inactive"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "HOU",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -448,13 +498,6 @@
           "status": "Active"
         },
         {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL",
-          "status": "Active"
-        },
-        {
           "player_id": "BAL",
           "name": "BAL DST",
           "position": "DEF",
@@ -464,17 +507,10 @@
       ],
       "starters": [
         {
-          "player_id": "13269",
-          "name": "Fernando Mendoza",
+          "player_id": "6804",
+          "name": "Jordan Love",
           "position": "QB",
-          "team": "LV",
-          "status": "Active"
-        },
-        {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL",
+          "team": "GB",
           "status": "Active"
         },
         {
@@ -485,10 +521,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU",
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR",
           "status": "Active"
         },
         {
@@ -499,6 +535,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "player_id": "11604",
           "name": "Brock Bowers",
           "position": "TE",
@@ -506,11 +549,11 @@
           "status": "Active"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX",
-          "status": "Active"
+          "player_id": "7543",
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
+          "team": "NO",
+          "status": "Inactive"
         },
         {
           "player_id": "3451",
@@ -1862,7 +1905,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 9,
@@ -2514,13 +2565,6 @@
           "status": "Active"
         },
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "7523",
           "name": "Trevor Lawrence",
           "position": "QB",
@@ -2535,24 +2579,17 @@
           "status": "Active"
         },
         {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
           "team": "DAL",
-          "status": "Active"
-        },
-        {
-          "player_id": "8144",
-          "name": "Chris Olave",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR",
           "status": "Active"
         },
         {
@@ -2567,6 +2604,13 @@
           "name": "Tucker Kraft",
           "position": "TE",
           "team": "GB",
+          "status": "Active"
+        },
+        {
+          "player_id": "9509",
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "team": "ATL",
           "status": "Active"
         },
         {
@@ -2593,17 +2637,17 @@
           "status": "Active"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "9509",
+          "name": "Bijan Robinson",
           "position": "RB",
-          "team": "LAR",
+          "team": "ATL",
           "status": "Active"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "NO",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -2653,5 +2697,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-13T21:00:02.438Z"
+  "published_at": "2026-11-14T17:00:40.780Z"
 }
