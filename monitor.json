@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T22:00:40.784Z",
+  "generated_at": "2026-11-15T04:00:40.707Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2630,13 +2630,6 @@
           "status": "Active"
         },
         {
-          "player_id": "7588",
-          "name": "Javonte Williams",
-          "position": "RB",
-          "team": "DAL",
-          "status": "Active"
-        },
-        {
           "player_id": "9509",
           "name": "Bijan Robinson",
           "position": "RB",
@@ -2644,10 +2637,17 @@
           "status": "Active"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "HOU",
+          "team": "CIN",
           "status": "Active"
         },
         {
@@ -2665,10 +2665,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN",
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
           "status": "Active"
         },
         {
@@ -2697,5 +2697,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-14T22:00:40.784Z"
+  "published_at": "2026-11-15T04:00:40.707Z"
 }
