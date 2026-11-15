@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T15:00:40.768Z",
+  "generated_at": "2026-11-15T16:00:40.795Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1728,10 +1728,10 @@
       ],
       "starters": [
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
+          "player_id": "12545",
+          "name": "Tyler Shough",
           "position": "QB",
-          "team": "MIN",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2765,5 +2765,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-15T15:00:40.768Z"
+  "published_at": "2026-11-15T16:00:40.795Z"
 }
