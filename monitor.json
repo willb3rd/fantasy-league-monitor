@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T16:00:40.795Z",
+  "generated_at": "2026-11-15T18:00:40.911Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1588,10 +1588,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
-          "team": "MIN",
+          "team": "NYJ",
           "status": "Active"
         },
         {
@@ -2765,5 +2765,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-15T16:00:40.795Z"
+  "published_at": "2026-11-15T18:00:40.911Z"
 }
