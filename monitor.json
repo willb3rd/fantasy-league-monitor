@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T18:00:40.911Z",
+  "generated_at": "2026-11-15T19:00:40.810Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,7 +12,7 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 14,
+  "transaction_count": 15,
   "latest_transaction_id": "1427690348343222272",
   "latest_transaction_created": 1794750413550,
   "transactions": [
@@ -106,6 +106,31 @@
           "roster_id": 1
         }
       ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1427369806654369792",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794673990457,
+      "status_updated": 1794768315672,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "roster_id": 12
+        }
+      ],
+      "drops": [],
       "waiver_budget": [],
       "draft_picks": []
     },
@@ -1244,7 +1269,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1798,7 +1823,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2382,7 +2407,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2579,7 +2604,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 9,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2595,6 +2620,13 @@
           "name": "Emmett Johnson",
           "position": "RB",
           "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2765,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-15T18:00:40.911Z"
+  "published_at": "2026-11-15T19:00:40.810Z"
 }
