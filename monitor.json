@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T19:00:40.810Z",
+  "generated_at": "2026-11-16T23:00:20.647Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1559,7 +1559,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "MIN",
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-15T19:00:40.810Z"
+  "published_at": "2026-11-16T23:00:20.647Z"
 }
