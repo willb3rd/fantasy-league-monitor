@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-17T17:00:20.503Z",
+  "generated_at": "2026-11-17T18:00:20.558Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1760,17 +1760,17 @@
           "status": "Active"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active"
-        },
-        {
           "player_id": "7594",
           "name": "Chuba Hubbard",
           "position": "RB",
           "team": "CAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC",
           "status": "Active"
         },
         {
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-17T17:00:20.503Z"
+  "published_at": "2026-11-17T18:00:20.558Z"
 }
