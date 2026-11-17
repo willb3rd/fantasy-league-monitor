@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-17T18:00:20.558Z",
+  "generated_at": "2026-11-17T22:00:59.866Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1713,7 +1713,7 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN",
-          "status": "Active"
+          "status": "Inactive"
         },
         {
           "player_id": "8134",
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-17T18:00:20.558Z"
+  "published_at": "2026-11-17T22:00:59.866Z"
 }
