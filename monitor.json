@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-17T13:00:20.561Z",
+  "generated_at": "2026-11-17T17:00:20.503Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -994,38 +994,38 @@
       ],
       "starters": [
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
+          "player_id": "3163",
+          "name": "Jared Goff",
           "position": "QB",
-          "team": "NE",
+          "team": "DET",
           "status": "Active"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
           "position": "RB",
-          "team": "SEA",
+          "team": "CHI",
           "status": "Active"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
           "position": "RB",
-          "team": "LAR",
+          "team": "KC",
           "status": "Active"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "SEA",
+          "team": "TB",
           "status": "Active"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
-          "team": "NE",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-17T13:00:20.561Z"
+  "published_at": "2026-11-17T17:00:20.503Z"
 }
