@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-16T22:00:20.532Z",
+  "generated_at": "2026-11-17T01:00:20.571Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -601,7 +601,7 @@
     },
     {
       "roster_id": 6,
-      "team_name": "Jonathan(Taylor’sVersion)",
+      "team_name": "I didn’t hear no bell",
       "display_name": "Skylier",
       "waiver_position": 1,
       "players": [
@@ -1412,5 +1412,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-16T22:00:20.532Z"
+  "published_at": "2026-11-17T01:00:20.571Z"
 }
