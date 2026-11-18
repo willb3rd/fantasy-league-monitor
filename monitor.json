@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-17T22:00:59.866Z",
+  "generated_at": "2026-11-18T03:00:59.696Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1977,10 +1977,10 @@
           "status": "Active"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "ARI",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-17T22:00:59.866Z"
+  "published_at": "2026-11-18T03:00:59.696Z"
 }
