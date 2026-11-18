@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-18T13:01:00.271Z",
+  "generated_at": "2026-11-18T19:01:00.080Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1804,17 +1804,17 @@
           "status": "Active"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
+          "player_id": "11584",
+          "name": "Bucky Irving",
           "position": "RB",
-          "team": "NO",
+          "team": "TB",
           "status": "Active"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "LV",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -1832,8 +1832,8 @@
           "status": "Active"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
           "status": "Active"
@@ -2455,5 +2455,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-18T13:01:00.271Z"
+  "published_at": "2026-11-18T19:01:00.080Z"
 }
