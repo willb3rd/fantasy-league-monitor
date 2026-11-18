@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-18T10:01:00.050Z",
+  "generated_at": "2026-11-18T12:01:00.015Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -41,6 +41,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -53,13 +60,6 @@
           "position": "K",
           "team": "HOU",
           "status": "Active"
-        },
-        {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Inactive"
         },
         {
           "player_id": "6804",
@@ -90,6 +90,13 @@
           "status": "Active"
         },
         {
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "8228",
           "name": "Jaylen Warren",
           "position": "RB",
@@ -111,10 +118,10 @@
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
+          "player_id": "DEN",
+          "name": "DEN DST",
           "position": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "status": "Active"
         }
       ]
@@ -1419,5 +1426,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-18T10:01:00.050Z"
+  "published_at": "2026-11-18T12:01:00.015Z"
 }
