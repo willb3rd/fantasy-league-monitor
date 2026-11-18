@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-18T09:00:59.886Z",
+  "generated_at": "2026-11-18T13:01:00.271Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,120 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 0,
-  "latest_transaction_id": null,
-  "latest_transaction_created": null,
-  "transactions": [],
+  "transaction_count": 4,
+  "latest_transaction_id": "1428747835171434498",
+  "latest_transaction_created": 1795002538057,
+  "transactions": [
+    {
+      "transaction_id": "1428747835171434498",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795002538057,
+      "status_updated": 1795002538057,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "DEN",
+          "name": "DEN DST",
+          "position": "DEF",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "BAL",
+          "name": "BAL DST",
+          "position": "DEF",
+          "team": "BAL",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428747150749077504",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795002374878,
+      "status_updated": 1795002374878,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428746867050557440",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795002307239,
+      "status_updated": 1795002307239,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [
+        {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active",
+          "roster_id": 1
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428746633503346709",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795002251558,
+      "status_updated": 1795002251558,
+      "creator_id": "997587248801533952",
+      "creator_team": "Hurts Donit?",
+      "roster_ids": [
+        1
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS",
+          "status": "Inactive",
+          "roster_id": 1
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "rosters": [
     {
       "roster_id": 1,
@@ -55,6 +165,13 @@
           "status": "Active"
         },
         {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
           "player_id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -67,13 +184,6 @@
           "position": "K",
           "team": "HOU",
           "status": "Active"
-        },
-        {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Inactive"
         },
         {
           "player_id": "6804",
@@ -101,6 +211,13 @@
           "name": "Kyren Williams",
           "position": "RB",
           "team": "LAR",
+          "status": "Active"
+        },
+        {
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -125,19 +242,26 @@
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
+          "player_id": "DEN",
+          "name": "DEN DST",
           "position": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "status": "Active"
         }
       ],
       "starters": [
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
+          "player_id": "11563",
+          "name": "Bo Nix",
           "position": "QB",
-          "team": "GB",
+          "team": "DEN",
+          "status": "Active"
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -145,13 +269,6 @@
           "name": "Jaylen Warren",
           "position": "RB",
           "team": "PIT",
-          "status": "Active"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR",
           "status": "Active"
         },
         {
@@ -176,10 +293,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7543",
-          "name": "Travis Etienne Jr.",
-          "position": "RB",
-          "team": "NO",
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "KC",
           "status": "Active"
         },
         {
@@ -190,18 +307,18 @@
           "status": "Active"
         },
         {
-          "player_id": "BAL",
-          "name": "BAL DST",
+          "player_id": "DEN",
+          "name": "DEN DST",
           "position": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "status": "Active"
         }
       ],
       "reserve": [
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
           "team": "WAS",
           "status": "Inactive"
         }
@@ -1898,11 +2015,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
         },
         {
           "player_id": "8130",
@@ -1912,10 +2029,10 @@
           "status": "Active"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV",
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
           "status": "Active"
         },
         {
@@ -1926,10 +2043,10 @@
           "status": "Active"
         },
         {
-          "player_id": "SEA",
-          "name": "SEA DST",
+          "player_id": "BUF",
+          "name": "BUF DST",
           "position": "DEF",
-          "team": "SEA",
+          "team": "BUF",
           "status": "Active"
         }
       ],
@@ -2338,5 +2455,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-18T09:00:59.886Z"
+  "published_at": "2026-11-18T13:01:00.271Z"
 }
