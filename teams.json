@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-11-17T23:00:59.678Z",
+  "generated_at": "2026-11-18T10:01:00.050Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "10",
+  "week": "11",
   "teams": [
     {
       "roster_id": 1,
@@ -243,7 +243,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "10859",
@@ -351,10 +351,10 @@
           "status": "Active"
         },
         {
-          "player_id": "NE",
-          "name": "NE DST",
+          "player_id": "DET",
+          "name": "DET DST",
           "position": "DEF",
-          "team": "NE",
+          "team": "DET",
           "status": "Active"
         }
       ]
@@ -493,13 +493,6 @@
           "status": "Active"
         },
         {
-          "player_id": "12491",
-          "name": "Corey Kiner",
-          "position": "RB",
-          "team": "NE",
-          "status": "Active"
-        },
-        {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
@@ -539,6 +532,13 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC",
+          "status": "Active"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS",
           "status": "Active"
         },
         {
@@ -822,7 +822,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10229",
@@ -893,6 +893,13 @@
           "position": "WR",
           "team": "DAL",
           "status": "Active"
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Inactive"
         },
         {
           "player_id": "8131",
@@ -1055,8 +1062,15 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "players": [
+        {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
         {
           "player_id": "10232",
           "name": "Michael Wilson",
@@ -1121,20 +1135,6 @@
           "status": "Active"
         },
         {
-          "player_id": "7042",
-          "name": "Tyler Bass",
-          "position": "K",
-          "team": "BUF",
-          "status": "Active"
-        },
-        {
-          "player_id": "7562",
-          "name": "Tutu Atwell",
-          "position": "WR",
-          "team": "LAR",
-          "status": "Active"
-        },
-        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
@@ -1163,6 +1163,13 @@
           "status": "Inactive"
         },
         {
+          "player_id": "BUF",
+          "name": "BUF DST",
+          "position": "DEF",
+          "team": "BUF",
+          "status": "Active"
+        },
+        {
           "player_id": "SEA",
           "name": "SEA DST",
           "position": "DEF",
@@ -1175,7 +1182,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 10,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "11533",
@@ -1412,5 +1419,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-17T23:00:59.678Z"
+  "published_at": "2026-11-18T10:01:00.050Z"
 }
