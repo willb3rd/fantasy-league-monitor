@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-19T00:00:59.712Z",
+  "generated_at": "2026-11-19T03:00:59.734Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 4,
-  "latest_transaction_id": "1428747835171434498",
-  "latest_transaction_created": 1795002538057,
+  "transaction_count": 5,
+  "latest_transaction_id": "1428956375148396544",
+  "latest_transaction_created": 1795052257863,
   "transactions": [
+    {
+      "transaction_id": "1428956375148396544",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795052257863,
+      "status_updated": 1795052257863,
+      "creator_id": "997594557602701312",
+      "creator_team": "dwilliamson4",
+      "roster_ids": [
+        11
+      ],
+      "adds": [
+        {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS",
+          "status": "Active",
+          "roster_id": 11
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "GB",
+          "name": "GB DST",
+          "position": "DEF",
+          "team": "GB",
+          "status": "Active",
+          "roster_id": 11
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1428747835171434498",
       "type": "free_agent",
@@ -2112,6 +2146,13 @@
           "status": "Active"
         },
         {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS",
+          "status": "Active"
+        },
+        {
           "player_id": "4034",
           "name": "Christian McCaffrey",
           "position": "RB",
@@ -2168,13 +2209,6 @@
           "status": "Active"
         },
         {
-          "player_id": "GB",
-          "name": "GB DST",
-          "position": "DEF",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
           "player_id": "TB",
           "name": "TB DST",
           "position": "DEF",
@@ -2205,24 +2239,10 @@
           "status": "Active"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "NE",
-          "status": "Active"
-        },
-        {
-          "player_id": "12501",
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB",
-          "status": "Active"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF",
+          "team": "NO",
           "status": "Active"
         },
         {
@@ -2233,6 +2253,20 @@
           "status": "Active"
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF",
+          "status": "Active"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active"
+        },
+        {
           "player_id": "11533",
           "name": "Brandon Aubrey",
           "position": "K",
@@ -2240,10 +2274,10 @@
           "status": "Active"
         },
         {
-          "player_id": "GB",
-          "name": "GB DST",
+          "player_id": "TB",
+          "name": "TB DST",
           "position": "DEF",
-          "team": "GB",
+          "team": "TB",
           "status": "Active"
         }
       ],
@@ -2455,5 +2489,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-19T00:00:59.712Z"
+  "published_at": "2026-11-19T03:00:59.734Z"
 }
