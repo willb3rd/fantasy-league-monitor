@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-19T23:00:50.240Z",
+  "generated_at": "2026-11-20T00:00:50.248Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -735,11 +735,11 @@
           "status": "Active"
         },
         {
-          "player_id": "0",
-          "name": "Unknown Player (0)",
-          "position": null,
-          "team": null,
-          "status": null
+          "player_id": "DET",
+          "name": "DET DST",
+          "position": "DEF",
+          "team": "DET",
+          "status": "Active"
         }
       ],
       "reserve": [
@@ -1501,7 +1501,15 @@
           "status": "Active"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Inactive"
+        }
+      ]
     },
     {
       "roster_id": 8,
@@ -2489,5 +2497,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-19T23:00:50.240Z"
+  "published_at": "2026-11-20T00:00:50.248Z"
 }
