@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T01:00:50.311Z",
+  "generated_at": "2026-11-20T03:00:50.239Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,35 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 5,
-  "latest_transaction_id": "1428956375148396544",
-  "latest_transaction_created": 1795052257863,
+  "transaction_count": 6,
+  "latest_transaction_id": "1429322565754580992",
+  "latest_transaction_created": 1795139564507,
   "transactions": [
+    {
+      "transaction_id": "1429322565754580992",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795139564507,
+      "status_updated": 1795139564507,
+      "creator_id": "1032429157571096576",
+      "creator_team": "I didn’t hear no bell",
+      "roster_ids": [
+        6
+      ],
+      "adds": [
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC",
+          "status": "Active",
+          "roster_id": 6
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1428956375148396544",
       "type": "free_agent",
@@ -1226,6 +1251,13 @@
           "status": "Active"
         },
         {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC",
+          "status": "Active"
+        },
+        {
           "player_id": "6813",
           "name": "Jonathan Taylor",
           "position": "RB",
@@ -1256,10 +1288,10 @@
       ],
       "starters": [
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
+          "player_id": "6797",
+          "name": "Justin Herbert",
           "position": "QB",
-          "team": "NYG",
+          "team": "LAC",
           "status": "Active"
         },
         {
@@ -1270,10 +1302,10 @@
           "status": "Active"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
-          "team": "PIT",
+          "team": "PHI",
           "status": "Active"
         },
         {
@@ -1298,10 +1330,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "NYJ",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -2497,5 +2529,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-20T01:00:50.311Z"
+  "published_at": "2026-11-20T03:00:50.239Z"
 }
