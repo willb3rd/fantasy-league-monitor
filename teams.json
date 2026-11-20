@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T02:00:50.256Z",
+  "generated_at": "2026-11-20T14:00:50.245Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -549,10 +549,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6083",
-          "name": "Matt Gay",
+          "player_id": "7042",
+          "name": "Tyler Bass",
           "position": "K",
-          "team": "LV",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1433,5 +1433,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-20T02:00:50.256Z"
+  "published_at": "2026-11-20T14:00:50.245Z"
 }
