@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T00:00:50.248Z",
+  "generated_at": "2026-11-20T01:00:50.311Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -503,10 +503,10 @@
           "status": "Active"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "PIT",
+          "team": "SF",
           "status": "Active"
         },
         {
@@ -2233,10 +2233,10 @@
           "status": "Active"
         },
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
           "position": "RB",
-          "team": "NO",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -2497,5 +2497,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-20T00:00:50.248Z"
+  "published_at": "2026-11-20T01:00:50.311Z"
 }
