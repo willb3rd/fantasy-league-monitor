@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T03:00:50.239Z",
+  "generated_at": "2026-11-20T13:00:50.228Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -12,10 +12,44 @@
     "loaded": true,
     "database_size": 12229
   },
-  "transaction_count": 6,
-  "latest_transaction_id": "1429322565754580992",
-  "latest_transaction_created": 1795139564507,
+  "transaction_count": 7,
+  "latest_transaction_id": "1429490233803575296",
+  "latest_transaction_created": 1795179539685,
   "transactions": [
+    {
+      "transaction_id": "1429490233803575296",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795179539685,
+      "status_updated": 1795179539685,
+      "creator_id": "464852020482797568",
+      "creator_team": "GnomSayin",
+      "roster_ids": [
+        5
+      ],
+      "adds": [
+        {
+          "player_id": "7042",
+          "name": "Tyler Bass",
+          "position": "K",
+          "team": "BUF",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6083",
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
+          "status": "Active",
+          "roster_id": 5
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1429322565754580992",
       "type": "free_agent",
@@ -1040,10 +1074,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6083",
-          "name": "Matt Gay",
+          "player_id": "7042",
+          "name": "Tyler Bass",
           "position": "K",
-          "team": "LV",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -1147,10 +1181,10 @@
           "status": "Active"
         },
         {
-          "player_id": "6083",
-          "name": "Matt Gay",
+          "player_id": "7042",
+          "name": "Tyler Bass",
           "position": "K",
-          "team": "LV",
+          "team": "BUF",
           "status": "Active"
         },
         {
@@ -2529,5 +2563,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-20T03:00:50.239Z"
+  "published_at": "2026-11-20T13:00:50.228Z"
 }
