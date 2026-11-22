@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-22T17:00:28.896Z",
+  "generated_at": "2026-11-22T18:00:28.771Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -317,6 +317,14 @@
           "injury_status": null
         },
         {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "13286",
           "name": "Jadarian Price",
           "position": "RB",
@@ -353,14 +361,6 @@
           "name": "Chris Godwin Jr.",
           "position": "WR",
           "team": "TB",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE",
           "status": "Active",
           "injury_status": null
         },
@@ -761,6 +761,14 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "5906",
+          "name": "Dawson Knox",
+          "position": "TE",
+          "team": "BUF",
           "status": "Active",
           "injury_status": null
         },
@@ -1261,6 +1269,14 @@
           "injury_status": null
         },
         {
+          "player_id": "12540",
+          "name": "Chimere Dike",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "13305",
           "name": "Mike Washington Jr.",
           "position": "RB",
@@ -1323,14 +1339,6 @@
           "team": "JAX",
           "status": "Active",
           "injury_status": null
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR",
-          "status": "Inactive",
-          "injury_status": "IR"
         },
         {
           "player_id": "BUF",
@@ -1623,5 +1631,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-22T17:00:28.896Z"
+  "published_at": "2026-11-22T18:00:28.771Z"
 }
