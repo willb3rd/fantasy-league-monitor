@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-22T21:00:30.667Z",
+  "generated_at": "2026-11-22T22:00:30.775Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -602,7 +602,7 @@
           "position": "RB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4046",
@@ -730,7 +730,7 @@
           "position": "WR",
           "team": "CAR",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11792",
@@ -1631,5 +1631,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-22T21:00:28.601Z"
+  "published_at": "2026-11-22T22:00:28.823Z"
 }
