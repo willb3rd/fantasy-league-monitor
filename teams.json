@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-23T14:00:43.856Z",
+  "generated_at": "2026-11-23T22:00:44.112Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -57,8 +57,8 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "status": "Inactive",
-          "injury_status": "IR"
+          "status": "Active",
+          "injury_status": null
         },
         {
           "player_id": "3451",
@@ -1631,5 +1631,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-23T14:00:41.774Z"
+  "published_at": "2026-11-23T22:00:41.730Z"
 }
