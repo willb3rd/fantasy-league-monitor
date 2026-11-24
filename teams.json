@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-24T01:00:43.653Z",
+  "generated_at": "2026-11-24T06:00:43.424Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -10,7 +10,7 @@
       "roster_id": 1,
       "team_name": "Hurts Donit?",
       "display_name": "ApeArms",
-      "waiver_position": 3,
+      "waiver_position": 2,
       "players": [
         {
           "player_id": "10219",
@@ -146,7 +146,7 @@
       "roster_id": 2,
       "team_name": "Dicker? I barely know her",
       "display_name": "Hellsarmorer",
-      "waiver_position": 2,
+      "waiver_position": 3,
       "players": [
         {
           "player_id": "11566",
@@ -282,7 +282,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 10,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10859",
@@ -954,7 +954,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10229",
@@ -1226,7 +1226,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 12,
+      "waiver_position": 7,
       "players": [
         {
           "player_id": "10218",
@@ -1362,7 +1362,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 8,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "11533",
@@ -1498,7 +1498,7 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 7,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "11632",
@@ -1631,5 +1631,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-24T01:00:41.748Z"
+  "published_at": "2026-11-24T06:00:41.713Z"
 }
