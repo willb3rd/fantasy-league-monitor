@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-25T22:00:43.008Z",
+  "generated_at": "2026-11-25T23:00:41.224Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -976,7 +976,7 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12526",
@@ -1174,7 +1174,7 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5045",
@@ -2956,7 +2956,7 @@
           "position": "RB",
           "team": "DEN",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Sus"
         },
         {
           "player_id": "8146",
@@ -2998,7 +2998,7 @@
           "position": "RB",
           "team": "DEN",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Sus"
         },
         {
           "player_id": "4034",
@@ -3269,18 +3269,18 @@
           "injury_status": null
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "TB",
+          "team": "KC",
           "status": "Active",
           "injury_status": null
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CHI",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null
         },
@@ -3301,10 +3301,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG",
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
           "status": "Active",
           "injury_status": null
         },
@@ -3328,10 +3328,10 @@
       "reserve": [],
       "bench": [
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC",
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null
         },
@@ -3572,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-25T22:00:43.008Z"
+  "published_at": "2026-11-25T23:00:41.224Z"
 }
