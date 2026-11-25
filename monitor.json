@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-25T11:00:44.801Z",
+  "generated_at": "2026-11-25T13:00:43.888Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -809,18 +809,18 @@
           "injury_status": null
         },
         {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "ARI",
+          "team": "LAR",
           "status": "Active",
           "injury_status": null
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "position": "WR",
-          "team": "TB",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null
         },
@@ -841,12 +841,12 @@
           "injury_status": null
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11539",
@@ -885,10 +885,10 @@
           "injury_status": "Out"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null
         },
@@ -901,6 +901,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "8110",
           "name": "Jake Ferguson",
           "position": "TE",
@@ -909,18 +917,10 @@
           "injury_status": "Doubtful"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "8122",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA",
+          "team": "ARI",
           "status": "Active",
           "injury_status": null
         }
@@ -3285,10 +3285,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "NYG",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null
         },
@@ -3301,10 +3301,10 @@
           "injury_status": null
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CIN",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null
         },
@@ -3572,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-25T11:00:44.801Z"
+  "published_at": "2026-11-25T13:00:43.888Z"
 }
