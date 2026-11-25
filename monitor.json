@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-25T09:00:45.320Z",
+  "generated_at": "2026-11-25T11:00:44.801Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,11 +23,37 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 2,
-  "latest_transaction_id": "1431231328581320719",
-  "latest_transaction_created": 1795594649027,
-  "latest_completed_transaction_id": "1431231328581320719",
+  "transaction_count": 3,
+  "latest_transaction_id": "1431259457731452928",
+  "latest_transaction_created": 1795601355540,
+  "latest_completed_transaction_id": "1431259457731452928",
   "transactions": [
+    {
+      "transaction_id": "1431259457731452928",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795601355540,
+      "status_updated": 1795601355540,
+      "creator_id": "997588269191708672",
+      "creator_team": "Jahmyr Force One",
+      "roster_ids": [
+        9
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 9
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1431231328581320719",
       "type": "free_agent",
@@ -2293,14 +2319,6 @@
           "injury_status": null
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -2423,6 +2441,14 @@
           "injury_status": null
         },
         {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "8155",
           "name": "Breece Hall",
           "position": "RB",
@@ -2431,10 +2457,18 @@
           "injury_status": null
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "TEN",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE",
           "status": "Active",
           "injury_status": null
         },
@@ -2447,10 +2481,10 @@
           "injury_status": null
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null
         },
@@ -2499,10 +2533,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "BUF",
+          "team": "TEN",
           "status": "Active",
           "injury_status": null
         },
@@ -2523,34 +2557,10 @@
           "injury_status": null
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "7588",
-          "name": "Javonte Williams",
-          "position": "RB",
-          "team": "DAL",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE",
+          "team": "SF",
           "status": "Active",
           "injury_status": null
         }
@@ -3503,7 +3513,6 @@
     "11625": 3,
     "11632": 12,
     "11635": 10,
-    "11637": 9,
     "11646": 6,
     "11783": 4,
     "11786": 4,
@@ -3563,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-25T09:00:45.320Z"
+  "published_at": "2026-11-25T11:00:44.801Z"
 }
