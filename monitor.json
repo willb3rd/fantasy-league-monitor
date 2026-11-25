@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-25T13:00:43.888Z",
+  "generated_at": "2026-11-25T18:00:42.905Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -772,7 +772,7 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "9488",
@@ -841,12 +841,12 @@
           "injury_status": null
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "position": "RB",
-          "team": "KC",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11539",
@@ -885,14 +885,6 @@
           "injury_status": "Out"
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "13286",
           "name": "Jadarian Price",
           "position": "RB",
@@ -923,6 +915,14 @@
           "team": "ARI",
           "status": "Active",
           "injury_status": null
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": "Out"
         }
       ],
       "lineup_verified": true,
@@ -1889,10 +1889,10 @@
       ],
       "starters": [
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
           "position": "QB",
-          "team": "NO",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null
         },
@@ -1929,12 +1929,12 @@
           "injury_status": null
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
-          "team": "NO",
+          "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12514",
@@ -1973,20 +1973,20 @@
       ],
       "bench": [
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
+          "player_id": "12545",
+          "name": "Tyler Shough",
           "position": "QB",
-          "team": "MIN",
+          "team": "NO",
           "status": "Active",
           "injury_status": null
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
+          "player_id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "ATL",
+          "team": "NO",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8134",
@@ -3572,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-25T13:00:43.888Z"
+  "published_at": "2026-11-25T18:00:42.905Z"
 }
