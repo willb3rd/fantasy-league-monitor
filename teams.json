@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-11-24T06:00:43.424Z",
+  "generated_at": "2026-11-25T09:00:47.518Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
-  "week": "11",
+  "week": "12",
   "teams": [
     {
       "roster_id": 1,
@@ -12,14 +12,6 @@
       "display_name": "ApeArms",
       "waiver_position": 2,
       "players": [
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX",
-          "status": "Active",
-          "injury_status": null
-        },
         {
           "player_id": "11563",
           "name": "Bo Nix",
@@ -34,7 +26,7 @@
           "position": "TE",
           "team": "LV",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11610",
@@ -98,7 +90,7 @@
           "position": "RB",
           "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8210",
@@ -210,7 +202,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5947",
@@ -234,7 +226,7 @@
           "position": "WR",
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8137",
@@ -282,7 +274,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "10859",
@@ -290,7 +282,7 @@
           "position": "TE",
           "team": "DET",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11539",
@@ -378,7 +370,7 @@
           "position": "TE",
           "team": "DAL",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "8122",
@@ -394,7 +386,7 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9488",
@@ -426,7 +418,7 @@
           "position": "RB",
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "11783",
@@ -442,7 +434,7 @@
           "position": "K",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12490",
@@ -490,7 +482,7 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4984",
@@ -554,7 +546,7 @@
       "roster_id": 5,
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "12474",
@@ -562,7 +554,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12517",
@@ -602,7 +594,7 @@
           "position": "RB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4046",
@@ -698,7 +690,7 @@
           "position": "TE",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11565",
@@ -730,7 +722,7 @@
           "position": "WR",
           "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11792",
@@ -746,7 +738,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13346",
@@ -754,7 +746,7 @@
           "position": "WR",
           "team": "CLE",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4866",
@@ -762,7 +754,7 @@
           "position": "RB",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5906",
@@ -810,7 +802,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "MIN",
@@ -954,7 +946,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10229",
@@ -1109,14 +1101,6 @@
           "injury_status": null
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "11637",
           "name": "Keon Coleman",
           "position": "WR",
@@ -1129,14 +1113,6 @@
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "position": "WR",
-          "team": "CHI",
           "status": "Active",
           "injury_status": null
         },
@@ -1173,6 +1149,14 @@
           "injury_status": "IR"
         },
         {
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "5119",
           "name": "Jason Sanders",
           "position": "K",
@@ -1185,6 +1169,22 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
           "status": "Active",
           "injury_status": null
         },
@@ -1226,7 +1226,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 7,
+      "waiver_position": 12,
       "players": [
         {
           "player_id": "10218",
@@ -1249,6 +1249,14 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "12483",
+          "name": "Jack Bech",
+          "position": "WR",
+          "team": "LV",
           "status": "Active",
           "injury_status": null
         },
@@ -1283,14 +1291,6 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null
-        },
-        {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": "Out"
         },
         {
           "player_id": "1945",
@@ -1362,7 +1362,7 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "11533",
@@ -1378,7 +1378,7 @@
           "position": "RB",
           "team": "NO",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "11834",
@@ -1442,7 +1442,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5859",
@@ -1450,7 +1450,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "6770",
@@ -1466,7 +1466,7 @@
           "position": "RB",
           "team": "DEN",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "8146",
@@ -1498,13 +1498,29 @@
       "roster_id": 12,
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "players": [
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null
+        },
         {
           "player_id": "11632",
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null
         },
@@ -1525,34 +1541,18 @@
           "injury_status": null
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "5846",
           "name": "DK Metcalf",
           "position": "WR",
           "team": "PIT",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
           "status": "Active",
           "injury_status": null
         },
@@ -1577,22 +1577,6 @@
           "name": "Jaylen Waddle",
           "position": "WR",
           "team": "DEN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "7588",
-          "name": "Javonte Williams",
-          "position": "RB",
-          "team": "DAL",
           "status": "Active",
           "injury_status": null
         },
@@ -1627,9 +1611,17 @@
           "team": "KC",
           "status": "Active",
           "injury_status": null
+        },
+        {
+          "player_id": "WAS",
+          "name": "WAS DST",
+          "position": "DEF",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null
         }
       ]
     }
   ],
-  "published_at": "2026-11-24T06:00:41.713Z"
+  "published_at": "2026-11-25T09:00:45.320Z"
 }
