@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T17:00:16.670Z",
+  "generated_at": "2026-11-26T19:00:16.640Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,11 +23,37 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 6,
-  "latest_transaction_id": "1431722723976957952",
-  "latest_transaction_created": 1795711806819,
-  "latest_completed_transaction_id": "1431722723976957952",
+  "transaction_count": 7,
+  "latest_transaction_id": "1431749124201385984",
+  "latest_transaction_created": 1795718101123,
+  "latest_completed_transaction_id": "1431749124201385984",
   "transactions": [
+    {
+      "transaction_id": "1431749124201385984",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795718101123,
+      "status_updated": 1795718101123,
+      "creator_id": "1032429157571096576",
+      "creator_team": "I didn’t hear no bell",
+      "roster_ids": [
+        6
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5906",
+          "name": "Dawson Knox",
+          "position": "TE",
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 6
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1431722723976957952",
       "type": "free_agent",
@@ -1326,7 +1352,7 @@
           "position": "TE",
           "team": "CHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12718",
@@ -1488,7 +1514,7 @@
           "position": "TE",
           "team": "CHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7564",
@@ -1661,14 +1687,6 @@
           "injury_status": null
         },
         {
-          "player_id": "5906",
-          "name": "Dawson Knox",
-          "position": "TE",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "6794",
           "name": "Justin Jefferson",
           "position": "WR",
@@ -1759,12 +1777,12 @@
           "injury_status": null
         },
         {
-          "player_id": "5906",
-          "name": "Dawson Knox",
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11620",
@@ -1791,16 +1809,7 @@
           "injury_status": null
         }
       ],
-      "reserve": [
-        {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": "Questionable"
-        }
-      ],
+      "reserve": [],
       "bench": [
         {
           "player_id": "11565",
@@ -3532,7 +3541,6 @@
     "5859": 11,
     "5872": 9,
     "5892": 10,
-    "5906": 6,
     "5947": 2,
     "5967": 8,
     "6130": 4,
@@ -3687,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T17:00:16.670Z"
+  "published_at": "2026-11-26T19:00:16.640Z"
 }
