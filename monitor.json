@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T21:00:16.627Z",
+  "generated_at": "2026-11-26T22:00:16.612Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1991,7 +1991,7 @@
           "position": "WR",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "HOU",
@@ -2041,7 +2041,7 @@
           "position": "WR",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -2439,7 +2439,7 @@
           "position": "QB",
           "team": "CHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13279",
@@ -2653,7 +2653,7 @@
           "position": "QB",
           "team": "CHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13279",
@@ -3116,20 +3116,20 @@
           "injury_status": null
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": "Sus"
-        },
-        {
           "player_id": "4034",
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
           "status": "Active",
           "injury_status": null
+        },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active",
+          "injury_status": "Sus"
         },
         {
           "player_id": "13281",
@@ -3156,10 +3156,10 @@
           "injury_status": null
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "HOU",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null
         },
@@ -3224,20 +3224,20 @@
           "injury_status": "IR"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "5859",
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
           "status": "Active",
           "injury_status": "Doubtful"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null
         }
       ],
       "lineup_verified": true,
@@ -3695,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T21:00:16.627Z"
+  "published_at": "2026-11-26T22:00:16.612Z"
 }
