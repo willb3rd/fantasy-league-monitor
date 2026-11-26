@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T13:00:16.634Z",
+  "generated_at": "2026-11-26T17:00:16.670Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,11 +23,73 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 4,
-  "latest_transaction_id": "1431656551466160128",
-  "latest_transaction_created": 1795696030063,
-  "latest_completed_transaction_id": "1431656551466160128",
+  "transaction_count": 6,
+  "latest_transaction_id": "1431722723976957952",
+  "latest_transaction_created": 1795711806819,
+  "latest_completed_transaction_id": "1431722723976957952",
   "transactions": [
+    {
+      "transaction_id": "1431722723976957952",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795711806819,
+      "status_updated": 1795711806819,
+      "creator_id": "1256653358719053824",
+      "creator_team": "Chuba Chuba Choo Choo",
+      "roster_ids": [
+        7
+      ],
+      "adds": [
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 7
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1431721332365611008",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795711475033,
+      "status_updated": 1795711475033,
+      "creator_id": "859001230779871232",
+      "creator_team": "Diamond Dawgz",
+      "roster_ids": [
+        8
+      ],
+      "adds": [
+        {
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 8
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1431656551466160128",
       "type": "free_agent",
@@ -1843,6 +1905,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "7002",
           "name": "Juwan Johnson",
           "position": "TE",
@@ -2017,6 +2087,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "7002",
           "name": "Juwan Johnson",
           "position": "TE",
@@ -2143,14 +2221,6 @@
           "injury_status": null
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Inactive",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "8131",
           "name": "Isaiah Likely",
           "position": "TE",
@@ -2179,6 +2249,14 @@
           "name": "Bryce Young",
           "position": "QB",
           "team": "CAR",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND",
           "status": "Active",
           "injury_status": null
         },
@@ -2309,18 +2387,18 @@
           "injury_status": null
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Inactive",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "8132",
           "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND",
           "status": "Active",
           "injury_status": null
         }
@@ -2509,6 +2587,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -2581,14 +2667,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
           "status": "Active",
           "injury_status": null
         },
@@ -3435,6 +3513,7 @@
     "4037": 3,
     "4046": 5,
     "4137": 9,
+    "4147": 7,
     "4199": 9,
     "4217": 11,
     "4663": 5,
@@ -3467,7 +3546,6 @@
     "6804": 1,
     "6806": 11,
     "6813": 6,
-    "6819": 8,
     "7002": 7,
     "7021": 6,
     "7042": 5,
@@ -3512,6 +3590,7 @@
     "9221": 8,
     "9224": 2,
     "9228": 8,
+    "9229": 8,
     "9480": 1,
     "9482": 10,
     "9484": 12,
@@ -3608,5 +3687,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T13:00:16.634Z"
+  "published_at": "2026-11-26T17:00:16.670Z"
 }
