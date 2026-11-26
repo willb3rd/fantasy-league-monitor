@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T22:00:16.612Z",
+  "generated_at": "2026-11-26T23:00:16.793Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -572,7 +572,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5947",
@@ -686,7 +686,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9224",
@@ -1100,7 +1100,7 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12526",
@@ -1298,7 +1298,7 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5045",
@@ -1684,7 +1684,7 @@
           "position": "RB",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6794",
@@ -1758,7 +1758,7 @@
           "position": "RB",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11646",
@@ -3695,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T22:00:16.612Z"
+  "published_at": "2026-11-26T23:00:16.793Z"
 }
