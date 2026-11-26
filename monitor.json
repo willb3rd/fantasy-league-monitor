@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T11:00:16.613Z",
+  "generated_at": "2026-11-26T13:00:16.634Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,11 +23,47 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 3,
-  "latest_transaction_id": "1431259457731452928",
-  "latest_transaction_created": 1795601355540,
-  "latest_completed_transaction_id": "1431259457731452928",
+  "transaction_count": 4,
+  "latest_transaction_id": "1431656551466160128",
+  "latest_transaction_created": 1795696030063,
+  "latest_completed_transaction_id": "1431656551466160128",
   "transactions": [
+    {
+      "transaction_id": "1431656551466160128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795696030063,
+      "status_updated": 1795696030063,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "WAS",
+          "name": "WAS DST",
+          "position": "DEF",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 12
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1431259457731452928",
       "type": "free_agent",
@@ -3147,6 +3183,14 @@
           "injury_status": null
         },
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "12519",
           "name": "Luther Burden III",
           "position": "WR",
@@ -3239,14 +3283,6 @@
           "name": "KC DST",
           "position": "DEF",
           "team": "KC",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "WAS",
-          "name": "WAS DST",
-          "position": "DEF",
-          "team": "WAS",
           "status": "Active",
           "injury_status": null
         }
@@ -3317,16 +3353,24 @@
           "injury_status": null
         },
         {
-          "player_id": "WAS",
-          "name": "WAS DST",
+          "player_id": "KC",
+          "name": "KC DST",
           "position": "DEF",
-          "team": "WAS",
+          "team": "KC",
           "status": "Active",
           "injury_status": null
         }
       ],
       "reserve": [],
       "bench": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null
+        },
         {
           "player_id": "12519",
           "name": "Luther Burden III",
@@ -3364,14 +3408,6 @@
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "KC",
-          "name": "KC DST",
-          "position": "DEF",
-          "team": "KC",
           "status": "Active",
           "injury_status": null
         }
@@ -3520,6 +3556,7 @@
     "11792": 6,
     "11834": 11,
     "12185": 8,
+    "12469": 12,
     "12474": 5,
     "12481": 2,
     "12483": 10,
@@ -3569,8 +3606,7 @@
     "BUF": 10,
     "SEA": 10,
     "TB": 11,
-    "KC": 12,
-    "WAS": 12
+    "KC": 12
   },
-  "published_at": "2026-11-26T11:00:16.613Z"
+  "published_at": "2026-11-26T13:00:16.634Z"
 }
