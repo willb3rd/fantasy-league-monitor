@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T19:00:16.640Z",
+  "generated_at": "2026-11-26T20:00:16.672Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -108,8 +108,8 @@
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "roster_id": 8
         }
       ],
@@ -1352,7 +1352,7 @@
           "position": "TE",
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "12718",
@@ -1514,7 +1514,7 @@
           "position": "TE",
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "7564",
@@ -3695,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T19:00:16.640Z"
+  "published_at": "2026-11-26T20:00:16.672Z"
 }
