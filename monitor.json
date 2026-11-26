@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T04:00:41.005Z",
+  "generated_at": "2026-11-26T11:00:16.613Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -658,7 +658,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -934,7 +934,7 @@
       "owner_id": "997584125194194944",
       "team_name": "CommOnEverybody",
       "display_name": "ScreamQuietly69",
-      "waiver_position": 6,
+      "waiver_position": 5,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1210,7 +1210,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2022,7 +2022,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2298,7 +2298,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 5,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2315,14 +2315,6 @@
           "name": "Caleb Williams",
           "position": "QB",
           "team": "CHI",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND",
           "status": "Active",
           "injury_status": null
         },
@@ -2363,6 +2355,14 @@
           "name": "Aaron Jones Sr.",
           "position": "RB",
           "team": "MIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null
         },
@@ -2473,14 +2473,6 @@
           "injury_status": null
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -2557,6 +2549,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
@@ -2574,7 +2574,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2850,7 +2850,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -3126,7 +3126,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -3406,6 +3406,7 @@
     "4881": 8,
     "4983": 4,
     "4984": 4,
+    "4993": 9,
     "5012": 2,
     "5022": 2,
     "5045": 4,
@@ -3531,7 +3532,6 @@
     "12512": 10,
     "12514": 7,
     "12517": 5,
-    "12518": 9,
     "12519": 12,
     "12526": 4,
     "12527": 4,
@@ -3572,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-26T04:00:41.005Z"
+  "published_at": "2026-11-26T11:00:16.613Z"
 }
