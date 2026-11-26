@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T13:00:18.862Z",
+  "generated_at": "2026-11-26T17:00:18.978Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -861,6 +861,14 @@
           "injury_status": null
         },
         {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "7002",
           "name": "Juwan Johnson",
           "position": "TE",
@@ -1029,14 +1037,6 @@
           "injury_status": null
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Inactive",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "8131",
           "name": "Isaiah Likely",
           "position": "TE",
@@ -1065,6 +1065,14 @@
           "name": "Bryce Young",
           "position": "QB",
           "team": "CAR",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND",
           "status": "Active",
           "injury_status": null
         },
@@ -1615,5 +1623,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-26T13:00:16.634Z"
+  "published_at": "2026-11-26T17:00:16.670Z"
 }
