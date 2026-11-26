@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T20:00:16.672Z",
+  "generated_at": "2026-11-26T21:00:16.627Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1376,7 +1376,7 @@
           "position": "WR",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "3198",
@@ -1574,7 +1574,7 @@
           "position": "WR",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4663",
@@ -1737,12 +1737,12 @@
       ],
       "starters": [
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
           "position": "QB",
-          "team": "LAC",
+          "team": "NYG",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "6813",
@@ -1812,14 +1812,6 @@
       "reserve": [],
       "bench": [
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
-          "position": "QB",
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
@@ -1840,6 +1832,14 @@
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE",
+          "status": "Active",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC",
           "status": "Active",
           "injury_status": "Questionable"
         },
@@ -2811,7 +2811,7 @@
           "position": "WR",
           "team": "JAX",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "BUF",
@@ -2861,7 +2861,7 @@
           "position": "WR",
           "team": "JAX",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11635",
@@ -3695,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T20:00:16.672Z"
+  "published_at": "2026-11-26T21:00:16.627Z"
 }
