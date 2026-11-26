@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T00:00:41.956Z",
+  "generated_at": "2026-11-26T01:00:41.021Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2932,7 +2932,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "5859",
@@ -3064,7 +3064,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         }
       ],
       "bench": [
@@ -3572,5 +3572,5 @@
     "KC": 12,
     "WAS": 12
   },
-  "published_at": "2026-11-26T00:00:41.956Z"
+  "published_at": "2026-11-26T01:00:41.021Z"
 }
