@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T20:00:16.639Z",
+  "generated_at": "2026-11-27T21:00:16.647Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1760,7 +1760,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "MIN",
@@ -1893,7 +1893,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         }
       ],
       "lineup_verified": true,
@@ -3359,7 +3359,7 @@
           "position": "WR",
           "team": "CIN",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7523",
@@ -3449,7 +3449,7 @@
           "position": "WR",
           "team": "CIN",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9484",
@@ -3731,5 +3731,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-27T20:00:16.639Z"
+  "published_at": "2026-11-27T21:00:16.647Z"
 }
