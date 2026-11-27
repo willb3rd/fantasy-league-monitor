@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T23:00:16.793Z",
+  "generated_at": "2026-11-27T00:00:16.624Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -572,7 +572,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "5947",
@@ -686,7 +686,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "9224",
@@ -3695,5 +3695,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-26T23:00:16.793Z"
+  "published_at": "2026-11-27T00:00:16.624Z"
 }
