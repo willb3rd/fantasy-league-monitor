@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T03:00:16.637Z",
+  "generated_at": "2026-11-27T06:00:16.630Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,11 +23,47 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 7,
-  "latest_transaction_id": "1431749124201385984",
-  "latest_transaction_created": 1795718101123,
-  "latest_completed_transaction_id": "1431749124201385984",
+  "transaction_count": 8,
+  "latest_transaction_id": "1431797790387761152",
+  "latest_transaction_created": 1795729704047,
+  "latest_completed_transaction_id": "1431797790387761152",
   "transactions": [
+    {
+      "transaction_id": "1431797790387761152",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795729704047,
+      "status_updated": 1795756511223,
+      "creator_id": "997594557602701312",
+      "creator_team": "dwilliamson4",
+      "roster_ids": [
+        11
+      ],
+      "adds": [
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 11
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 11
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1431749124201385984",
       "type": "free_agent",
@@ -782,7 +818,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2145,7 +2181,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2421,7 +2457,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2697,7 +2733,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2973,23 +3009,23 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null
+        },
         {
           "player_id": "11533",
           "name": "Brandon Aubrey",
           "position": "K",
           "team": "DAL",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "11579",
-          "name": "Audric Estime",
-          "position": "RB",
-          "team": "NO",
           "status": "Active",
           "injury_status": null
         },
@@ -3192,10 +3228,10 @@
       ],
       "bench": [
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
           "position": "RB",
-          "team": "NO",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null
         },
@@ -3614,6 +3650,7 @@
     "9997": 7,
     "10213": 9,
     "10218": 10,
+    "10219": 11,
     "10229": 8,
     "10232": 10,
     "10236": 6,
@@ -3627,7 +3664,6 @@
     "11565": 6,
     "11566": 2,
     "11576": 8,
-    "11579": 11,
     "11584": 12,
     "11586": 3,
     "11604": 1,
@@ -3695,5 +3731,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-27T03:00:16.637Z"
+  "published_at": "2026-11-27T06:00:16.630Z"
 }
