@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T18:00:16.663Z",
+  "generated_at": "2026-11-27T19:00:16.639Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -1387,7 +1387,7 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out"
         },
         {
@@ -1549,7 +1549,7 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out"
         },
         {
@@ -3099,7 +3099,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "6770",
@@ -3265,7 +3265,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "9502",
@@ -3731,5 +3731,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-27T18:00:16.663Z"
+  "published_at": "2026-11-27T19:00:16.639Z"
 }
