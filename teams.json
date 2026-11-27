@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T16:00:18.664Z",
+  "generated_at": "2026-11-27T17:00:18.692Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -738,7 +738,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "13346",
@@ -1615,5 +1615,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-27T16:00:16.701Z"
+  "published_at": "2026-11-27T17:00:16.657Z"
 }
