@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T22:00:31.687Z",
+  "generated_at": "2026-11-27T23:00:32.111Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -666,7 +666,7 @@
           "position": "QB",
           "team": "SF",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "JAX",
@@ -770,7 +770,7 @@
           "position": "QB",
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "6813",
@@ -1615,5 +1615,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-27T22:00:29.718Z"
+  "published_at": "2026-11-27T23:00:29.690Z"
 }
