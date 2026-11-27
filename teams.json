@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T21:00:18.529Z",
+  "generated_at": "2026-11-27T22:00:31.687Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -210,7 +210,7 @@
           "position": "WR",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7839",
@@ -394,7 +394,7 @@
           "position": "WR",
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "DET",
@@ -442,7 +442,7 @@
           "position": "RB",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "12506",
@@ -554,7 +554,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12517",
@@ -594,7 +594,7 @@
           "position": "RB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4046",
@@ -1034,7 +1034,7 @@
           "position": "TE",
           "team": "NYG",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8132",
@@ -1615,5 +1615,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-27T21:00:16.647Z"
+  "published_at": "2026-11-27T22:00:29.718Z"
 }
