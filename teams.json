@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T03:00:18.836Z",
+  "generated_at": "2026-11-27T06:00:18.668Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -274,7 +274,7 @@
       "roster_id": 3,
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "player_id": "10859",
@@ -946,7 +946,7 @@
       "roster_id": 8,
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "player_id": "10229",
@@ -1082,7 +1082,7 @@
       "roster_id": 9,
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "player_id": "10213",
@@ -1218,7 +1218,7 @@
       "roster_id": 10,
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "player_id": "10218",
@@ -1354,21 +1354,21 @@
       "roster_id": 11,
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 8,
+      "waiver_position": 12,
       "players": [
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null
+        },
         {
           "player_id": "11533",
           "name": "Brandon Aubrey",
           "position": "K",
           "team": "DAL",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "11579",
-          "name": "Audric Estime",
-          "position": "RB",
-          "team": "NO",
           "status": "Active",
           "injury_status": null
         },
@@ -1615,5 +1615,5 @@
       ]
     }
   ],
-  "published_at": "2026-11-27T03:00:16.637Z"
+  "published_at": "2026-11-27T06:00:16.630Z"
 }
