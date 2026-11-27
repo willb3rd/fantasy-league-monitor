@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T06:00:16.630Z",
+  "generated_at": "2026-11-27T16:00:16.701Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -2847,7 +2847,7 @@
           "position": "WR",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "BUF",
@@ -2892,12 +2892,12 @@
           "injury_status": null
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "12483",
+          "name": "Jack Bech",
           "position": "WR",
-          "team": "JAX",
+          "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11635",
@@ -2960,14 +2960,6 @@
           "injury_status": null
         },
         {
-          "player_id": "12483",
-          "name": "Jack Bech",
-          "position": "WR",
-          "team": "LV",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "12540",
           "name": "Chimere Dike",
           "position": "WR",
@@ -2990,6 +2982,14 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": "Out"
         },
         {
           "player_id": "SEA",
@@ -3731,5 +3731,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-27T06:00:16.630Z"
+  "published_at": "2026-11-27T16:00:16.701Z"
 }
