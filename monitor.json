@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T23:00:29.690Z",
+  "generated_at": "2026-11-28T10:00:29.627Z",
   "league_id": "1374067474252701696",
   "league_name": "Inglourious Basterds 2026",
   "season": "2026",
@@ -23,7 +23,7 @@
     "Unowned players are NOT necessarily free agents; waiver clearance is not verified.",
     "Transaction history is limited to the selected week."
   ],
-  "transaction_count": 8,
+  "transaction_count": 9,
   "latest_transaction_id": "1431797790387761152",
   "latest_transaction_created": 1795729704047,
   "latest_completed_transaction_id": "1431797790387761152",
@@ -147,6 +147,42 @@
           "status": "Active",
           "injury_status": null,
           "roster_id": 8
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1431656757024808960",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795696079072,
+      "status_updated": 1795856721564,
+      "creator_id": "1328994047599071232",
+      "creator_team": "Love thy Nabers Flowers",
+      "roster_ids": [
+        12
+      ],
+      "adds": [
+        {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 12
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "roster_id": 12
         }
       ],
       "waiver_budget": [],
@@ -818,7 +854,7 @@
       "owner_id": "726913994950021120",
       "team_name": "America’s Tight End",
       "display_name": "ajpal1323",
-      "waiver_position": 8,
+      "waiver_position": 7,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -1370,7 +1406,7 @@
       "owner_id": "464852020482797568",
       "team_name": "GnomSayin",
       "display_name": "GnomeSayin69",
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2181,7 +2217,7 @@
       "owner_id": "859001230779871232",
       "team_name": "Diamond Dawgz",
       "display_name": "MarkRice92192",
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2457,7 +2493,7 @@
       "owner_id": "997588269191708672",
       "team_name": "Jahmyr Force One",
       "display_name": "ZynDaddyWebb",
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -2733,7 +2769,7 @@
       "owner_id": "997960054936584192",
       "team_name": "McLovin’ It",
       "display_name": "Cynniee",
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -3009,7 +3045,7 @@
       "owner_id": "997594557602701312",
       "team_name": "dwilliamson4",
       "display_name": "dwilliamson4",
-      "waiver_position": 12,
+      "waiver_position": 11,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -3285,7 +3321,7 @@
       "owner_id": "1328994047599071232",
       "team_name": "Love thy Nabers Flowers",
       "display_name": "willb3rd",
-      "waiver_position": 6,
+      "waiver_position": 12,
       "waiver_budget_used": 0,
       "total_moves": 0,
       "players": [
@@ -3306,10 +3342,10 @@
           "injury_status": null
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND",
           "status": "Active",
           "injury_status": null
         },
@@ -3487,10 +3523,10 @@
       "reserve": [],
       "bench": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND",
           "status": "Active",
           "injury_status": null
         },
@@ -3679,7 +3715,6 @@
     "11792": 6,
     "11834": 11,
     "12185": 8,
-    "12469": 12,
     "12474": 5,
     "12481": 2,
     "12483": 10,
@@ -3692,6 +3727,7 @@
     "12512": 10,
     "12514": 7,
     "12517": 5,
+    "12518": 12,
     "12519": 12,
     "12526": 4,
     "12527": 4,
@@ -3731,5 +3767,5 @@
     "TB": 11,
     "KC": 12
   },
-  "published_at": "2026-11-27T23:00:29.690Z"
+  "published_at": "2026-11-28T10:00:29.627Z"
 }
